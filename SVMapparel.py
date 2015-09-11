@@ -4,16 +4,6 @@ import re
 from sklearn.svm import LinearSVC
 from nltk.classify.scikitlearn import SklearnClassifier
 
-#def word_feats(words):
- #   return dict([(word, True) for word in words])
- 
-#negids = movie_reviews.fileids('neg')
-#posids = movie_reviews.fileids('pos')
- 
-#negfeats = [(word_feats(movie_reviews.words(fileids=[f])), 'neg') for f in negids]
-#posfeats = [(word_feats(movie_reviews.words(fileids=[f])), 'pos') for f in posids]
-
-
 tree_pos=ET.parse("C:\\Users\\notebook\\Desktop\\Python\\pos.xml")
 root_pos=tree_pos.getroot()
 posfeats=[]
@@ -81,9 +71,3 @@ print score/len(result)
 from sklearn.metrics import classification_report
 # getting a full report
 print classification_report(t_test_skl, result, labels=list(set(t_test_skl)),target_names=cls_set)
-
-#classifier = nltk.classify.SklearnClassifier(LinearSVC())
-#classifier.train(trainfeats)
-#classifier=nltk.classify.svm.SvmClassifier.train(trainfeats)
-#print 'accuracy:', nltk.classify.util.accuracy(classifier, testfeats)
-#classifier.show_most_informative_features()
