@@ -1,0 +1,21 @@
+({'saying': True, 'cheap': True, 'looks': True, 'its': True, 'fit': True, 'lining': True, 'Fred': True, 'to': True, 'only': True, 'excited': True, 'do': True, 'sued': True, 'D': True, 'very': True, 'material': True, 'not': True, 'now': True, 'like': True, 'leather': True, 'small': True, 'hard': True, 'are': True, 'little': True, 'really': True, 'for': True, 'pictures': True, 'Flare': True, 'however': True, 'base': True, 'put': True, 'by': True, 'card': True, 'extreme': True, 'about': True, 'of': True, 'credit': True, 'shipped': True, 'place': True, 'nylon': True, 'feel': True, 'Also': True, 'snug': True, 'slots': True, 'quality': True, "doesn't": True, 'use': True, "it's": True, 'there': True, 'fast': True, 'start': True, 'much': True, 'too': True, 'recommend': True, 'was': True, 'sort': True, 'that': True, 'but': True, 'part': True, 'with': True, 'duped': True, 'And': True, 'made': True, 'this': True, 'inside': True, 'smooth': True, 'friendly': True, 'wallet': True, 'my': True, 'and': True, 'have': True, 'is': True, 'it': True, 'cant': True, 'itself': True, 'want': True, 'in': True, 'You': True, 'seem': True, 'no': True, 'note': True, 'also': True, 'book': True, 'higher': True, 'product': True, 'I': True, 'problems': True, 'user': True, 'included': True, 'The': True, 'a': True, 'transaction': True, 'the': True, "that's": True}, 'neg')
+
+------------------------------------------------
+
+({'cute': True, 'all': True, 'because': True, 'feel': True, "It's": True, 'is': True, 'it': True, 'It': True, 'say': True, 'hassle': True, 'are': True, 'have': True, 'in': True, "I'm": True, 'containing': True, 'opened': True, 'etc': True, "it's": True, 'when': True, 'to': True, 'does': True, 'indeed': True, 'ripped': True, 'was': True, 'worth': True, 'product': True, 'that': True, 'I': True, 'listing': True, 'what': True, 'but': True, 'back': True, 'photos': True, 'job': True, 'not': True, 'The': True, 'disappointed': True, 'First': True, "wasn't": True, 'keeping': True, 'off': True, 'package': True, 'leather': True, 'of': True, 'iPod': True, '60ish': True, 'up': True, 'shipping': True, 'wallet': True, 'misleading': True, 'expecting': True, 'suede': True, 'lining': True, 'the': True, 'nylon': True, 'my': True, "isn't": True}, 'neg')
+
+------------------------------------------------
+
+train on 839 instances, test on 281 instances
+accuracy: 0.79359430605
+Most Informative Features
+                    send = True              neg : pos    =     13.7 : 1.0
+                returned = True              neg : pos    =     13.7 : 1.0
+            disappointed = True              neg : pos    =     12.2 : 1.0
+                 pleased = True              pos : neg    =     11.6 : 1.0
+                  return = True              neg : pos    =     11.6 : 1.0
+                 plastic = True              neg : pos    =     10.4 : 1.0
+                 perfect = True              pos : neg    =      9.2 : 1.0
+                  credit = True              neg : pos    =      8.4 : 1.0
+                   weeks = True              neg : pos    =      8.2 : 1.0
+                    easy = True              pos : neg    =      7.8 : 1.0
