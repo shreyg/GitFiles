@@ -3,15 +3,6 @@ from nltk.classify import NaiveBayesClassifier
 import xml.etree.ElementTree as ET 
 import re
 
-#def word_feats(words):
- #   return dict([(word, True) for word in words])
- 
-#negids = movie_reviews.fileids('neg')
-#posids = movie_reviews.fileids('pos')
- 
-#negfeats = [(word_feats(movie_reviews.words(fileids=[f])), 'neg') for f in negids]
-#posfeats = [(word_feats(movie_reviews.words(fileids=[f])), 'pos') for f in posids]
-
 tree_pos=ET.parse("C:\\Users\\notebook\\Desktop\\Python\\pos.xml")
 root_pos=tree_pos.getroot()
 posfeats=[]
@@ -46,10 +37,6 @@ for i in range(0,2):
 
 trainfeats = negfeats[:negcutoff] + posfeats[:poscutoff]
 testfeats = negfeats[negcutoff:] + posfeats[poscutoff:]
-#trainfeats=dict(negfeats.items()[:negcutoff])
-#trainfeats.update(dict(posfeats.items()[:poscutoff]))
-#testfeats=dict(posfeats.items()[negcutoff:])
-#testfeats.update(dict(posfeats.items()[poscutoff:]))
 
 print 'train on %d instances, test on %d instances' % (len(trainfeats), len(testfeats))
  
