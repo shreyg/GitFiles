@@ -10,13 +10,12 @@ import re
 import os
 import sys
 import codecs
-from nltk.corpus import wordnet as wn
 
-#try:
-#    from nltk.corpus import wordnet as wn
-#except ImportError:
-#    sys.stderr.write("Couldn't find an NLTK installation. To get it: http://www.nltk.org/.\n")
-#   sys.exit(2)
+try:
+    from nltk.corpus import wordnet as wn
+except ImportError:
+    sys.stderr.write("Couldn't find an NLTK installation. To get it: http://www.nltk.org/.\n")
+    sys.exit(2)
 
 ######################################################################
 
@@ -51,7 +50,7 @@ class SentiWordNetCorpusReader:
             pos, offset = vals
             synset = wn._synset_from_pos_and_offset(pos, offset)
             return SentiSynset(pos_score, neg_score, synset)
-        else:		
+        else:
             synset = wn.synset(vals[0])
             pos = synset.pos
             offset = synset.offset
@@ -63,8 +62,6 @@ class SentiWordNetCorpusReader:
 
     def senti_synsets(self, string, pos=None):
         sentis = []
-        print string
-        print type(string).__name__
         synset_list = wn.synsets(string, pos)
         for synset in synset_list:
             sentis.append(self.senti_synset(synset.name))
@@ -101,15 +98,16 @@ class SentiSynset:
 ######################################################################        
 
 if __name__ == "__main__":
-	"""
-	If run as
-	python sentiwordnet.py
-	and the file is in this directory, send all of the SentiSynSet
-	name, pos_score, neg_score trios to standard output.
-	"""
-	SWN_FILENAME = "SentiWordNet_3.0.0_20130122.txt"
-	if os.path.exists(SWN_FILENAME):
-		print "helooooooooo"
-		swn = SentiWordNetCorpusReader(SWN_FILENAME)
-		for sen_synset in swn.all_senti_synsets():
-			print sen_synset.synset.name, sen_synset.pos_score, sen_synset.neg_score
+    """
+    If run as
+
+    python sentiwordnet.py
+
+    and the file is in this directory, send all of the SentiSynSet
+    name, pos_score, neg_score trios to standard output.
+    """
+    SWN_FILENAME = "SentiWordNet_3.0.0_20100705.txt"
+    if os.path.exists(SWN_FILENAME):
+        swn = SentiWordNet(SWN_FILENAME)
+        for senti_synset in swn.all_senti_synsets():
+            print senti_synset.synset.name, senti_synset.pos_score, senti_synset.neg_score

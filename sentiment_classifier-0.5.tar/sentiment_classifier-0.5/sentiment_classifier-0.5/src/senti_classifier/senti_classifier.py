@@ -163,6 +163,7 @@ def disambiguateWordSenses(sentence, word):
            if (score > bestScore):
               bestScore = score
               result = synset
+   print result
    return result
 
 def SentiWordNet_to_pickle(swn):
@@ -204,6 +205,7 @@ bag_of_words = classify_polarity(bag_of_words)
 def polarity_scores(lines_list):
     scorer = defaultdict(list)
     #print senti_pickle
+    print "--------------"
     print type(synsets_scores).__name__
     iter = synsets_scores.iteritems()
     print iter.next()
