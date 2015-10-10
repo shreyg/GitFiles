@@ -18,7 +18,7 @@ import nltk
 import codecs
 from nltk.corpus import wordnet as wn
 import xml.etree.ElementTree as ET 
-from pywsd.lesk import simple_lesk
+#from pywsd.lesk import simple_lesk
 from pywsd.lesk import cosine_lesk
 
 
