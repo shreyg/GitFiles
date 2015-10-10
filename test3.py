@@ -222,6 +222,12 @@ class Tokenizer:
                     final_neg=0.0
                     lst=[]
                     newlst=[]
+                    #prev_overall=None
+                    #curr_overall=None
+                    stopwords=["a","across","am","an","and","any","are","as","at","be","been","being","but","by","can","could","did","do","does","each","for","from","had","has","have","in","into","is","isn't","it","it'd","it'll","it's","its","of","on","or","that","that's","thats","the","there","there's","theres","these","this","those","to","under","until","up","were","will","with","would"]
+                    intensifiers=["least",-3,"less",-1.5, "barely",-1.5,"hardly",-1.5,"almost",-1.5,"only",-0.5, "little",-0.5, "bit",-0.5, "slightly",-0.5, "marginally",-0.5, "relatively",-0.3, "mildly",-0.3, "moderately",-0.3, "somewhat",-0.3, "partially",-0.3, "sorta",-0.3, "kinda",-0.3, "fairly",-0.2, "pretty",-0.1, "rather",-0.05, "immediately",0.05, "quite",0.1,"perfectly",0.1,"consistently",0.1, "really",0.15,"clearly",0.15,"obviously",0.15,"certainly",0.15,"completely",0.15,"definitely",0.15,"absolutely",0.25,"highly",0.25,"very",0.25,"truly",0.25,"especially",0.25,"particularly",0.25,"significantly",0.25,"noticeably",0.25,"distinctively",0.25,"frequently",0.25,"awfully",0.25,"totally",0.25,"largely",0.25,"fully",0.25,"damn",0.25,"intensively",0.25,"downright",0.25,"entirely",0.3,"strongly",0.3,"remarkably",0.3,"majorly",0.3,"amazingly",0.3,"strikingly",0.3,"stunningly",0.3,"quintessentially",0.3,"unusually",0.3,"dramatically",0.3,"intensely",0.3,"extremely",0.35,"so",0.35,"incredibly",0.35,"terribly",0.35,"hugely",0.35, "immensely",0.35,"such",0.35,"unbelievably",0.4,"insanely",0.4,"outrageously",0.4,"radically",0.4, "exceptionally",0.4,"exceedingly",0.4 ,"way",0.4,"vastly",0.4,"deeply",0.4,"super",0.4,"profoundly",0.4,"universally",0.4,"abundantly",0.4,"infinitely",0.4,"enormously",0.4,"thoroughly",0.4,"passionately",0.4,"tremendously",0.4,"ridiculously",0.4,"obscenely",0.4, "extraordinarily", 0.5,"spectacularly",0.5, "phenomenally",0.5,"monumentally",0.5, "mind-bogglingly",0.5, "utterly",0.5, "more",-0.5, "most",1, "total",0.5,"monumental", 0.5, "great", 0.5,"huge",0.5, "tremendous",0.5, "complete",0.5, "absolute",0.5,"resounding",0.5, "massive", 0.5, "incredible", 0.5, "utter", 0.3, "clear", 0.3, "clearer", 0.2,"clearest", 0.5, "big", 0.3,"bigger",0.2,"biggest",0.5,"obvious",0.3,"serious", 0.3, "deep", 0.3, "deeper", 0.2,"deepest", 0.5,"considerable",0.3,"important",0.3,"extra",0.3,"major",0.3,"crucial",0.3,"high",0.3,"higher",0.2,"highest",0.5,"real",0.2,"true",0.2,"pure", 0.2, "definite", 0.2,"much",0.3,"small", -0.3, "smaller", -0.2,"smallest", -0.5, "minor",-0.3 ,"moderate", -0.3,"mild",-0.3,"slight",-0.5,"slightest", -0.9, "insignificant", -0.5,"inconsequential", -0.5, "low",-2,"lower",-1.5, "lowest", -3, "few",-2, "fewer",-1.5,"fewest",-3,"lot",0.3,"few",-0.3,"lots", 0.3]
+                    negators=["no","not","never","nowhere","nobody","none","nothing","isn’t","couldn’t","wouldn’t","shouldn’t","ain’t","doesn't","didn't"]
+                    negators=[i.decode('UTF-8') if isinstance(i,basestring) else i for i in negators]
                     tokenized = tok.tokenize(r1.text)
                     for s in tokenized:
                         obj,pos,pos_score,neg_score = tok.disambiguateWordSenses3(r1.text, s)
@@ -231,18 +237,63 @@ class Tokenizer:
                     print lst
                     print "======================================================================"
                     for item in lst:
-                        if item[1] < 0.9 and item[2]!= 'n':
+                        if item[1] < 0.9 and (item[0] not in stopwords) :
+                            #if prev_pos_score > prev_neg_score:
+                            #    prev_overall="pos"
+                            #else:
+                            #    prev_overall="neg"
+                            #if item[3] > item[4]:
+                            #    curr_overall="pos"
+                            #else:
+                            #    curr_overall="neg"
                             newlst.append((prev,prev_pos_score,prev_neg_score,item[0],item[3],item[4]))
                         prev=item[0]
                         prev_pos_score=item[3]
                         prev_neg_score=item[4]
                     print newlst
                     for x in newlst:
-                        final_pos += x[1] + x[4]
-                        final_neg += x[2] + x[5]
+                        if x[0] in intensifiers:
+                            val = intensifiers[intensifiers.index(x[0])+1]
+                            if x[4] > x[5]:  #x[0] is positive
+                                final_pos += x[4]*(1+val)
+                                final_neg +=x[5]
+                            elif x[4] < x[5]: #x[0] is negative
+                                final_pos += x[4]
+                                final_neg += x[5]*(1+val)
+                        elif x[0] in negators:
+                            if x[4] > x[5]: #x[0] is positive
+                                final_pos += x[4]-x[2]
+                                final_neg += x[5]+x[2]
+                            elif x[4] < x[5]: #x[0] is negative
+                                final_pos += x[4]+x[1]
+                                final_neg += x[5]-x[1]
+                        else:
+                            final_pos += x[1]+x[4]
+                            final_neg += x[2]+x[5]
+                        #if x[3] == "pos" and x[7] == "pos":
+                        #   final_pos += x[1] + x[5]
+                        #    final_neg += x[2] + x[6]
+                        #elif x[3] == "neg" and x[7] == "neg":
+                        #    final_pos += x[1] + x[5]
+                        #    final_neg += x[2] + x[6]
+                        #elif x[3] == "neg" and x[7] == "pos":
+                        #    if x[2] > x[5]:
+                        #        final_pos += x[1] - x[5]
+                        #        final_neg += x[2] - x[6]
+                        #    else:
+                        #        final_pos += x[5] - x[1]
+                        #        final_neg += x[6] - x[2]
+                        #elif x[3] == "pos" and x[7] == "neg":
+                        #    if x[1] > x[6]:
+                        #        final_pos += x[1] - x[5]
+                        #        final_neg += x[2] - x[6]
+                        #    else:
+                        #        final_pos += x[5] - x[1]
+                        #        final_neg += x[6] - x[2]
                     print "\n"
                     print "---------------------------"
                     print final_pos,final_neg
+                    final_neg = final_neg*1.1
                     if final_pos > final_neg:
                         score +=1.0
         return score,len
@@ -255,8 +306,8 @@ if __name__ == '__main__':
     #   u"HTML entities &amp; other Web oddities can be an &aacute;cute <em class='grumpy'>pain</em> >:(",
     #    u"It's perhaps noteworthy that phone numbers like +1 (800) 123-4567, (800) 123-4567, and 123-4567 are treated as words despite their whitespace."
     #    )
-    final_pos,pos_len=tok.calculate_score2("C:\\Users\\notebook\\Desktop\\Python\\pos.xml")
-    final_neg,neg_len=tok.calculate_score2("C:\\Users\\notebook\\Desktop\\Python\\neg.xml")
+    final_pos,pos_len=tok.calculate_score2("C:\\Users\\notebook\\Desktop\\Python\\pos_small.xml")
+    final_neg,neg_len=tok.calculate_score2("C:\\Users\\notebook\\Desktop\\Python\\neg_small.xml")
     final_neg = neg_len-final_neg
     accuracy = float((final_pos+final_neg)/(pos_len+neg_len))
     print "****************************************************************************"
