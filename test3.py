@@ -1,9 +1,15 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
 
+
 # ************************************************************************
 # Tokenization-Chris Potts tokenizer
 # Feature extraction = WSD(pywsd library using simple_lesk method)
+#Additions:
+#1. Intensifiers, Diminishers, Negators
+#2. Negators in sentiwordnet lexicon -> imcorporate their scores
+#3. negators not in sentiwordnet lexicon -> negate the signs 
+#4 convert 's' pos to 'a' for matching in sentiwordnet lexicon
 #*************************************************************************
 
 import re
@@ -13,6 +19,7 @@ import codecs
 from nltk.corpus import wordnet as wn
 import xml.etree.ElementTree as ET 
 from pywsd.lesk import simple_lesk
+from pywsd.lesk import cosine_lesk
 
 
 ######################################################################
@@ -107,6 +114,9 @@ class Tokenizer:
         self.preserve_case = preserve_case
         self.db = {}
         self.parse_src_file()
+        print self.db[(u'a', 886448)]
+        #for (k,v) in self.db.iteritems():
+        #    print (k,v)
 
     def tokenize(self, s):
         """
@@ -186,9 +196,15 @@ class Tokenizer:
            # print i
                                        
     def disambiguateWordSenses3(self,sentence,word):        #disambiguation with simple_lesk
-        result=simple_lesk(sentence,word)
+        #result=simple_lesk(sentence,word)
+        result=cosine_lesk(sentence,word)
         if result:
             pos = result.pos()
+            if (pos == u's'):
+                pos = u'a'
+            if pos not in [u"a",u"n",u"v",u"r"]:
+                print pos,word,
+                5/0
             offset = result.offset()
             pos_score=0.0
             neg_score=0.0
@@ -254,19 +270,25 @@ class Tokenizer:
                     for x in newlst:
                         if x[0] in intensifiers:
                             val = intensifiers[intensifiers.index(x[0])+1]
-                            if x[4] > x[5]:  #x[0] is positive
+                            if x[4] > x[5]:  #x[3] is positive
                                 final_pos += x[4]*(1+val)
                                 final_neg +=x[5]
-                            elif x[4] < x[5]: #x[0] is negative
+                            elif x[4] < x[5]: #x[3] is negative
                                 final_pos += x[4]
                                 final_neg += x[5]*(1+val)
                         elif x[0] in negators:
-                            if x[4] > x[5]: #x[0] is positive
-                                final_pos += x[4]-x[2]
-                                final_neg += x[5]+x[2]
-                            elif x[4] < x[5]: #x[0] is negative
-                                final_pos += x[4]+x[1]
-                                final_neg += x[5]-x[1]
+                            if x[1] == 0 and x[2] == 0:
+                                if x[4] > x[5]:   #x[3] is positive
+                                    final_pos += x[4]*-1
+                                elif x[4] < x[5]:  #x[0] is negative
+                                    final_neg += x[5]*-1
+                            else:
+                                if x[4] > x[5]: #x[3] is positive
+                                    final_pos += x[4]-x[2]
+                                    final_neg += x[5]+x[2]
+                                elif x[4] < x[5]: #x[3] is negative
+                                    final_pos += x[4]+x[1]
+                                    final_neg += x[5]-x[1]
                         else:
                             final_pos += x[1]+x[4]
                             final_neg += x[2]+x[5]
@@ -293,7 +315,7 @@ class Tokenizer:
                     print "\n"
                     print "---------------------------"
                     print final_pos,final_neg
-                    final_neg = final_neg*1.1
+                    #final_neg = final_neg*1.1
                     if final_pos > final_neg:
                         score +=1.0
         return score,len
