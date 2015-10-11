@@ -4,7 +4,7 @@ import re
 from sklearn.svm import LinearSVC
 from nltk.classify.scikitlearn import SklearnClassifier
 
-tree_pos=ET.parse("C:\\Users\\notebook\\Desktop\\Python\\pos.xml")
+tree_pos=ET.parse("C:\\Users\\notebook\\Desktop\\Python\\GITFiles\\pos_small_electronics.xml")
 root_pos=tree_pos.getroot()
 posfeats=[]
 for child in root_pos:
@@ -16,7 +16,7 @@ for child in root_pos:
 			tup_pos=(pos_dict,'pos')
 			posfeats.append(tup_pos)
  
-tree_neg=ET.parse("C:\\Users\\notebook\\Desktop\\Python\\neg.xml")
+tree_neg=ET.parse("C:\\Users\\notebook\\Desktop\\Python\\GITFiles\\neg_small_electronics.xml")
 root_neg=tree_neg.getroot()
 negfeats=[]
 for child in root_neg:

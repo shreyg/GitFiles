@@ -1,0 +1,1134 @@
+(0.5, 0.125)
+======================================================================
+
+I received my Kingston 256MB SD card just as advertised.
+The unit came in the mail exactly 2 days after I
+ordered. Worked perfectly and I'm very satisfied
+
+i n 6832033
+received v 686879
+kingston n 8827853
+sd n 9138935
+card n 6507941
+just a 1369663
+as n 15089803
+advertised v 975902
+unit n 9465459
+came v 723349
+in n 14641223
+mail n 6275634
+exactly r 368287
+2 n 13743269
+days n 15208333
+after a 1033542
+i n 6832033
+ordered v 2511551
+worked v 2410855
+perfectly r 9650
+very a 1839317
+satisfied a 589344
+======================================================================
+[(u'i', 1.0, u'n', 0.0, 0.0), (u'received', 0.75, u'v', 0.25, 0.0), (u'my', 1.0, None, 0.0, 0.0), (u'kingston', 1.0, u'n', 0.0, 0.0), (u'256mb', 1.0, None, 0.0, 0.0), (u'sd', 1.0, u'n', 0.0, 0.0), (u'card', 1.0, u'n', 0.0, 0.0), (u'just', 0.375, u'a', 0.625, 0.0), (u'as', 0.625, u'n', 0.125, 0.25), (u'advertised', 1.0, u'v', 0.0, 0.0), (u'.', 1.0, None, 0.0, 0.0), (u'the', 1.0, None, 0.0, 0.0), (u'unit', 1.0, u'n', 0.0, 0.0), (u'came', 0.5, u'v', 0.5, 0.0), (u'in', 1.0, u'n', 0.0, 0.0), (u'the', 1.0, None, 0.0, 0.0), (u'mail', 1.0, u'n', 0.0, 0.0), (u'exactly', 0.625, u'r', 0.375, 0.0), (u'2', 1.0, u'n', 0.0, 0.0), (u'days', 1.0, u'n', 0.0, 0.0), (u'after', 1.0, u'a', 0.0, 0.0), (u'i', 1.0, u'n', 0.0, 0.0), (u'ordered', 1.0, u'v', 0.0, 0.0), (u'.', 1.0, None, 0.0, 0.0), (u'worked', 1.0, u'v', 0.0, 0.0), (u'perfectly', 0.5, u'r', 0.375, 0.125), (u'and', 1.0, None, 0.0, 0.0), (u"i'm", 1.0, None, 0.0, 0.0), (u'very', 0.5, u'a', 0.5, 0.0), (u'satisfied', 0.625, u'a', 0.375, 0.0)]
+======================================================================
+[(u'i', 0.0, 0.0, u'received', 0.25, 0.0), (u'card', 0.0, 0.0, u'just', 0.625, 0.0), (u'unit', 0.0, 0.0, u'came', 0.5, 0.0), (u'mail', 0.0, 0.0, u'exactly', 0.375, 0.0), (u'worked', 0.0, 0.0, u'perfectly', 0.375, 0.125), (u"i'm", 0.0, 0.0, u'very', 0.5, 0.0), (u'very', 0.5, 0.0, u'satisfied', 0.375, 0.0)]
+
+
+---------------------------
+3.09375 0.125
+======================================================================
+
+Works well, especially for anyone who still has their old console systems in use. I have my NES and SNES, both of which have huge AC adapters, plugged into this. It saves tons of space on my power strip.
+
+The design is a little clumsy though, so it's only getting 4/5
+
+works v 2410855
+well n 4572800
+especially r 502710
+who n 8302724
+still r 27384
+has n 13888783
+old n 15121302
+console n 3092476
+systems n 5661996
+in n 14641223
+use n 414179
+i n 6832033
+have v 1427127
+nes n 9109444
+both a 2268133
+have v 1427127
+huge a 1387319
+ac n 14627655
+adapters n 9809925
+plugged v 188000
+it n 6134510
+saves v 2283716
+tons n 13721529
+space n 6389553
+on r 68368
+power n 8177592
+strip v 1608706
+design n 3179318
+is v 2620587
+a n 15089803
+little r 100002
+clumsy a 1001180
+though r 119139
+so n 6868844
+only r 28319
+getting v 87736
+======================================================================
+[(u'works', 1.0, u'v', 0.0, 0.0), (u'well', 1.0, u'n', 0.0, 0.0), (u',', 1.0, None, 0.0, 0.0), (u'especially', 1.0, u'r', 0.0, 0.0), (u'for', 1.0, None, 0.0, 0.0), (u'anyone', 1.0, None, 0.0, 0.0), (u'who', 1.0, u'n', 0.0, 0.0), (u'still', 0.375, u'r', 0.125, 0.5), (u'has', 1.0, u'n', 0.0, 0.0), (u'their', 1.0, None, 0.0, 0.0), (u'old', 1.0, u'n', 0.0, 0.0), (u'console', 1.0, u'n', 0.0, 0.0), (u'systems', 0.75, u'n', 0.25, 0.0), (u'in', 1.0, u'n', 0.0, 0.0), (u'use', 0.75, u'n', 0.25, 0.0), (u'.', 1.0, None, 0.0, 0.0), (u'i', 1.0, u'n', 0.0, 0.0), (u'have', 1.0, u'v', 0.0, 0.0), (u'my', 1.0, None, 0.0, 0.0), (u'nes', 1.0, u'n', 0.0, 0.0), (u'and', 1.0, None, 0.0, 0.0), (u'snes', 1.0, None, 0.0, 0.0), (u',', 1.0, None, 0.0, 0.0), (u'both', 1.0, u'a', 0.0, 0.0), (u'of', 1.0, None, 0.0, 0.0), (u'which', 1.0, None, 0.0, 0.0), (u'have', 1.0, u'v', 0.0, 0.0), (u'huge', 0.875, u'a', 0.0, 0.125), (u'ac', 1.0, u'n', 0.0, 0.0), (u'adapters', 1.0, u'n', 0.0, 0.0), (u',', 1.0, None, 0.0, 0.0), (u'plugged', 1.0, u'v', 0.0, 0.0), (u'into', 1.0, None, 0.0, 0.0), (u'this', 1.0, None, 0.0, 0.0), (u'.', 1.0, None, 0.0, 0.0), (u'it', 1.0, u'n', 0.0, 0.0), (u'saves', 1.0, u'v', 0.0, 0.0), (u'tons', 1.0, u'n', 0.0, 0.0), (u'of', 1.0, None, 0.0, 0.0), (u'space', 0.875, u'n', 0.0, 0.125), (u'on', 1.0, u'r', 0.0, 0.0), (u'my', 1.0, None, 0.0, 0.0), (u'power', 1.0, u'n', 0.0, 0.0), (u'strip', 0.875, u'v', 0.125, 0.0), (u'.', 1.0, None, 0.0, 0.0), (u'the', 1.0, None, 0.0, 0.0), (u'design', 1.0, u'n', 0.0, 0.0), (u'is', 1.0, u'v', 0.0, 0.0), (u'a', 0.625, u'n', 0.125, 0.25), (u'little', 0.625, u'r', 0.0, 0.375), (u'clumsy', 0.25, u'a', 0.0, 0.75), (u'though', 1.0, u'r', 0.0, 0.0), (u',', 1.0, None, 0.0, 0.0), (u'so', 1.0, u'n', 0.0, 0.0), (u"it's", 1.0, None, 0.0, 0.0), (u'only', 1.0, u'r', 0.0, 0.0), (u'getting', 0.75, u'v', 0.0, 0.25), (u'4/5', 1.0, None, 0.0, 0.0)]
+======================================================================
+[(u'who', 0.0, 0.0, u'still', 0.125, 0.5), (u'console', 0.0, 0.0, u'systems', 0.25, 0.0), (u'in', 0.0, 0.0, u'use', 0.25, 0.0), (u'have', 0.0, 0.0, u'huge', 0.0, 0.125), (u'of', 0.0, 0.0, u'space', 0.0, 0.125), (u'power', 0.0, 0.0, u'strip', 0.125, 0.0), (u'a', 0.125, 0.25, u'little', 0.0, 0.375), (u'little', 0.0, 0.375, u'clumsy', 0.0, 0.75), (u'only', 0.0, 0.0, u'getting', 0.0, 0.25)]
+
+
+---------------------------
+0.875 1.875
+======================================================================
+
+Not as easy to use as a larger Panasonic I used to own but
+otherwise fine. Good sound.  Using CD player and radio.
+Buying via Amazon as usual is super
+
+not r 24073
+as n 15089803
+easy r 147876
+use n 414179
+as n 15089803
+a n 15089803
+larger a 527870
+i n 6832033
+used a 2494923
+own v 2204692
+but r 4722
+otherwise r 46002
+fine n 13301328
+good a 2226162
+sound a 693020
+using v 2600490
+cd n 13641534
+player n 10440580
+radio a 2953847
+buying n 81572
+amazon n 1818299
+as n 15089803
+usual a 970610
+is v 2620587
+super r 46299
+======================================================================
+[(u'not', 0.375, u'r', 0.0, 0.625), (u'as', 0.625, u'n', 0.125, 0.25), (u'easy', 0.75, u'r', 0.25, 0.0), (u'to', 1.0, None, 0.0, 0.0), (u'use', 0.75, u'n', 0.25, 0.0), (u'as', 0.625, u'n', 0.125, 0.25), (u'a', 0.625, u'n', 0.125, 0.25), (u'larger', 0.75, u'a', 0.25, 0.0), (u'panasonic', 1.0, None, 0.0, 0.0), (u'i', 1.0, u'n', 0.0, 0.0), (u'used', 1.0, u'a', 0.0, 0.0), (u'to', 1.0, None, 0.0, 0.0), (u'own', 1.0, u'v', 0.0, 0.0), (u'but', 1.0, u'r', 0.0, 0.0), (u'otherwise', 0.375, u'r', 0.5, 0.125), (u'fine', 0.875, u'n', 0.0, 0.125), (u'.', 1.0, None, 0.0, 0.0), (u'good', 0.375, u'a', 0.625, 0.0), (u'sound', 1.0, u'a', 0.0, 0.0), (u'.', 1.0, None, 0.0, 0.0), (u'using', 1.0, u'v', 0.0, 0.0), (u'cd', 1.0, u'n', 0.0, 0.0), (u'player', 0.875, u'n', 0.125, 0.0), (u'and', 1.0, None, 0.0, 0.0), (u'radio', 1.0, u'a', 0.0, 0.0), (u'.', 1.0, None, 0.0, 0.0), (u'buying', 1.0, u'n', 0.0, 0.0), (u'via', 1.0, None, 0.0, 0.0), (u'amazon', 1.0, u'n', 0.0, 0.0), (u'as', 0.625, u'n', 0.125, 0.25), (u'usual', 0.875, u'a', 0.125, 0.0), (u'is', 1.0, u'v', 0.0, 0.0), (u'super', 0.875, u'r', 0.0, 0.125)]
+======================================================================
+[(None, 0.0, 0.0, u'not', 0.0, 0.625), (u'as', 0.125, 0.25, u'easy', 0.25, 0.0), (u'to', 0.0, 0.0, u'use', 0.25, 0.0), (u'a', 0.125, 0.25, u'larger', 0.25, 0.0), (u'but', 0.0, 0.0, u'otherwise', 0.5, 0.125), (u'otherwise', 0.5, 0.125, u'fine', 0.0, 0.125), (u'.', 0.0, 0.0, u'good', 0.625, 0.0), (u'cd', 0.0, 0.0, u'player', 0.125, 0.0), (u'as', 0.125, 0.25, u'usual', 0.125, 0.0), (u'is', 0.0, 0.0, u'super', 0.0, 0.125)]
+
+
+---------------------------
+3.0 1.875
+======================================================================
+
+It worked much better than expected. The page clips also were very good, but one fell off about 5 minutes into owning/using the item (I put it back on, but fell off a couple more times). I also get the feeling that the other parts are fragile as well.
+
+it n 6134510
+worked v 2410855
+much r 22829
+better a 2226162
+expected v 592702
+page v 754560
+clips n 359614
+also r 47534
+were v 2620587
+very a 1839317
+good a 2226162
+but r 4722
+one n 5870055
+fell v 2528985
+off a 2082924
+about r 7015
+5 n 13744521
+minutes n 15234764
+owning v 2204692
+using v 2600490
+item n 6482401
+i n 6832033
+put v 2271137
+it n 6134510
+back n 4059701
+on r 68368
+but r 4722
+fell v 2528985
+off a 2082924
+a n 15089803
+couple n 9257563
+more r 99712
+times n 15135822
+i n 6832033
+also r 47534
+get v 87736
+feeling v 715239
+other a 2069355
+parts n 787465
+are v 2620587
+fragile a 709215
+as n 15089803
+well n 4572800
+======================================================================
+[(u'it', 1.0, u'n', 0.0, 0.0), (u'worked', 1.0, u'v', 0.0, 0.0), (u'much', 0.75, u'r', 0.125, 0.125), (u'better', 0.375, u'a', 0.625, 0.0), (u'than', 1.0, None, 0.0, 0.0), (u'expected', 0.875, u'v', 0.125, 0.0), (u'.', 1.0, None, 0.0, 0.0), (u'the', 1.0, None, 0.0, 0.0), (u'page', 1.0, u'v', 0.0, 0.0), (u'clips', 1.0, u'n', 0.0, 0.0), (u'also', 1.0, u'r', 0.0, 0.0), (u'were', 1.0, u'v', 0.0, 0.0), (u'very', 0.5, u'a', 0.5, 0.0), (u'good', 0.375, u'a', 0.625, 0.0), (u',', 1.0, None, 0.0, 0.0), (u'but', 1.0, u'r', 0.0, 0.0), (u'one', 1.0, u'n', 0.0, 0.0), (u'fell', 0.75, u'v', 0.0, 0.25), (u'off', 0.375, u'a', 0.5, 0.125), (u'about', 0.25, u'r', 0.5, 0.25), (u'5', 1.0, u'n', 0.0, 0.0), (u'minutes', 1.0, u'n', 0.0, 0.0), (u'into', 1.0, None, 0.0, 0.0), (u'owning', 1.0, u'v', 0.0, 0.0), (u'/', 1.0, None, 0.0, 0.0), (u'using', 1.0, u'v', 0.0, 0.0), (u'the', 1.0, None, 0.0, 0.0), (u'item', 1.0, u'n', 0.0, 0.0), (u'(', 1.0, None, 0.0, 0.0), (u'i', 1.0, u'n', 0.0, 0.0), (u'put', 1.0, u'v', 0.0, 0.0), (u'it', 1.0, u'n', 0.0, 0.0), (u'back', 1.0, u'n', 0.0, 0.0), (u'on', 1.0, u'r', 0.0, 0.0), (u',', 1.0, None, 0.0, 0.0), (u'but', 1.0, u'r', 0.0, 0.0), (u'fell', 0.75, u'v', 0.0, 0.25), (u'off', 0.375, u'a', 0.5, 0.125), (u'a', 0.625, u'n', 0.125, 0.25), (u'couple', 1.0, u'n', 0.0, 0.0), (u'more', 1.0, u'r', 0.0, 0.0), (u'times', 1.0, u'n', 0.0, 0.0), (u')', 1.0, None, 0.0, 0.0), (u'.', 1.0, None, 0.0, 0.0), (u'i', 1.0, u'n', 0.0, 0.0), (u'also', 1.0, u'r', 0.0, 0.0), (u'get', 0.75, u'v', 0.0, 0.25), (u'the', 1.0, None, 0.0, 0.0), (u'feeling', 0.875, u'v', 0.125, 0.0), (u'that', 1.0, None, 0.0, 0.0), (u'the', 1.0, None, 0.0, 0.0), (u'other', 0.375, u'a', 0.0, 0.625), (u'parts', 1.0, u'n', 0.0, 0.0), (u'are', 1.0, u'v', 0.0, 0.0), (u'fragile', 0.375, u'a', 0.0, 0.625), (u'as', 0.625, u'n', 0.125, 0.25), (u'well', 1.0, u'n', 0.0, 0.0), (u'.', 1.0, None, 0.0, 0.0)]
+======================================================================
+[(u'worked', 0.0, 0.0, u'much', 0.125, 0.125), (u'much', 0.125, 0.125, u'better', 0.625, 0.0), (u'than', 0.0, 0.0, u'expected', 0.125, 0.0), (u'were', 0.0, 0.0, u'very', 0.5, 0.0), (u'very', 0.5, 0.0, u'good', 0.625, 0.0), (u'one', 0.0, 0.0, u'fell', 0.0, 0.25), (u'fell', 0.0, 0.25, u'off', 0.5, 0.125), (u'off', 0.5, 0.125, u'about', 0.5, 0.25), (u'but', 0.0, 0.0, u'fell', 0.0, 0.25), (u'fell', 0.0, 0.25, u'off', 0.5, 0.125), (u'also', 0.0, 0.0, u'get', 0.0, 0.25), (u'the', 0.0, 0.0, u'feeling', 0.125, 0.0), (u'the', 0.0, 0.0, u'other', 0.0, 0.625), (u'are', 0.0, 0.0, u'fragile', 0.0, 0.625)]
+
+
+---------------------------
+4.46875 3.25
+======================================================================
+
+It's speedy and space saving and inexpensive. I bought this to replace my Belkin because the Belkin needed to be plugged in. This one is powered by your computer so there's no extra power cords, which is a big plus to me. 
+
+The only thing I dislike about this is the fact that the Hub takes up two Usb ports instead of just one like the Belkin. 
+
+speedy a 979862
+space n 6389553
+saving a 1130733
+inexpensive a 934199
+i n 6832033
+bought v 2646757
+replace v 2257767
+needed v 2627934
+be v 2620587
+plugged v 188000
+in n 14641223
+one n 5870055
+is v 2620587
+powered a 1828391
+by r 417787
+computer n 3082979
+so n 6868844
+no r 24587
+extra n 6597349
+power n 8177592
+cords v 1286674
+is v 2620587
+a n 15089803
+big a 1114658
+plus n 5154517
+me n 9092497
+only r 28319
+thing n 2452
+i n 6832033
+dislike v 1776727
+about r 7015
+is v 2620587
+fact n 5889896
+hub n 3547658
+takes v 758333
+up a 2490170
+two n 13743269
+ports v 1908204
+instead r 63172
+just a 1369663
+one n 5870055
+like v 691665
+======================================================================
+[(u"it's", 1.0, None, 0.0, 0.0), (u'speedy', 0.5, u'a', 0.5, 0.0), (u'and', 1.0, None, 0.0, 0.0), (u'space', 0.875, u'n', 0.0, 0.125), (u'saving', 0.375, u'a', 0.625, 0.0), (u'and', 1.0, None, 0.0, 0.0), (u'inexpensive', 0.75, u'a', 0.0, 0.25), (u'.', 1.0, None, 0.0, 0.0), (u'i', 1.0, u'n', 0.0, 0.0), (u'bought', 0.5, u'v', 0.5, 0.0), (u'this', 1.0, None, 0.0, 0.0), (u'to', 1.0, None, 0.0, 0.0), (u'replace', 1.0, u'v', 0.0, 0.0), (u'my', 1.0, None, 0.0, 0.0), (u'belkin', 1.0, None, 0.0, 0.0), (u'because', 1.0, None, 0.0, 0.0), (u'the', 1.0, None, 0.0, 0.0), (u'belkin', 1.0, None, 0.0, 0.0), (u'needed', 0.5, u'v', 0.25, 0.25), (u'to', 1.0, None, 0.0, 0.0), (u'be', 1.0, u'v', 0.0, 0.0), (u'plugged', 1.0, u'v', 0.0, 0.0), (u'in', 1.0, u'n', 0.0, 0.0), (u'.', 1.0, None, 0.0, 0.0), (u'this', 1.0, None, 0.0, 0.0), (u'one', 1.0, u'n', 0.0, 0.0), (u'is', 1.0, u'v', 0.0, 0.0), (u'powered', 1.0, u'a', 0.0, 0.0), (u'by', 1.0, u'r', 0.0, 0.0), (u'your', 1.0, None, 0.0, 0.0), (u'computer', 1.0, u'n', 0.0, 0.0), (u'so', 1.0, u'n', 0.0, 0.0), (u"there's", 1.0, None, 0.0, 0.0), (u'no', 0.5, u'r', 0.0, 0.5), (u'extra', 1.0, u'n', 0.0, 0.0), (u'power', 1.0, u'n', 0.0, 0.0), (u'cords', 1.0, u'v', 0.0, 0.0), (u',', 1.0, None, 0.0, 0.0), (u'which', 1.0, None, 0.0, 0.0), (u'is', 1.0, u'v', 0.0, 0.0), (u'a', 0.625, u'n', 0.125, 0.25), (u'big', 0.5, u'a', 0.5, 0.0), (u'plus', 0.375, u'n', 0.625, 0.0), (u'to', 1.0, None, 0.0, 0.0), (u'me', 1.0, u'n', 0.0, 0.0), (u'.', 1.0, None, 0.0, 0.0), (u'the', 1.0, None, 0.0, 0.0), (u'only', 1.0, u'r', 0.0, 0.0), (u'thing', 1.0, u'n', 0.0, 0.0), (u'i', 1.0, u'n', 0.0, 0.0), (u'dislike', 0.5, u'v', 0.0, 0.5), (u'about', 0.25, u'r', 0.5, 0.25), (u'this', 1.0, None, 0.0, 0.0), (u'is', 1.0, u'v', 0.0, 0.0), (u'the', 1.0, None, 0.0, 0.0), (u'fact', 0.625, u'n', 0.375, 0.0), (u'that', 1.0, None, 0.0, 0.0), (u'the', 1.0, None, 0.0, 0.0), (u'hub', 1.0, u'n', 0.0, 0.0), (u'takes', 1.0, u'v', 0.0, 0.0), (u'up', 1.0, u'a', 0.0, 0.0), (u'two', 1.0, u'n', 0.0, 0.0), (u'usb', 1.0, None, 0.0, 0.0), (u'ports', 1.0, u'v', 0.0, 0.0), (u'instead', 1.0, u'r', 0.0, 0.0), (u'of', 1.0, None, 0.0, 0.0), (u'just', 0.375, u'a', 0.625, 0.0), (u'one', 1.0, u'n', 0.0, 0.0), (u'like', 0.625, u'v', 0.375, 0.0), (u'the', 1.0, None, 0.0, 0.0), (u'belkin', 1.0, None, 0.0, 0.0), (u'.', 1.0, None, 0.0, 0.0)]
+======================================================================
+[(u"it's", 0.0, 0.0, u'speedy', 0.5, 0.0), (u'and', 0.0, 0.0, u'space', 0.0, 0.125), (u'space', 0.0, 0.125, u'saving', 0.625, 0.0), (u'and', 0.0, 0.0, u'inexpensive', 0.0, 0.25), (u'i', 0.0, 0.0, u'bought', 0.5, 0.0), (u'belkin', 0.0, 0.0, u'needed', 0.25, 0.25), (u"there's", 0.0, 0.0, u'no', 0.0, 0.5), (u'a', 0.125, 0.25, u'big', 0.5, 0.0), (u'big', 0.5, 0.0, u'plus', 0.625, 0.0), (u'i', 0.0, 0.0, u'dislike', 0.0, 0.5), (u'dislike', 0.0, 0.5, u'about', 0.5, 0.25), (u'the', 0.0, 0.0, u'fact', 0.375, 0.0), (u'of', 0.0, 0.0, u'just', 0.625, 0.0), (u'one', 0.0, 0.0, u'like', 0.375, 0.0)]
+
+
+---------------------------
+5.1875 2.75
+======================================================================
+
+I've had a number of universal remotes over the years and each has had pluses and minuses to offer. The monster remote is a very effective universal remote on all accounts but there is ONE thing that stands out here above all the other remotes. Wireless control over lighting. I replaced my dimmers and switches with the Monster dimmers and switches and now I can control every light in my house. Monster really doesn't talk much about this feature but being able to hit "ALL OFF" at night on my way to bed and have the remote turn off all the house lights is killer. You can even map ligthing scenes to activities. If you hit watch a movie it can turn down the ligths at the same time. Really cool. Good job monster.
+
+had v 1427127
+a n 15089803
+number n 3835412
+universal n 4510706
+remotes a 443075
+over n 15258694
+years n 15204297
+each r 239908
+has n 13888783
+had v 1427127
+pluses n 5154517
+minuses n 871862
+offer n 7164546
+monster n 9491966
+remote a 443075
+is v 2620587
+a n 15089803
+very a 1839317
+effective a 1660712
+universal n 4510706
+remote a 443075
+on r 68368
+all a 521584
+accounts n 5157732
+but r 4722
+there n 8489627
+is v 2620587
+one n 5870055
+thing n 2452
+stands n 6210363
+out a 949797
+here n 9563183
+above r 79947
+all a 521584
+other a 2069355
+remotes a 443075
+wireless a 2569030
+control v 2520997
+over n 15258694
+lighting v 1978700
+i n 6832033
+replaced v 2257767
+dimmers a 440579
+switches v 121678
+monster n 9491966
+dimmers a 440579
+switches v 121678
+now n 15119919
+i n 6832033
+can n 4446276
+control v 2520997
+every a 2269794
+light a 1186408
+in n 14641223
+house n 8222966
+monster n 9491966
+really r 31899
+talk v 962447
+much r 22829
+about r 7015
+feature v 2631659
+but r 4722
+being v 2614181
+able a 1017439
+hit v 1111816
+all a 521584
+off a 2082924
+at n 13681048
+night n 9559769
+on r 68368
+way n 5084733
+bed n 3650173
+have v 1427127
+remote a 443075
+turn n 15256714
+off a 2082924
+all a 521584
+house n 8222966
+lights a 1186408
+is v 2620587
+killer n 5688630
+can n 4446276
+even v 416705
+map n 3720163
+scenes n 5933246
+activities n 4635104
+hit v 1111816
+watch n 1029671
+a n 15089803
+movie n 6613686
+it n 6134510
+can n 4446276
+turn n 15256714
+down v 1197014
+at n 13681048
+same n 6959427
+time n 15135822
+really r 31899
+cool a 2532200
+good a 2226162
+job n 584769
+monster n 9491966
+======================================================================
+[(u"i've", 1.0, None, 0.0, 0.0), (u'had', 1.0, u'v', 0.0, 0.0), (u'a', 0.625, u'n', 0.125, 0.25), (u'number', 1.0, u'n', 0.0, 0.0), (u'of', 1.0, None, 0.0, 0.0), (u'universal', 1.0, u'n', 0.0, 0.0), (u'remotes', 1.0, u'a', 0.0, 0.0), (u'over', 1.0, u'n', 0.0, 0.0), (u'the', 1.0, None, 0.0, 0.0), (u'years', 1.0, u'n', 0.0, 0.0), (u'and', 1.0, None, 0.0, 0.0), (u'each', 1.0, u'r', 0.0, 0.0), (u'has', 1.0, u'n', 0.0, 0.0), (u'had', 1.0, u'v', 0.0, 0.0), (u'pluses', 0.375, u'n', 0.625, 0.0), (u'and', 1.0, None, 0.0, 0.0), (u'minuses', 1.0, u'n', 0.0, 0.0), (u'to', 1.0, None, 0.0, 0.0), (u'offer', 1.0, u'n', 0.0, 0.0), (u'.', 1.0, None, 0.0, 0.0), (u'the', 1.0, None, 0.0, 0.0), (u'monster', 1.0, u'n', 0.0, 0.0), (u'remote', 1.0, u'a', 0.0, 0.0), (u'is', 1.0, u'v', 0.0, 0.0), (u'a', 0.625, u'n', 0.125, 0.25), (u'very', 0.5, u'a', 0.5, 0.0), (u'effective', 0.75, u'a', 0.25, 0.0), (u'universal', 1.0, u'n', 0.0, 0.0), (u'remote', 1.0, u'a', 0.0, 0.0), (u'on', 1.0, u'r', 0.0, 0.0), (u'all', 0.625, u'a', 0.375, 0.0), (u'accounts', 0.375, u'n', 0.625, 0.0), (u'but', 1.0, u'r', 0.0, 0.0), (u'there', 1.0, u'n', 0.0, 0.0), (u'is', 1.0, u'v', 0.0, 0.0), (u'one', 1.0, u'n', 0.0, 0.0), (u'thing', 1.0, u'n', 0.0, 0.0), (u'that', 1.0, None, 0.0, 0.0), (u'stands', 1.0, u'n', 0.0, 0.0), (u'out', 1.0, u'a', 0.0, 0.0), (u'here', 1.0, u'n', 0.0, 0.0), (u'above', 1.0, u'r', 0.0, 0.0), (u'all', 0.625, u'a', 0.375, 0.0), (u'the', 1.0, None, 0.0, 0.0), (u'other', 0.375, u'a', 0.0, 0.625), (u'remotes', 1.0, u'a', 0.0, 0.0), (u'.', 1.0, None, 0.0, 0.0), (u'wireless', 1.0, u'a', 0.0, 0.0), (u'control', 1.0, u'v', 0.0, 0.0), (u'over', 1.0, u'n', 0.0, 0.0), (u'lighting', 1.0, u'v', 0.0, 0.0), (u'.', 1.0, None, 0.0, 0.0), (u'i', 1.0, u'n', 0.0, 0.0), (u'replaced', 1.0, u'v', 0.0, 0.0), (u'my', 1.0, None, 0.0, 0.0), (u'dimmers', 0.75, u'a', 0.0, 0.25), (u'and', 1.0, None, 0.0, 0.0), (u'switches', 1.0, u'v', 0.0, 0.0), (u'with', 1.0, None, 0.0, 0.0), (u'the', 1.0, None, 0.0, 0.0), (u'monster', 1.0, u'n', 0.0, 0.0), (u'dimmers', 0.75, u'a', 0.0, 0.25), (u'and', 1.0, None, 0.0, 0.0), (u'switches', 1.0, u'v', 0.0, 0.0), (u'and', 1.0, None, 0.0, 0.0), (u'now', 1.0, u'n', 0.0, 0.0), (u'i', 1.0, u'n', 0.0, 0.0), (u'can', 1.0, u'n', 0.0, 0.0), (u'control', 1.0, u'v', 0.0, 0.0), (u'every', 1.0, u'a', 0.0, 0.0), (u'light', 0.75, u'a', 0.0, 0.25), (u'in', 1.0, u'n', 0.0, 0.0), (u'my', 1.0, None, 0.0, 0.0), (u'house', 1.0, u'n', 0.0, 0.0), (u'.', 1.0, None, 0.0, 0.0), (u'monster', 1.0, u'n', 0.0, 0.0), (u'really', 0.5, u'r', 0.25, 0.25), (u"doesn't", 1.0, None, 0.0, 0.0), (u'talk', 1.0, u'v', 0.0, 0.0), (u'much', 0.75, u'r', 0.125, 0.125), (u'about', 0.25, u'r', 0.5, 0.25), (u'this', 1.0, None, 0.0, 0.0), (u'feature', 0.375, u'v', 0.375, 0.25), (u'but', 1.0, u'r', 0.0, 0.0), (u'being', 1.0, u'v', 0.0, 0.0), (u'able', 0.75, u'a', 0.25, 0.0), (u'to', 1.0, None, 0.0, 0.0), (u'hit', 1.0, u'v', 0.0, 0.0), (u'"', 1.0, None, 0.0, 0.0), (u'all', 0.625, u'a', 0.375, 0.0), (u'off', 0.375, u'a', 0.5, 0.125), (u'"', 1.0, None, 0.0, 0.0), (u'at', 1.0, u'n', 0.0, 0.0), (u'night', 1.0, u'n', 0.0, 0.0), (u'on', 1.0, u'r', 0.0, 0.0), (u'my', 1.0, None, 0.0, 0.0), (u'way', 1.0, u'n', 0.0, 0.0), (u'to', 1.0, None, 0.0, 0.0), (u'bed', 1.0, u'n', 0.0, 0.0), (u'and', 1.0, None, 0.0, 0.0), (u'have', 1.0, u'v', 0.0, 0.0), (u'the', 1.0, None, 0.0, 0.0), (u'remote', 1.0, u'a', 0.0, 0.0), (u'turn', 1.0, u'n', 0.0, 0.0), (u'off', 0.375, u'a', 0.5, 0.125), (u'all', 0.625, u'a', 0.375, 0.0), (u'the', 1.0, None, 0.0, 0.0), (u'house', 1.0, u'n', 0.0, 0.0), (u'lights', 0.75, u'a', 0.0, 0.25), (u'is', 1.0, u'v', 0.0, 0.0), (u'killer', 0.75, u'n', 0.0, 0.25), (u'.', 1.0, None, 0.0, 0.0), (u'you', 1.0, None, 0.0, 0.0), (u'can', 1.0, u'n', 0.0, 0.0), (u'even', 1.0, u'v', 0.0, 0.0), (u'map', 1.0, u'n', 0.0, 0.0), (u'ligthing', 1.0, None, 0.0, 0.0), (u'scenes', 1.0, u'n', 0.0, 0.0), (u'to', 1.0, None, 0.0, 0.0), (u'activities', 0.875, u'n', 0.125, 0.0), (u'.', 1.0, None, 0.0, 0.0), (u'if', 1.0, None, 0.0, 0.0), (u'you', 1.0, None, 0.0, 0.0), (u'hit', 1.0, u'v', 0.0, 0.0), (u'watch', 1.0, u'n', 0.0, 0.0), (u'a', 0.625, u'n', 0.125, 0.25), (u'movie', 1.0, u'n', 0.0, 0.0), (u'it', 1.0, u'n', 0.0, 0.0), (u'can', 1.0, u'n', 0.0, 0.0), (u'turn', 1.0, u'n', 0.0, 0.0), (u'down', 1.0, u'v', 0.0, 0.0), (u'the', 1.0, None, 0.0, 0.0), (u'ligths', 1.0, None, 0.0, 0.0), (u'at', 1.0, u'n', 0.0, 0.0), (u'the', 1.0, None, 0.0, 0.0), (u'same', 1.0, u'n', 0.0, 0.0), (u'time', 1.0, u'n', 0.0, 0.0), (u'.', 1.0, None, 0.0, 0.0), (u'really', 0.5, u'r', 0.25, 0.25), (u'cool', 1.0, u'a', 0.0, 0.0), (u'.', 1.0, None, 0.0, 0.0), (u'good', 0.375, u'a', 0.625, 0.0), (u'job', 0.875, u'n', 0.125, 0.0), (u'monster', 1.0, u'n', 0.0, 0.0), (u'.', 1.0, None, 0.0, 0.0)]
+======================================================================
+[(u'had', 0.0, 0.0, u'pluses', 0.625, 0.0), (u'a', 0.125, 0.25, u'very', 0.5, 0.0), (u'very', 0.5, 0.0, u'effective', 0.25, 0.0), (u'on', 0.0, 0.0, u'all', 0.375, 0.0), (u'all', 0.375, 0.0, u'accounts', 0.625, 0.0), (u'above', 0.0, 0.0, u'all', 0.375, 0.0), (u'the', 0.0, 0.0, u'other', 0.0, 0.625), (u'my', 0.0, 0.0, u'dimmers', 0.0, 0.25), (u'monster', 0.0, 0.0, u'dimmers', 0.0, 0.25), (u'every', 0.0, 0.0, u'light', 0.0, 0.25), (u'monster', 0.0, 0.0, u'really', 0.25, 0.25), (u'talk', 0.0, 0.0, u'much', 0.125, 0.125), (u'much', 0.125, 0.125, u'about', 0.5, 0.25), (u'this', 0.0, 0.0, u'feature', 0.375, 0.25), (u'being', 0.0, 0.0, u'able', 0.25, 0.0), (u'"', 0.0, 0.0, u'all', 0.375, 0.0), (u'all', 0.375, 0.0, u'off', 0.5, 0.125), (u'turn', 0.0, 0.0, u'off', 0.5, 0.125), (u'off', 0.5, 0.125, u'all', 0.375, 0.0), (u'house', 0.0, 0.0, u'lights', 0.0, 0.25), (u'is', 0.0, 0.0, u'killer', 0.0, 0.25), (u'to', 0.0, 0.0, u'activities', 0.125, 0.0), (u'.', 0.0, 0.0, u'really', 0.25, 0.25), (u'.', 0.0, 0.0, u'good', 0.625, 0.0), (u'good', 0.625, 0.0, u'job', 0.125, 0.0)]
+
+
+---------------------------
+9.3375 3.625
+======================================================================
+
+I really don't have much to say about this book holder, not that it's just a book holder.  It's a nice one.  It does it's job.  It's a little too expensive for just a piece of plastic.
+
+It's strong, sturdy, and it's big enough, even for those massive heavy textbooks, like the Calculus ones.  Although, I would not recommend putting a dictionary or reference that's like 6" thick (even though it still may hold).  It's got little clamps at the bottom to prevent the page from flipping all over the place, although those tend to fall off when you move them.  But that's no big deal.  Just put them back on.  
+
+This book holder is kind of big, and I would not put it on a small desk in the middle of a classroom, but it's not too big.  You should be able to put it almost anywhere when studying on your own time. 
+
+i n 6832033
+really r 31899
+have v 1427127
+much r 22829
+say v 917300
+about r 7015
+book n 2870526
+holder n 10179911
+not r 24073
+just a 1369663
+a n 15089803
+book n 2870526
+holder n 10179911
+a n 15089803
+nice a 1586342
+one n 5870055
+it n 6134510
+does n 8132955
+job n 584769
+a n 15089803
+little r 100002
+too r 47534
+expensive a 933154
+just a 1369663
+a n 15089803
+piece n 3716327
+plastic a 2364954
+strong a 2526124
+sturdy a 2038994
+big a 1114658
+enough a 2336109
+even v 416705
+massive a 1389451
+heavy a 1085268
+textbooks a 2295511
+like v 691665
+calculus n 9454925
+ones n 5870055
+i n 6832033
+not r 24073
+recommend v 882948
+putting v 2271137
+a n 15089803
+dictionary n 6418901
+or n 9133010
+reference v 1705257
+like v 691665
+6 n 13744722
+thick a 452114
+even v 416705
+though r 119139
+it n 6134510
+still r 27384
+may n 12627750
+hold v 822367
+got v 87736
+little r 100002
+clamps v 747932
+at n 13681048
+bottom a 2440691
+prevent v 2452885
+page v 754560
+flipping v 1893465
+all a 521584
+over n 15258694
+place n 8559508
+tend v 2549847
+fall v 2528985
+off a 2082924
+move v 1850315
+but r 4722
+no r 24587
+big a 1114658
+deal v 2246456
+just a 1369663
+put v 2271137
+back n 4059701
+on r 68368
+book n 2870526
+holder n 10179911
+is v 2620587
+kind n 5839024
+big a 1114658
+i n 6832033
+not r 24073
+put v 2271137
+it n 6134510
+on r 68368
+a n 15089803
+small a 1532912
+desk n 3179701
+in n 14641223
+middle a 820458
+a n 15089803
+classroom n 3038685
+but r 4722
+not r 24073
+too r 47534
+big a 1114658
+be v 2620587
+able a 1017439
+put v 2271137
+it n 6134510
+almost r 73033
+anywhere r 25290
+studying v 2166460
+on r 68368
+own v 2204692
+time n 15135822
+======================================================================
+[(u'i', 1.0, u'n', 0.0, 0.0), (u'really', 0.5, u'r', 0.25, 0.25), (u"don't", 1.0, None, 0.0, 0.0), (u'have', 1.0, u'v', 0.0, 0.0), (u'much', 0.75, u'r', 0.125, 0.125), (u'to', 1.0, None, 0.0, 0.0), (u'say', 1.0, u'v', 0.0, 0.0), (u'about', 0.25, u'r', 0.5, 0.25), (u'this', 1.0, None, 0.0, 0.0), (u'book', 1.0, u'n', 0.0, 0.0), (u'holder', 1.0, u'n', 0.0, 0.0), (u',', 1.0, None, 0.0, 0.0), (u'not', 0.375, u'r', 0.0, 0.625), (u'that', 1.0, None, 0.0, 0.0), (u"it's", 1.0, None, 0.0, 0.0), (u'just', 0.375, u'a', 0.625, 0.0), (u'a', 0.625, u'n', 0.125, 0.25), (u'book', 1.0, u'n', 0.0, 0.0), (u'holder', 1.0, u'n', 0.0, 0.0), (u'.', 1.0, None, 0.0, 0.0), (u"it's", 1.0, None, 0.0, 0.0), (u'a', 0.625, u'n', 0.125, 0.25), (u'nice', 0.125, u'a', 0.875, 0.0), (u'one', 1.0, u'n', 0.0, 0.0), (u'.', 1.0, None, 0.0, 0.0), (u'it', 1.0, u'n', 0.0, 0.0), (u'does', 1.0, u'n', 0.0, 0.0), (u"it's", 1.0, None, 0.0, 0.0), (u'job', 0.875, u'n', 0.125, 0.0), (u'.', 1.0, None, 0.0, 0.0), (u"it's", 1.0, None, 0.0, 0.0), (u'a', 0.625, u'n', 0.125, 0.25), (u'little', 0.625, u'r', 0.0, 0.375), (u'too', 1.0, u'r', 0.0, 0.0), (u'expensive', 0.5, u'a', 0.5, 0.0), (u'for', 1.0, None, 0.0, 0.0), (u'just', 0.375, u'a', 0.625, 0.0), (u'a', 0.625, u'n', 0.125, 0.25), (u'piece', 1.0, u'n', 0.0, 0.0), (u'of', 1.0, None, 0.0, 0.0), (u'plastic', 1.0, u'a', 0.0, 0.0), (u'.', 1.0, None, 0.0, 0.0), (u"it's", 1.0, None, 0.0, 0.0), (u'strong', 0.875, u'a', 0.125, 0.0), (u',', 1.0, None, 0.0, 0.0), (u'sturdy', 0.25, u'a', 0.5, 0.25), (u',', 1.0, None, 0.0, 0.0), (u'and', 1.0, None, 0.0, 0.0), (u"it's", 1.0, None, 0.0, 0.0), (u'big', 0.5, u'a', 0.5, 0.0), (u'enough', 0.875, u'a', 0.125, 0.0), (u',', 1.0, None, 0.0, 0.0), (u'even', 1.0, u'v', 0.0, 0.0), (u'for', 1.0, None, 0.0, 0.0), (u'those', 1.0, None, 0.0, 0.0), (u'massive', 1.0, u'a', 0.0, 0.0), (u'heavy', 1.0, u'a', 0.0, 0.0), (u'textbooks', 1.0, u'a', 0.0, 0.0), (u',', 1.0, None, 0.0, 0.0), (u'like', 0.625, u'v', 0.375, 0.0), (u'the', 1.0, None, 0.0, 0.0), (u'calculus', 1.0, u'n', 0.0, 0.0), (u'ones', 1.0, u'n', 0.0, 0.0), (u'.', 1.0, None, 0.0, 0.0), (u'although', 1.0, None, 0.0, 0.0), (u',', 1.0, None, 0.0, 0.0), (u'i', 1.0, u'n', 0.0, 0.0), (u'would', 1.0, None, 0.0, 0.0), (u'not', 0.375, u'r', 0.0, 0.625), (u'recommend', 0.5, u'v', 0.5, 0.0), (u'putting', 1.0, u'v', 0.0, 0.0), (u'a', 0.625, u'n', 0.125, 0.25), (u'dictionary', 1.0, u'n', 0.0, 0.0), (u'or', 1.0, u'n', 0.0, 0.0), (u'reference', 1.0, u'v', 0.0, 0.0), (u"that's", 1.0, None, 0.0, 0.0), (u'like', 0.625, u'v', 0.375, 0.0), (u'6', 1.0, u'n', 0.0, 0.0), (u'"', 1.0, None, 0.0, 0.0), (u'thick', 0.625, u'a', 0.375, 0.0), (u'(', 1.0, None, 0.0, 0.0), (u'even', 1.0, u'v', 0.0, 0.0), (u'though', 1.0, u'r', 0.0, 0.0), (u'it', 1.0, u'n', 0.0, 0.0), (u'still', 0.375, u'r', 0.125, 0.5), (u'may', 1.0, u'n', 0.0, 0.0), (u'hold', 1.0, u'v', 0.0, 0.0), (u')', 1.0, None, 0.0, 0.0), (u'.', 1.0, None, 0.0, 0.0), (u"it's", 1.0, None, 0.0, 0.0), (u'got', 0.75, u'v', 0.0, 0.25), (u'little', 0.625, u'r', 0.0, 0.375), (u'clamps', 0.75, u'v', 0.0, 0.25), (u'at', 1.0, u'n', 0.0, 0.0), (u'the', 1.0, None, 0.0, 0.0), (u'bottom', 1.0, u'a', 0.0, 0.0), (u'to', 1.0, None, 0.0, 0.0), (u'prevent', 0.75, u'v', 0.25, 0.0), (u'the', 1.0, None, 0.0, 0.0), (u'page', 1.0, u'v', 0.0, 0.0), (u'from', 1.0, None, 0.0, 0.0), (u'flipping', 1.0, u'v', 0.0, 0.0), (u'all', 0.625, u'a', 0.375, 0.0), (u'over', 1.0, u'n', 0.0, 0.0), (u'the', 1.0, None, 0.0, 0.0), (u'place', 1.0, u'n', 0.0, 0.0), (u',', 1.0, None, 0.0, 0.0), (u'although', 1.0, None, 0.0, 0.0), (u'those', 1.0, None, 0.0, 0.0), (u'tend', 0.875, u'v', 0.125, 0.0), (u'to', 1.0, None, 0.0, 0.0), (u'fall', 0.75, u'v', 0.0, 0.25), (u'off', 0.375, u'a', 0.5, 0.125), (u'when', 1.0, None, 0.0, 0.0), (u'you', 1.0, None, 0.0, 0.0), (u'move', 0.75, u'v', 0.25, 0.0), (u'them', 1.0, None, 0.0, 0.0), (u'.', 1.0, None, 0.0, 0.0), (u'but', 1.0, u'r', 0.0, 0.0), (u"that's", 1.0, None, 0.0, 0.0), (u'no', 0.5, u'r', 0.0, 0.5), (u'big', 0.5, u'a', 0.5, 0.0), (u'deal', 1.0, u'v', 0.0, 0.0), (u'.', 1.0, None, 0.0, 0.0), (u'just', 0.375, u'a', 0.625, 0.0), (u'put', 1.0, u'v', 0.0, 0.0), (u'them', 1.0, None, 0.0, 0.0), (u'back', 1.0, u'n', 0.0, 0.0), (u'on', 1.0, u'r', 0.0, 0.0), (u'.', 1.0, None, 0.0, 0.0), (u'this', 1.0, None, 0.0, 0.0), (u'book', 1.0, u'n', 0.0, 0.0), (u'holder', 1.0, u'n', 0.0, 0.0), (u'is', 1.0, u'v', 0.0, 0.0), (u'kind', 1.0, u'n', 0.0, 0.0), (u'of', 1.0, None, 0.0, 0.0), (u'big', 0.5, u'a', 0.5, 0.0), (u',', 1.0, None, 0.0, 0.0), (u'and', 1.0, None, 0.0, 0.0), (u'i', 1.0, u'n', 0.0, 0.0), (u'would', 1.0, None, 0.0, 0.0), (u'not', 0.375, u'r', 0.0, 0.625), (u'put', 1.0, u'v', 0.0, 0.0), (u'it', 1.0, u'n', 0.0, 0.0), (u'on', 1.0, u'r', 0.0, 0.0), (u'a', 0.625, u'n', 0.125, 0.25), (u'small', 0.25, u'a', 0.0, 0.75), (u'desk', 1.0, u'n', 0.0, 0.0), (u'in', 1.0, u'n', 0.0, 0.0), (u'the', 1.0, None, 0.0, 0.0), (u'middle', 1.0, u'a', 0.0, 0.0), (u'of', 1.0, None, 0.0, 0.0), (u'a', 0.625, u'n', 0.125, 0.25), (u'classroom', 1.0, u'n', 0.0, 0.0), (u',', 1.0, None, 0.0, 0.0), (u'but', 1.0, u'r', 0.0, 0.0), (u"it's", 1.0, None, 0.0, 0.0), (u'not', 0.375, u'r', 0.0, 0.625), (u'too', 1.0, u'r', 0.0, 0.0), (u'big', 0.5, u'a', 0.5, 0.0), (u'.', 1.0, None, 0.0, 0.0), (u'you', 1.0, None, 0.0, 0.0), (u'should', 1.0, None, 0.0, 0.0), (u'be', 1.0, u'v', 0.0, 0.0), (u'able', 0.75, u'a', 0.25, 0.0), (u'to', 1.0, None, 0.0, 0.0), (u'put', 1.0, u'v', 0.0, 0.0), (u'it', 1.0, u'n', 0.0, 0.0), (u'almost', 1.0, u'r', 0.0, 0.0), (u'anywhere', 1.0, u'r', 0.0, 0.0), (u'when', 1.0, None, 0.0, 0.0), (u'studying', 0.75, u'v', 0.25, 0.0), (u'on', 1.0, u'r', 0.0, 0.0), (u'your', 1.0, None, 0.0, 0.0), (u'own', 1.0, u'v', 0.0, 0.0), (u'time', 1.0, u'n', 0.0, 0.0), (u'.', 1.0, None, 0.0, 0.0)]
+======================================================================
+[(u'i', 0.0, 0.0, u'really', 0.25, 0.25), (u'have', 0.0, 0.0, u'much', 0.125, 0.125), (u'say', 0.0, 0.0, u'about', 0.5, 0.25), (u',', 0.0, 0.0, u'not', 0.0, 0.625), (u"it's", 0.0, 0.0, u'just', 0.625, 0.0), (u'a', 0.125, 0.25, u'nice', 0.875, 0.0), (u"it's", 0.0, 0.0, u'job', 0.125, 0.0), (u'a', 0.125, 0.25, u'little', 0.0, 0.375), (u'too', 0.0, 0.0, u'expensive', 0.5, 0.0), (u'for', 0.0, 0.0, u'just', 0.625, 0.0), (u"it's", 0.0, 0.0, u'strong', 0.125, 0.0), (u',', 0.0, 0.0, u'sturdy', 0.5, 0.25), (u"it's", 0.0, 0.0, u'big', 0.5, 0.0), (u'big', 0.5, 0.0, u'enough', 0.125, 0.0), (u',', 0.0, 0.0, u'like', 0.375, 0.0), (u'would', 0.0, 0.0, u'not', 0.0, 0.625), (u'not', 0.0, 0.625, u'recommend', 0.5, 0.0), (u"that's", 0.0, 0.0, u'like', 0.375, 0.0), (u'"', 0.0, 0.0, u'thick', 0.375, 0.0), (u'it', 0.0, 0.0, u'still', 0.125, 0.5), (u"it's", 0.0, 0.0, u'got', 0.0, 0.25), (u'got', 0.0, 0.25, u'little', 0.0, 0.375), (u'little', 0.0, 0.375, u'clamps', 0.0, 0.25), (u'to', 0.0, 0.0, u'prevent', 0.25, 0.0), (u'flipping', 0.0, 0.0, u'all', 0.375, 0.0), (u'those', 0.0, 0.0, u'tend', 0.125, 0.0), (u'to', 0.0, 0.0, u'fall', 0.0, 0.25), (u'fall', 0.0, 0.25, u'off', 0.5, 0.125), (u'you', 0.0, 0.0, u'move', 0.25, 0.0), (u"that's", 0.0, 0.0, u'no', 0.0, 0.5), (u'no', 0.0, 0.5, u'big', 0.5, 0.0), (u'.', 0.0, 0.0, u'just', 0.625, 0.0), (u'of', 0.0, 0.0, u'big', 0.5, 0.0), (u'would', 0.0, 0.0, u'not', 0.0, 0.625), (u'a', 0.125, 0.25, u'small', 0.0, 0.75), (u"it's", 0.0, 0.0, u'not', 0.0, 0.625), (u'too', 0.0, 0.0, u'big', 0.5, 0.0), (u'be', 0.0, 0.0, u'able', 0.25, 0.0), (u'when', 0.0, 0.0, u'studying', 0.25, 0.0)]
+
+
+---------------------------
+10.0375 9.0
+======================================================================
+
+After using my iM716s for about 4 months now I have a few things to say about them.
+
+1) Price: Lists for $199 on Altec's site.  $70 is a steal.
+2) Quality: Top notch in the earphones, the clip on the volume module is weak.
+3) Performance: Bar none best I've had.  These things outperform the huge Logitech ear muff set I use mainly to mow in.  These things allow me to mow the lawn without having to jack up the volume to drown out the mower.
+4) Conclusion: The only thing that stops me from saying these are perfect is the volume module can be a pain and get in the way.  When moving around, you NEED to have it clipped to something, otherwise it can create inner ear noise.  This can get quite annoying.  I've also caught the cord on things, causing the clip to bend away from the module.  It is removeable and I was able to bend it back.  If there were a pair of equal quality w/o the module, even for the same price, I'd go that route.  With that said, I am in no way regretting my purchase and will recommend these to anyone asking me about them or my 60GB video ipod
+
+after a 1033542
+using v 2600490
+about r 7015
+4 a 2186665
+months n 15209413
+now n 15119919
+i n 6832033
+have v 1427127
+a n 15089803
+few a 1552885
+things n 2452
+say v 917300
+about r 7015
+1 a 2186338
+price v 2351010
+lists v 2039013
+on r 68368
+site v 2333689
+70 n 13749894
+is v 2620587
+a n 15089803
+steal n 13253751
+2 n 13743269
+quality n 5849284
+top n 8617963
+notch n 9386842
+in n 14641223
+earphones n 3261776
+clip n 359614
+on r 68368
+volume n 5099389
+module n 3778817
+is v 2620587
+weak a 2320442
+3 n 13744044
+performance n 47106
+bar n 2788689
+none n 15228787
+best a 2226162
+had v 1427127
+things n 2452
+outperform v 1105639
+huge a 1387319
+ear n 5657999
+muff n 3796974
+set a 2493300
+i n 6832033
+use n 414179
+mainly r 73897
+mow n 3500557
+in n 14641223
+things n 2452
+allow v 724150
+me n 9092497
+mow n 3500557
+lawn n 8591592
+having v 1427127
+jack n 3589672
+up a 2490170
+volume n 5099389
+drown v 472532
+out a 949797
+mower n 3649909
+4 a 2186665
+conclusion n 162632
+only r 28319
+thing n 2452
+stops n 14010927
+me n 9092497
+saying n 7151380
+are v 2620587
+perfect n 13806140
+is v 2620587
+volume n 5099389
+module n 3778817
+can n 4446276
+be v 2620587
+a n 15089803
+pain v 1792567
+get v 87736
+in n 14641223
+way n 5084733
+moving v 1850315
+around r 7015
+need n 14493716
+have v 1427127
+it n 6134510
+clipped v 1456463
+otherwise r 46002
+it n 6134510
+can n 4446276
+create v 1640207
+inner a 948985
+ear n 5657999
+noise n 5720248
+can n 4446276
+get v 87736
+quite r 18577
+annoying a 89550
+also r 47534
+caught v 2150948
+cord v 1286674
+on r 68368
+things n 2452
+causing v 770437
+clip n 359614
+bend n 9133364
+away a 23655
+module n 3778817
+it n 6134510
+is v 2620587
+i n 6832033
+was n 9152944
+able a 1017439
+bend n 9133364
+it n 6134510
+back n 4059701
+there n 8489627
+were v 2620587
+a n 15089803
+pair n 13743605
+equal v 2664769
+quality n 5849284
+w n 6833544
+o n 14648100
+module n 3778817
+even v 416705
+same n 6959427
+price v 2351010
+go v 1835496
+route v 1955364
+said v 917300
+i n 6832033
+am v 2614181
+in n 14641223
+no r 24587
+way n 5084733
+regretting v 911562
+purchase n 79018
+will n 5652593
+recommend v 882948
+asking v 1068565
+me n 9092497
+about r 7015
+or n 9133010
+video n 6277280
+ipod n 3584254
+======================================================================
+[(u'after', 1.0, u'a', 0.0, 0.0), (u'using', 1.0, u'v', 0.0, 0.0), (u'my', 1.0, None, 0.0, 0.0), (u'im716s', 1.0, None, 0.0, 0.0), (u'for', 1.0, None, 0.0, 0.0), (u'about', 0.25, u'r', 0.5, 0.25), (u'4', 1.0, u'a', 0.0, 0.0), (u'months', 1.0, u'n', 0.0, 0.0), (u'now', 1.0, u'n', 0.0, 0.0), (u'i', 1.0, u'n', 0.0, 0.0), (u'have', 1.0, u'v', 0.0, 0.0), (u'a', 0.625, u'n', 0.125, 0.25), (u'few', 1.0, u'a', 0.0, 0.0), (u'things', 1.0, u'n', 0.0, 0.0), (u'to', 1.0, None, 0.0, 0.0), (u'say', 1.0, u'v', 0.0, 0.0), (u'about', 0.25, u'r', 0.5, 0.25), (u'them', 1.0, None, 0.0, 0.0), (u'.', 1.0, None, 0.0, 0.0), (u'1', 0.75, u'a', 0.0, 0.25), (u')', 1.0, None, 0.0, 0.0), (u'price', 1.0, u'v', 0.0, 0.0), (u':', 1.0, None, 0.0, 0.0), (u'lists', 1.0, u'v', 0.0, 0.0), (u'for', 1.0, None, 0.0, 0.0), (u'$', 1.0, None, 0.0, 0.0), (u'199', 1.0, None, 0.0, 0.0), (u'on', 1.0, u'r', 0.0, 0.0), (u"altec's", 1.0, None, 0.0, 0.0), (u'site', 1.0, u'v', 0.0, 0.0), (u'.', 1.0, None, 0.0, 0.0), (u'$', 1.0, None, 0.0, 0.0), (u'70', 1.0, u'n', 0.0, 0.0), (u'is', 1.0, u'v', 0.0, 0.0), (u'a', 0.625, u'n', 0.125, 0.25), (u'steal', 0.5, u'n', 0.5, 0.0), (u'.', 1.0, None, 0.0, 0.0), (u'2', 1.0, u'n', 0.0, 0.0), (u')', 1.0, None, 0.0, 0.0), (u'quality', 0.875, u'n', 0.125, 0.0), (u':', 1.0, None, 0.0, 0.0), (u'top', 1.0, u'n', 0.0, 0.0), (u'notch', 1.0, u'n', 0.0, 0.0), (u'in', 1.0, u'n', 0.0, 0.0), (u'the', 1.0, None, 0.0, 0.0), (u'earphones', 1.0, u'n', 0.0, 0.0), (u',', 1.0, None, 0.0, 0.0), (u'the', 1.0, None, 0.0, 0.0), (u'clip', 1.0, u'n', 0.0, 0.0), (u'on', 1.0, u'r', 0.0, 0.0), (u'the', 1.0, None, 0.0, 0.0), (u'volume', 1.0, u'n', 0.0, 0.0), (u'module', 1.0, u'n', 0.0, 0.0), (u'is', 1.0, u'v', 0.0, 0.0), (u'weak', 0.625, u'a', 0.125, 0.25), (u'.', 1.0, None, 0.0, 0.0), (u'3', 1.0, u'n', 0.0, 0.0), (u')', 1.0, None, 0.0, 0.0), (u'performance', 0.75, u'n', 0.25, 0.0), (u':', 1.0, None, 0.0, 0.0), (u'bar', 1.0, u'n', 0.0, 0.0), (u'none', 1.0, u'n', 0.0, 0.0), (u'best', 0.375, u'a', 0.625, 0.0), (u"i've", 1.0, None, 0.0, 0.0), (u'had', 1.0, u'v', 0.0, 0.0), (u'.', 1.0, None, 0.0, 0.0), (u'these', 1.0, None, 0.0, 0.0), (u'things', 1.0, u'n', 0.0, 0.0), (u'outperform', 0.875, u'v', 0.0, 0.125), (u'the', 1.0, None, 0.0, 0.0), (u'huge', 0.875, u'a', 0.0, 0.125), (u'logitech', 1.0, None, 0.0, 0.0), (u'ear', 0.25, u'n', 0.75, 0.0), (u'muff', 1.0, u'n', 0.0, 0.0), (u'set', 0.875, u'a', 0.0, 0.125), (u'i', 1.0, u'n', 0.0, 0.0), (u'use', 0.75, u'n', 0.25, 0.0), (u'mainly', 1.0, u'r', 0.0, 0.0), (u'to', 1.0, None, 0.0, 0.0), (u'mow', 1.0, u'n', 0.0, 0.0), (u'in', 1.0, u'n', 0.0, 0.0), (u'.', 1.0, None, 0.0, 0.0), (u'these', 1.0, None, 0.0, 0.0), (u'things', 1.0, u'n', 0.0, 0.0), (u'allow', 0.875, u'v', 0.125, 0.0), (u'me', 1.0, u'n', 0.0, 0.0), (u'to', 1.0, None, 0.0, 0.0), (u'mow', 1.0, u'n', 0.0, 0.0), (u'the', 1.0, None, 0.0, 0.0), (u'lawn', 1.0, u'n', 0.0, 0.0), (u'without', 1.0, None, 0.0, 0.0), (u'having', 1.0, u'v', 0.0, 0.0), (u'to', 1.0, None, 0.0, 0.0), (u'jack', 1.0, u'n', 0.0, 0.0), (u'up', 1.0, u'a', 0.0, 0.0), (u'the', 1.0, None, 0.0, 0.0), (u'volume', 1.0, u'n', 0.0, 0.0), (u'to', 1.0, None, 0.0, 0.0), (u'drown', 1.0, u'v', 0.0, 0.0), (u'out', 1.0, u'a', 0.0, 0.0), (u'the', 1.0, None, 0.0, 0.0), (u'mower', 1.0, u'n', 0.0, 0.0), (u'.', 1.0, None, 0.0, 0.0), (u'4', 1.0, u'a', 0.0, 0.0), (u')', 1.0, None, 0.0, 0.0), (u'conclusion', 1.0, u'n', 0.0, 0.0), (u':', 1.0, None, 0.0, 0.0), (u'the', 1.0, None, 0.0, 0.0), (u'only', 1.0, u'r', 0.0, 0.0), (u'thing', 1.0, u'n', 0.0, 0.0), (u'that', 1.0, None, 0.0, 0.0), (u'stops', 1.0, u'n', 0.0, 0.0), (u'me', 1.0, u'n', 0.0, 0.0), (u'from', 1.0, None, 0.0, 0.0), (u'saying', 1.0, u'n', 0.0, 0.0), (u'these', 1.0, None, 0.0, 0.0), (u'are', 1.0, u'v', 0.0, 0.0), (u'perfect', 1.0, u'n', 0.0, 0.0), (u'is', 1.0, u'v', 0.0, 0.0), (u'the', 1.0, None, 0.0, 0.0), (u'volume', 1.0, u'n', 0.0, 0.0), (u'module', 1.0, u'n', 0.0, 0.0), (u'can', 1.0, u'n', 0.0, 0.0), (u'be', 1.0, u'v', 0.0, 0.0), (u'a', 0.625, u'n', 0.125, 0.25), (u'pain', 0.625, u'v', 0.0, 0.375), (u'and', 1.0, None, 0.0, 0.0), (u'get', 0.75, u'v', 0.0, 0.25), (u'in', 1.0, u'n', 0.0, 0.0), (u'the', 1.0, None, 0.0, 0.0), (u'way', 1.0, u'n', 0.0, 0.0), (u'.', 1.0, None, 0.0, 0.0), (u'when', 1.0, None, 0.0, 0.0), (u'moving', 0.75, u'v', 0.25, 0.0), (u'around', 0.25, u'r', 0.5, 0.25), (u',', 1.0, None, 0.0, 0.0), (u'you', 1.0, None, 0.0, 0.0), (u'need', 0.625, u'n', 0.0, 0.375), (u'to', 1.0, None, 0.0, 0.0), (u'have', 1.0, u'v', 0.0, 0.0), (u'it', 1.0, u'n', 0.0, 0.0), (u'clipped', 1.0, u'v', 0.0, 0.0), (u'to', 1.0, None, 0.0, 0.0), (u'something', 1.0, None, 0.0, 0.0), (u',', 1.0, None, 0.0, 0.0), (u'otherwise', 0.375, u'r', 0.5, 0.125), (u'it', 1.0, u'n', 0.0, 0.0), (u'can', 1.0, u'n', 0.0, 0.0), (u'create', 1.0, u'v', 0.0, 0.0), (u'inner', 1.0, u'a', 0.0, 0.0), (u'ear', 0.25, u'n', 0.75, 0.0), (u'noise', 0.5, u'n', 0.5, 0.0), (u'.', 1.0, None, 0.0, 0.0), (u'this', 1.0, None, 0.0, 0.0), (u'can', 1.0, u'n', 0.0, 0.0), (u'get', 0.75, u'v', 0.0, 0.25), (u'quite', 0.5, u'r', 0.25, 0.25), (u'annoying', 0.5, u'a', 0.0, 0.5), (u'.', 1.0, None, 0.0, 0.0), (u"i've", 1.0, None, 0.0, 0.0), (u'also', 1.0, u'r', 0.0, 0.0), (u'caught', 1.0, u'v', 0.0, 0.0), (u'the', 1.0, None, 0.0, 0.0), (u'cord', 1.0, u'v', 0.0, 0.0), (u'on', 1.0, u'r', 0.0, 0.0), (u'things', 1.0, u'n', 0.0, 0.0), (u',', 1.0, None, 0.0, 0.0), (u'causing', 1.0, u'v', 0.0, 0.0), (u'the', 1.0, None, 0.0, 0.0), (u'clip', 1.0, u'n', 0.0, 0.0), (u'to', 1.0, None, 0.0, 0.0), (u'bend', 1.0, u'n', 0.0, 0.0), (u'away', 1.0, u'a', 0.0, 0.0), (u'from', 1.0, None, 0.0, 0.0), (u'the', 1.0, None, 0.0, 0.0), (u'module', 1.0, u'n', 0.0, 0.0), (u'.', 1.0, None, 0.0, 0.0), (u'it', 1.0, u'n', 0.0, 0.0), (u'is', 1.0, u'v', 0.0, 0.0), (u'removeable', 1.0, None, 0.0, 0.0), (u'and', 1.0, None, 0.0, 0.0), (u'i', 1.0, u'n', 0.0, 0.0), (u'was', 1.0, u'n', 0.0, 0.0), (u'able', 0.75, u'a', 0.25, 0.0), (u'to', 1.0, None, 0.0, 0.0), (u'bend', 1.0, u'n', 0.0, 0.0), (u'it', 1.0, u'n', 0.0, 0.0), (u'back', 1.0, u'n', 0.0, 0.0), (u'.', 1.0, None, 0.0, 0.0), (u'if', 1.0, None, 0.0, 0.0), (u'there', 1.0, u'n', 0.0, 0.0), (u'were', 1.0, u'v', 0.0, 0.0), (u'a', 0.625, u'n', 0.125, 0.25), (u'pair', 1.0, u'n', 0.0, 0.0), (u'of', 1.0, None, 0.0, 0.0), (u'equal', 0.75, u'v', 0.125, 0.125), (u'quality', 0.875, u'n', 0.125, 0.0), (u'w', 1.0, u'n', 0.0, 0.0), (u'/', 1.0, None, 0.0, 0.0), (u'o', 1.0, u'n', 0.0, 0.0), (u'the', 1.0, None, 0.0, 0.0), (u'module', 1.0, u'n', 0.0, 0.0), (u',', 1.0, None, 0.0, 0.0), (u'even', 1.0, u'v', 0.0, 0.0), (u'for', 1.0, None, 0.0, 0.0), (u'the', 1.0, None, 0.0, 0.0), (u'same', 1.0, u'n', 0.0, 0.0), (u'price', 1.0, u'v', 0.0, 0.0), (u',', 1.0, None, 0.0, 0.0), (u"i'd", 1.0, None, 0.0, 0.0), (u'go', 1.0, u'v', 0.0, 0.0), (u'that', 1.0, None, 0.0, 0.0), (u'route', 1.0, u'v', 0.0, 0.0), (u'.', 1.0, None, 0.0, 0.0), (u'with', 1.0, None, 0.0, 0.0), (u'that', 1.0, None, 0.0, 0.0), (u'said', 1.0, u'v', 0.0, 0.0), (u',', 1.0, None, 0.0, 0.0), (u'i', 1.0, u'n', 0.0, 0.0), (u'am', 1.0, u'v', 0.0, 0.0), (u'in', 1.0, u'n', 0.0, 0.0), (u'no', 0.5, u'r', 0.0, 0.5), (u'way', 1.0, u'n', 0.0, 0.0), (u'regretting', 0.5, u'v', 0.0, 0.5), (u'my', 1.0, None, 0.0, 0.0), (u'purchase', 1.0, u'n', 0.0, 0.0), (u'and', 1.0, None, 0.0, 0.0), (u'will', 0.875, u'n', 0.125, 0.0), (u'recommend', 0.5, u'v', 0.5, 0.0), (u'these', 1.0, None, 0.0, 0.0), (u'to', 1.0, None, 0.0, 0.0), (u'anyone', 1.0, None, 0.0, 0.0), (u'asking', 1.0, u'v', 0.0, 0.0), (u'me', 1.0, u'n', 0.0, 0.0), (u'about', 0.25, u'r', 0.5, 0.25), (u'them', 1.0, None, 0.0, 0.0), (u'or', 1.0, u'n', 0.0, 0.0), (u'my', 1.0, None, 0.0, 0.0), (u'60gb', 1.0, None, 0.0, 0.0), (u'video', 1.0, u'n', 0.0, 0.0), (u'ipod', 1.0, u'n', 0.0, 0.0)]
+======================================================================
+[(u'for', 0.0, 0.0, u'about', 0.5, 0.25), (u'say', 0.0, 0.0, u'about', 0.5, 0.25), (u'.', 0.0, 0.0, u'1', 0.0, 0.25), (u'a', 0.125, 0.25, u'steal', 0.5, 0.0), (u')', 0.0, 0.0, u'quality', 0.125, 0.0), (u'is', 0.0, 0.0, u'weak', 0.125, 0.25), (u')', 0.0, 0.0, u'performance', 0.25, 0.0), (u'none', 0.0, 0.0, u'best', 0.625, 0.0), (u'things', 0.0, 0.0, u'outperform', 0.0, 0.125), (u'the', 0.0, 0.0, u'huge', 0.0, 0.125), (u'logitech', 0.0, 0.0, u'ear', 0.75, 0.0), (u'muff', 0.0, 0.0, u'set', 0.0, 0.125), (u'i', 0.0, 0.0, u'use', 0.25, 0.0), (u'things', 0.0, 0.0, u'allow', 0.125, 0.0), (u'a', 0.125, 0.25, u'pain', 0.0, 0.375), (u'and', 0.0, 0.0, u'get', 0.0, 0.25), (u'when', 0.0, 0.0, u'moving', 0.25, 0.0), (u'moving', 0.25, 0.0, u'around', 0.5, 0.25), (u'you', 0.0, 0.0, u'need', 0.0, 0.375), (u',', 0.0, 0.0, u'otherwise', 0.5, 0.125), (u'inner', 0.0, 0.0, u'ear', 0.75, 0.0), (u'ear', 0.75, 0.0, u'noise', 0.5, 0.0), (u'can', 0.0, 0.0, u'get', 0.0, 0.25), (u'get', 0.0, 0.25, u'quite', 0.25, 0.25), (u'quite', 0.25, 0.25, u'annoying', 0.0, 0.5), (u'was', 0.0, 0.0, u'able', 0.25, 0.0), (u'of', 0.0, 0.0, u'equal', 0.125, 0.125), (u'equal', 0.125, 0.125, u'quality', 0.125, 0.0), (u'in', 0.0, 0.0, u'no', 0.0, 0.5), (u'way', 0.0, 0.0, u'regretting', 0.0, 0.5), (u'will', 0.125, 0.0, u'recommend', 0.5, 0.0), (u'me', 0.0, 0.0, u'about', 0.5, 0.25)]
+
+
+---------------------------
+8.25 6.25
+======================================================================
+
+This is perfect for my iPod and keeps it totally secure while driving.  Great price and you get different sizes to match your car perfectly. 
+
+is v 2620587
+perfect n 13806140
+ipod n 3584254
+keeps v 2684924
+it n 6134510
+totally r 8007
+secure a 2526124
+while n 15246353
+driving n 572489
+great n 10145081
+price v 2351010
+get v 87736
+different a 2070030
+sizes n 13937727
+match n 13596673
+car n 2960352
+perfectly r 9650
+======================================================================
+[(u'this', 1.0, None, 0.0, 0.0), (u'is', 1.0, u'v', 0.0, 0.0), (u'perfect', 1.0, u'n', 0.0, 0.0), (u'for', 1.0, None, 0.0, 0.0), (u'my', 1.0, None, 0.0, 0.0), (u'ipod', 1.0, u'n', 0.0, 0.0), (u'and', 1.0, None, 0.0, 0.0), (u'keeps', 1.0, u'v', 0.0, 0.0), (u'it', 1.0, u'n', 0.0, 0.0), (u'totally', 0.5, u'r', 0.5, 0.0), (u'secure', 0.875, u'a', 0.125, 0.0), (u'while', 1.0, u'n', 0.0, 0.0), (u'driving', 1.0, u'n', 0.0, 0.0), (u'.', 1.0, None, 0.0, 0.0), (u'great', 1.0, u'n', 0.0, 0.0), (u'price', 1.0, u'v', 0.0, 0.0), (u'and', 1.0, None, 0.0, 0.0), (u'you', 1.0, None, 0.0, 0.0), (u'get', 0.75, u'v', 0.0, 0.25), (u'different', 1.0, u'a', 0.0, 0.0), (u'sizes', 1.0, u'n', 0.0, 0.0), (u'to', 1.0, None, 0.0, 0.0), (u'match', 0.875, u'n', 0.125, 0.0), (u'your', 1.0, None, 0.0, 0.0), (u'car', 1.0, u'n', 0.0, 0.0), (u'perfectly', 0.5, u'r', 0.375, 0.125), (u'.', 1.0, None, 0.0, 0.0)]
+======================================================================
+[(u'it', 0.0, 0.0, u'totally', 0.5, 0.0), (u'totally', 0.5, 0.0, u'secure', 0.125, 0.0), (u'you', 0.0, 0.0, u'get', 0.0, 0.25), (u'to', 0.0, 0.0, u'match', 0.125, 0.0), (u'car', 0.0, 0.0, u'perfectly', 0.375, 0.125)]
+
+
+---------------------------
+1.15625 0.375
+======================================================================
+
+Always something that might come in handy my last remote quit working after a year
+
+always r 19757
+might n 5030680
+come v 2729963
+in n 14641223
+handy n 11027885
+last n 7291794
+remote a 443075
+quit v 2680814
+working v 2410855
+after a 1033542
+a n 15089803
+year n 15204297
+======================================================================
+[(u'always', 1.0, u'r', 0.0, 0.0), (u'something', 1.0, None, 0.0, 0.0), (u'that', 1.0, None, 0.0, 0.0), (u'might', 0.125, u'n', 0.375, 0.5), (u'come', 1.0, u'v', 0.0, 0.0), (u'in', 1.0, u'n', 0.0, 0.0), (u'handy', 1.0, u'n', 0.0, 0.0), (u'my', 1.0, None, 0.0, 0.0), (u'last', 1.0, u'n', 0.0, 0.0), (u'remote', 1.0, u'a', 0.0, 0.0), (u'quit', 1.0, u'v', 0.0, 0.0), (u'working', 1.0, u'v', 0.0, 0.0), (u'after', 1.0, u'a', 0.0, 0.0), (u'a', 0.625, u'n', 0.125, 0.25), (u'year', 1.0, u'n', 0.0, 0.0)]
+======================================================================
+[(u'that', 0.0, 0.0, u'might', 0.375, 0.5)]
+
+
+---------------------------
+0.375 0.5
+======================================================================
+
+This CF card is so fast that I can run my shutter on my camera non stop until the card is full at a frame rate of 3.5 fps. No lag or slow down. That is amazing. It makes my camera perform better. (Canon Rebel XT
+
+cf n 14155506
+card n 6507941
+is v 2620587
+so n 6868844
+fast r 86000
+i n 6832033
+can n 4446276
+run n 13760129
+shutter v 1242996
+on r 68368
+camera n 4404997
+non r 24073
+stop n 14010927
+card n 6507941
+is v 2620587
+full a 106277
+at n 13681048
+a n 15089803
+frame v 1586850
+rate n 5058580
+fps n 8351777
+no r 24587
+lag n 1067577
+or n 9133010
+slow a 983722
+down v 1197014
+is v 2620587
+amazing a 1282510
+it n 6134510
+makes v 562182
+camera n 4404997
+perform v 2561995
+better a 2226162
+canon n 6430537
+rebel n 10210137
+xt n 7431247
+======================================================================
+[(u'this', 1.0, None, 0.0, 0.0), (u'cf', 1.0, u'n', 0.0, 0.0), (u'card', 1.0, u'n', 0.0, 0.0), (u'is', 1.0, u'v', 0.0, 0.0), (u'so', 1.0, u'n', 0.0, 0.0), (u'fast', 1.0, u'r', 0.0, 0.0), (u'that', 1.0, None, 0.0, 0.0), (u'i', 1.0, u'n', 0.0, 0.0), (u'can', 1.0, u'n', 0.0, 0.0), (u'run', 1.0, u'n', 0.0, 0.0), (u'my', 1.0, None, 0.0, 0.0), (u'shutter', 0.75, u'v', 0.25, 0.0), (u'on', 1.0, u'r', 0.0, 0.0), (u'my', 1.0, None, 0.0, 0.0), (u'camera', 1.0, u'n', 0.0, 0.0), (u'non', 0.375, u'r', 0.0, 0.625), (u'stop', 1.0, u'n', 0.0, 0.0), (u'until', 1.0, None, 0.0, 0.0), (u'the', 1.0, None, 0.0, 0.0), (u'card', 1.0, u'n', 0.0, 0.0), (u'is', 1.0, u'v', 0.0, 0.0), (u'full', 1.0, u'a', 0.0, 0.0), (u'at', 1.0, u'n', 0.0, 0.0), (u'a', 0.625, u'n', 0.125, 0.25), (u'frame', 1.0, u'v', 0.0, 0.0), (u'rate', 1.0, u'n', 0.0, 0.0), (u'of', 1.0, None, 0.0, 0.0), (u'3.5', 1.0, None, 0.0, 0.0), (u'fps', 1.0, u'n', 0.0, 0.0), (u'.', 1.0, None, 0.0, 0.0), (u'no', 0.5, u'r', 0.0, 0.5), (u'lag', 1.0, u'n', 0.0, 0.0), (u'or', 1.0, u'n', 0.0, 0.0), (u'slow', 1.0, u'a', 0.0, 0.0), (u'down', 1.0, u'v', 0.0, 0.0), (u'.', 1.0, None, 0.0, 0.0), (u'that', 1.0, None, 0.0, 0.0), (u'is', 1.0, u'v', 0.0, 0.0), (u'amazing', 0.0, u'a', 0.875, 0.125), (u'.', 1.0, None, 0.0, 0.0), (u'it', 1.0, u'n', 0.0, 0.0), (u'makes', 0.375, u'v', 0.25, 0.375), (u'my', 1.0, None, 0.0, 0.0), (u'camera', 1.0, u'n', 0.0, 0.0), (u'perform', 1.0, u'v', 0.0, 0.0), (u'better', 0.375, u'a', 0.625, 0.0), (u'.', 1.0, None, 0.0, 0.0), (u'(', 1.0, None, 0.0, 0.0), (u'canon', 1.0, u'n', 0.0, 0.0), (u'rebel', 1.0, u'n', 0.0, 0.0), (u'xt', 1.0, u'n', 0.0, 0.0)]
+======================================================================
+[(u'my', 0.0, 0.0, u'shutter', 0.25, 0.0), (u'camera', 0.0, 0.0, u'non', 0.0, 0.625), (u'.', 0.0, 0.0, u'no', 0.0, 0.5), (u'is', 0.0, 0.0, u'amazing', 0.875, 0.125), (u'it', 0.0, 0.0, u'makes', 0.25, 0.375), (u'perform', 0.0, 0.0, u'better', 0.625, 0.0)]
+
+
+---------------------------
+2.0 1.625
+======================================================================
+
+I installed this unit on my HP AMD 64 X2 with a 19-inch LCD monitor.  Installation was very straightforward, with no problems experienced.  The unit has two rows of power outlets - eight outlets total.  All are surge protected, but only one row has battery backup.  Each row includes an outlet that is offset to allow transformer power supplies to be connected and still accommodate use of the other outlets.  The unit also surge protects the incoming telephone line, and interacts well transparently my DSL service.
+
+The unit comes with a USB connector cable that is used to transfer information between the unit and the computer.  Also included is "PowerChute Personal Edition" software.  This software replaces the UPS option used under the "Power" icon of Widow's XP Control Panel.  PowerChute PE allows user selection of alarms and power options to best fit the user's needs.  PowerChute PE automatically loads at computer startup, and resides as an icon on the right-side of the Window's task bar.  It monitors the unit's status, and provides information concerning abnormal power events that have occurred for future reference.
+
+In order to assure that there is enough battery power for this unit to operate properly, I only attached the PC and monitor to the powered row of outlets.  Transformers seem to use a lot of power, and to gain the most time available for adequate shut-down times they should only be plugged into the "surge only" outlet row.
+
+When A/C power fails, the unit immediately picks up the power load.  It will then begin to shut down the PC if A/C power does not become available shortly .  The default method it uses is to place the PC into "hibernation mode", saving the desktop exactly "as is" for future start-up.  It accomplished this task with my PC perfectly.
+
+If I had wanted a UPS to keep my computer running for several minutes during an A/C power outage, this is not the unit I would have purchased.  However, to keep my system from re-booting due to the power being interrupted momentarily, or to shut down the PC safely should the power outage last longer, this is a cost-effective solution for those tasks.
+
+i n 6832033
+installed v 1569566
+unit n 9465459
+on r 68368
+hp n 13645010
+amd n 14256889
+64 a 2192567
+a n 15089803
+19 n 13747989
+inch n 13713300
+lcd n 3676759
+monitor n 3782430
+installation n 240938
+was n 9152944
+very a 1839317
+straightforward a 766102
+no r 24587
+problems n 5687338
+experienced v 2110220
+unit n 9465459
+has n 13888783
+two n 13743269
+rows n 445351
+power n 8177592
+outlets n 3748162
+eight n 3267340
+outlets n 3748162
+total a 515380
+all a 521584
+are v 2620587
+surge v 1885239
+protected a 1884930
+but r 4722
+only r 28319
+one n 5870055
+row n 445351
+has n 13888783
+battery n 768203
+backup n 1213886
+each r 239908
+row n 445351
+includes v 684838
+an n 6698150
+outlet n 3748162
+is v 2620587
+offset n 6680570
+allow v 724150
+transformer n 4471315
+power n 8177592
+supplies v 2479323
+be v 2620587
+connected a 1651346
+still r 27384
+accommodate v 2702830
+use n 414179
+other a 2069355
+outlets n 3748162
+unit n 9465459
+also r 47534
+surge v 1885239
+protects v 1128193
+incoming n 49003
+telephone v 789448
+line n 7028373
+interacts v 2376958
+well n 4572800
+transparently r 480751
+dsl n 3196990
+service n 98625
+unit n 9465459
+comes v 2729963
+a n 15089803
+connector n 3091374
+cable n 6275095
+is v 2620587
+used a 2494923
+transfer v 555240
+information n 5091527
+between r 250898
+unit n 9465459
+computer n 3082979
+also r 47534
+included v 684838
+is v 2620587
+personal a 1616157
+edition n 5840650
+software n 6566077
+software n 6566077
+replaces v 2257767
+ups v 154966
+option n 161243
+used a 2494923
+under r 486067
+power n 8177592
+icon n 3558971
+control v 2520997
+panel n 3098140
+pe n 6838437
+allows v 724150
+user n 10072546
+selection n 8399818
+alarms v 872414
+power n 8177592
+options n 161243
+best a 2226162
+fit n 14082788
+needs n 14493716
+pe n 6838437
+automatically r 5567
+loads v 487748
+at n 13681048
+computer n 3082979
+startup n 239910
+resides v 2650552
+as n 15089803
+an n 6698150
+icon n 3558971
+on r 68368
+task v 1166237
+bar n 2788689
+it n 6134510
+monitors n 3782430
+status n 13945919
+provides v 406963
+information n 5091527
+concerning v 2678438
+abnormal a 1533535
+power n 8177592
+events n 29378
+have v 1427127
+occurred v 723349
+future a 2992914
+reference v 1705257
+in n 14641223
+order n 1009871
+assure v 1766407
+there n 8489627
+is v 2620587
+enough a 2336109
+battery n 768203
+power n 8177592
+unit n 9465459
+operate v 83809
+properly r 505450
+i n 6832033
+only r 28319
+attached a 1973311
+pc n 3918480
+monitor n 3782430
+powered a 1828391
+row n 445351
+outlets n 3748162
+transformers n 4471315
+seem v 2134672
+use n 414179
+a n 15089803
+lot v 2468965
+power n 8177592
+gain n 13254805
+most a 1557120
+time n 15135822
+available a 183053
+adequate a 2336109
+times n 15135822
+only r 28319
+be v 2620587
+plugged v 188000
+surge v 1885239
+only r 28319
+outlet n 3748162
+row n 445351
+a n 15089803
+c n 3066743
+power n 8177592
+fails v 560247
+unit n 9465459
+immediately r 48739
+picks v 842772
+up a 2490170
+power n 8177592
+load v 487748
+it n 6134510
+will n 5652593
+then n 15296354
+begin n 10841657
+shut a 1655162
+down v 1197014
+pc n 3918480
+a n 15089803
+c n 3066743
+power n 8177592
+does n 8132955
+not r 24073
+become v 149583
+available a 183053
+shortly r 33922
+default v 2253766
+method n 549766
+it n 6134510
+uses n 14660443
+is v 2620587
+place n 8559508
+pc n 3918480
+hibernation n 14014849
+mode n 6861630
+saving a 1130733
+desktop n 2769075
+exactly r 368287
+as n 15089803
+is v 2620587
+future a 2992914
+it n 6134510
+accomplished v 2526085
+task v 1166237
+pc n 3918480
+perfectly r 9650
+i n 6832033
+had v 1427127
+wanted v 1825237
+a n 15089803
+ups v 154966
+keep v 2684924
+computer n 3082979
+running v 1143838
+several a 494409
+minutes n 15234764
+an n 6698150
+a n 15089803
+c n 3066743
+power n 8177592
+outage n 7421859
+is v 2620587
+not r 24073
+unit n 9465459
+i n 6832033
+have v 1427127
+purchased v 2207206
+however r 28424
+keep v 2684924
+system n 5661996
+due n 5176082
+power n 8177592
+being v 2614181
+interrupted a 598413
+momentarily r 34403
+or n 9133010
+shut a 1655162
+down v 1197014
+pc n 3918480
+safely r 154213
+power n 8177592
+outage n 7421859
+last n 7291794
+longer a 2005756
+is v 2620587
+a n 15089803
+cost-effective a 840103
+solution n 8005954
+tasks v 1166237
+======================================================================
+[(u'i', 1.0, u'n', 0.0, 0.0), (u'installed', 1.0, u'v', 0.0, 0.0), (u'this', 1.0, None, 0.0, 0.0), (u'unit', 1.0, u'n', 0.0, 0.0), (u'on', 1.0, u'r', 0.0, 0.0), (u'my', 1.0, None, 0.0, 0.0), (u'hp', 1.0, u'n', 0.0, 0.0), (u'amd', 0.875, u'n', 0.125, 0.0), (u'64', 1.0, u'a', 0.0, 0.0), (u'x2', 1.0, None, 0.0, 0.0), (u'with', 1.0, None, 0.0, 0.0), (u'a', 0.625, u'n', 0.125, 0.25), (u'19', 1.0, u'n', 0.0, 0.0), (u'-', 1.0, None, 0.0, 0.0), (u'inch', 1.0, u'n', 0.0, 0.0), (u'lcd', 1.0, u'n', 0.0, 0.0), (u'monitor', 1.0, u'n', 0.0, 0.0), (u'.', 1.0, None, 0.0, 0.0), (u'installation', 1.0, u'n', 0.0, 0.0), (u'was', 1.0, u'n', 0.0, 0.0), (u'very', 0.5, u'a', 0.5, 0.0), (u'straightforward', 0.375, u'a', 0.0, 0.625), (u',', 1.0, None, 0.0, 0.0), (u'with', 1.0, None, 0.0, 0.0), (u'no', 0.5, u'r', 0.0, 0.5), (u'problems', 0.75, u'n', 0.0, 0.25), (u'experienced', 1.0, u'v', 0.0, 0.0), (u'.', 1.0, None, 0.0, 0.0), (u'the', 1.0, None, 0.0, 0.0), (u'unit', 1.0, u'n', 0.0, 0.0), (u'has', 1.0, u'n', 0.0, 0.0), (u'two', 1.0, u'n', 0.0, 0.0), (u'rows', 1.0, u'n', 0.0, 0.0), (u'of', 1.0, None, 0.0, 0.0), (u'power', 1.0, u'n', 0.0, 0.0), (u'outlets', 1.0, u'n', 0.0, 0.0), (u'-', 1.0, None, 0.0, 0.0), (u'eight', 1.0, u'n', 0.0, 0.0), (u'outlets', 1.0, u'n', 0.0, 0.0), (u'total', 1.0, u'a', 0.0, 0.0), (u'.', 1.0, None, 0.0, 0.0), (u'all', 0.625, u'a', 0.375, 0.0), (u'are', 1.0, u'v', 0.0, 0.0), (u'surge', 1.0, u'v', 0.0, 0.0), (u'protected', 0.25, u'a', 0.0, 0.75), (u',', 1.0, None, 0.0, 0.0), (u'but', 1.0, u'r', 0.0, 0.0), (u'only', 1.0, u'r', 0.0, 0.0), (u'one', 1.0, u'n', 0.0, 0.0), (u'row', 1.0, u'n', 0.0, 0.0), (u'has', 1.0, u'n', 0.0, 0.0), (u'battery', 0.75, u'n', 0.0, 0.25), (u'backup', 1.0, u'n', 0.0, 0.0), (u'.', 1.0, None, 0.0, 0.0), (u'each', 1.0, u'r', 0.0, 0.0), (u'row', 1.0, u'n', 0.0, 0.0), (u'includes', 1.0, u'v', 0.0, 0.0), (u'an', 0.875, u'n', 0.0, 0.125), (u'outlet', 1.0, u'n', 0.0, 0.0), (u'that', 1.0, None, 0.0, 0.0), (u'is', 1.0, u'v', 0.0, 0.0), (u'offset', 1.0, u'n', 0.0, 0.0), (u'to', 1.0, None, 0.0, 0.0), (u'allow', 0.875, u'v', 0.125, 0.0), (u'transformer', 1.0, u'n', 0.0, 0.0), (u'power', 1.0, u'n', 0.0, 0.0), (u'supplies', 1.0, u'v', 0.0, 0.0), (u'to', 1.0, None, 0.0, 0.0), (u'be', 1.0, u'v', 0.0, 0.0), (u'connected', 1.0, u'a', 0.0, 0.0), (u'and', 1.0, None, 0.0, 0.0), (u'still', 0.375, u'r', 0.125, 0.5), (u'accommodate', 0.25, u'v', 0.75, 0.0), (u'use', 0.75, u'n', 0.25, 0.0), (u'of', 1.0, None, 0.0, 0.0), (u'the', 1.0, None, 0.0, 0.0), (u'other', 0.375, u'a', 0.0, 0.625), (u'outlets', 1.0, u'n', 0.0, 0.0), (u'.', 1.0, None, 0.0, 0.0), (u'the', 1.0, None, 0.0, 0.0), (u'unit', 1.0, u'n', 0.0, 0.0), (u'also', 1.0, u'r', 0.0, 0.0), (u'surge', 1.0, u'v', 0.0, 0.0), (u'protects', 0.25, u'v', 0.0, 0.75), (u'the', 1.0, None, 0.0, 0.0), (u'incoming', 1.0, u'n', 0.0, 0.0), (u'telephone', 1.0, u'v', 0.0, 0.0), (u'line', 1.0, u'n', 0.0, 0.0), (u',', 1.0, None, 0.0, 0.0), (u'and', 1.0, None, 0.0, 0.0), (u'interacts', 1.0, u'v', 0.0, 0.0), (u'well', 1.0, u'n', 0.0, 0.0), (u'transparently', 0.875, u'r', 0.125, 0.0), (u'my', 1.0, None, 0.0, 0.0), (u'dsl', 1.0, u'n', 0.0, 0.0), (u'service', 1.0, u'n', 0.0, 0.0), (u'.', 1.0, None, 0.0, 0.0), (u'the', 1.0, None, 0.0, 0.0), (u'unit', 1.0, u'n', 0.0, 0.0), (u'comes', 1.0, u'v', 0.0, 0.0), (u'with', 1.0, None, 0.0, 0.0), (u'a', 0.625, u'n', 0.125, 0.25), (u'usb', 1.0, None, 0.0, 0.0), (u'connector', 1.0, u'n', 0.0, 0.0), (u'cable', 1.0, u'n', 0.0, 0.0), (u'that', 1.0, None, 0.0, 0.0), (u'is', 1.0, u'v', 0.0, 0.0), (u'used', 1.0, u'a', 0.0, 0.0), (u'to', 1.0, None, 0.0, 0.0), (u'transfer', 1.0, u'v', 0.0, 0.0), (u'information', 1.0, u'n', 0.0, 0.0), (u'between', 1.0, u'r', 0.0, 0.0), (u'the', 1.0, None, 0.0, 0.0), (u'unit', 1.0, u'n', 0.0, 0.0), (u'and', 1.0, None, 0.0, 0.0), (u'the', 1.0, None, 0.0, 0.0), (u'computer', 1.0, u'n', 0.0, 0.0), (u'.', 1.0, None, 0.0, 0.0), (u'also', 1.0, u'r', 0.0, 0.0), (u'included', 1.0, u'v', 0.0, 0.0), (u'is', 1.0, u'v', 0.0, 0.0), (u'"', 1.0, None, 0.0, 0.0), (u'powerchute', 1.0, None, 0.0, 0.0), (u'personal', 1.0, u'a', 0.0, 0.0), (u'edition', 1.0, u'n', 0.0, 0.0), (u'"', 1.0, None, 0.0, 0.0), (u'software', 1.0, u'n', 0.0, 0.0), (u'.', 1.0, None, 0.0, 0.0), (u'this', 1.0, None, 0.0, 0.0), (u'software', 1.0, u'n', 0.0, 0.0), (u'replaces', 1.0, u'v', 0.0, 0.0), (u'the', 1.0, None, 0.0, 0.0), (u'ups', 1.0, u'v', 0.0, 0.0), (u'option', 1.0, u'n', 0.0, 0.0), (u'used', 1.0, u'a', 0.0, 0.0), (u'under', 1.0, u'r', 0.0, 0.0), (u'the', 1.0, None, 0.0, 0.0), (u'"', 1.0, None, 0.0, 0.0), (u'power', 1.0, u'n', 0.0, 0.0), (u'"', 1.0, None, 0.0, 0.0), (u'icon', 1.0, u'n', 0.0, 0.0), (u'of', 1.0, None, 0.0, 0.0), (u"widow's", 1.0, None, 0.0, 0.0), (u'xp', 1.0, None, 0.0, 0.0), (u'control', 1.0, u'v', 0.0, 0.0), (u'panel', 1.0, u'n', 0.0, 0.0), (u'.', 1.0, None, 0.0, 0.0), (u'powerchute', 1.0, None, 0.0, 0.0), (u'pe', 1.0, u'n', 0.0, 0.0), (u'allows', 0.875, u'v', 0.125, 0.0), (u'user', 1.0, u'n', 0.0, 0.0), (u'selection', 1.0, u'n', 0.0, 0.0), (u'of', 1.0, None, 0.0, 0.0), (u'alarms', 1.0, u'v', 0.0, 0.0), (u'and', 1.0, None, 0.0, 0.0), (u'power', 1.0, u'n', 0.0, 0.0), (u'options', 1.0, u'n', 0.0, 0.0), (u'to', 1.0, None, 0.0, 0.0), (u'best', 0.375, u'a', 0.625, 0.0), (u'fit', 0.625, u'n', 0.0, 0.375), (u'the', 1.0, None, 0.0, 0.0), (u"user's", 1.0, None, 0.0, 0.0), (u'needs', 0.625, u'n', 0.0, 0.375), (u'.', 1.0, None, 0.0, 0.0), (u'powerchute', 1.0, None, 0.0, 0.0), (u'pe', 1.0, u'n', 0.0, 0.0), (u'automatically', 0.625, u'r', 0.375, 0.0), (u'loads', 0.625, u'v', 0.0, 0.375), (u'at', 1.0, u'n', 0.0, 0.0), (u'computer', 1.0, u'n', 0.0, 0.0), (u'startup', 1.0, u'n', 0.0, 0.0), (u',', 1.0, None, 0.0, 0.0), (u'and', 1.0, None, 0.0, 0.0), (u'resides', 1.0, u'v', 0.0, 0.0), (u'as', 0.625, u'n', 0.125, 0.25), (u'an', 0.875, u'n', 0.0, 0.125), (u'icon', 1.0, u'n', 0.0, 0.0), (u'on', 1.0, u'r', 0.0, 0.0), (u'the', 1.0, None, 0.0, 0.0), (u'right-side', 1.0, None, 0.0, 0.0), (u'of', 1.0, None, 0.0, 0.0), (u'the', 1.0, None, 0.0, 0.0), (u"window's", 1.0, None, 0.0, 0.0), (u'task', 1.0, u'v', 0.0, 0.0), (u'bar', 1.0, u'n', 0.0, 0.0), (u'.', 1.0, None, 0.0, 0.0), (u'it', 1.0, u'n', 0.0, 0.0), (u'monitors', 1.0, u'n', 0.0, 0.0), (u'the', 1.0, None, 0.0, 0.0), (u"unit's", 1.0, None, 0.0, 0.0), (u'status', 1.0, u'n', 0.0, 0.0), (u',', 1.0, None, 0.0, 0.0), (u'and', 1.0, None, 0.0, 0.0), (u'provides', 0.875, u'v', 0.125, 0.0), (u'information', 1.0, u'n', 0.0, 0.0), (u'concerning', 0.625, u'v', 0.375, 0.0), (u'abnormal', 0.375, u'a', 0.5, 0.125), (u'power', 1.0, u'n', 0.0, 0.0), (u'events', 1.0, u'n', 0.0, 0.0), (u'that', 1.0, None, 0.0, 0.0), (u'have', 1.0, u'v', 0.0, 0.0), (u'occurred', 0.5, u'v', 0.5, 0.0), (u'for', 1.0, None, 0.0, 0.0), (u'future', 1.0, u'a', 0.0, 0.0), (u'reference', 1.0, u'v', 0.0, 0.0), (u'.', 1.0, None, 0.0, 0.0), (u'in', 1.0, u'n', 0.0, 0.0), (u'order', 1.0, u'n', 0.0, 0.0), (u'to', 1.0, None, 0.0, 0.0), (u'assure', 1.0, u'v', 0.0, 0.0), (u'that', 1.0, None, 0.0, 0.0), (u'there', 1.0, u'n', 0.0, 0.0), (u'is', 1.0, u'v', 0.0, 0.0), (u'enough', 0.875, u'a', 0.125, 0.0), (u'battery', 0.75, u'n', 0.0, 0.25), (u'power', 1.0, u'n', 0.0, 0.0), (u'for', 1.0, None, 0.0, 0.0), (u'this', 1.0, None, 0.0, 0.0), (u'unit', 1.0, u'n', 0.0, 0.0), (u'to', 1.0, None, 0.0, 0.0), (u'operate', 1.0, u'v', 0.0, 0.0), (u'properly', 0.875, u'r', 0.125, 0.0), (u',', 1.0, None, 0.0, 0.0), (u'i', 1.0, u'n', 0.0, 0.0), (u'only', 1.0, u'r', 0.0, 0.0), (u'attached', 1.0, u'a', 0.0, 0.0), (u'the', 1.0, None, 0.0, 0.0), (u'pc', 1.0, u'n', 0.0, 0.0), (u'and', 1.0, None, 0.0, 0.0), (u'monitor', 1.0, u'n', 0.0, 0.0), (u'to', 1.0, None, 0.0, 0.0), (u'the', 1.0, None, 0.0, 0.0), (u'powered', 1.0, u'a', 0.0, 0.0), (u'row', 1.0, u'n', 0.0, 0.0), (u'of', 1.0, None, 0.0, 0.0), (u'outlets', 1.0, u'n', 0.0, 0.0), (u'.', 1.0, None, 0.0, 0.0), (u'transformers', 1.0, u'n', 0.0, 0.0), (u'seem', 0.75, u'v', 0.125, 0.125), (u'to', 1.0, None, 0.0, 0.0), (u'use', 0.75, u'n', 0.25, 0.0), (u'a', 0.625, u'n', 0.125, 0.25), (u'lot', 1.0, u'v', 0.0, 0.0), (u'of', 1.0, None, 0.0, 0.0), (u'power', 1.0, u'n', 0.0, 0.0), (u',', 1.0, None, 0.0, 0.0), (u'and', 1.0, None, 0.0, 0.0), (u'to', 1.0, None, 0.0, 0.0), (u'gain', 1.0, u'n', 0.0, 0.0), (u'the', 1.0, None, 0.0, 0.0), (u'most', 1.0, u'a', 0.0, 0.0), (u'time', 1.0, u'n', 0.0, 0.0), (u'available', 0.625, u'a', 0.375, 0.0), (u'for', 1.0, None, 0.0, 0.0), (u'adequate', 0.875, u'a', 0.125, 0.0), (u'shut-down', 1.0, None, 0.0, 0.0), (u'times', 1.0, u'n', 0.0, 0.0), (u'they', 1.0, None, 0.0, 0.0), (u'should', 1.0, None, 0.0, 0.0), (u'only', 1.0, u'r', 0.0, 0.0), (u'be', 1.0, u'v', 0.0, 0.0), (u'plugged', 1.0, u'v', 0.0, 0.0), (u'into', 1.0, None, 0.0, 0.0), (u'the', 1.0, None, 0.0, 0.0), (u'"', 1.0, None, 0.0, 0.0), (u'surge', 1.0, u'v', 0.0, 0.0), (u'only', 1.0, u'r', 0.0, 0.0), (u'"', 1.0, None, 0.0, 0.0), (u'outlet', 1.0, u'n', 0.0, 0.0), (u'row', 1.0, u'n', 0.0, 0.0), (u'.', 1.0, None, 0.0, 0.0), (u'when', 1.0, None, 0.0, 0.0), (u'a', 0.625, u'n', 0.125, 0.25), (u'/', 1.0, None, 0.0, 0.0), (u'c', 1.0, u'n', 0.0, 0.0), (u'power', 1.0, u'n', 0.0, 0.0), (u'fails', 0.875, u'v', 0.0, 0.125), (u',', 1.0, None, 0.0, 0.0), (u'the', 1.0, None, 0.0, 0.0), (u'unit', 1.0, u'n', 0.0, 0.0), (u'immediately', 0.625, u'r', 0.0, 0.375), (u'picks', 0.625, u'v', 0.0, 0.375), (u'up', 1.0, u'a', 0.0, 0.0), (u'the', 1.0, None, 0.0, 0.0), (u'power', 1.0, u'n', 0.0, 0.0), (u'load', 0.625, u'v', 0.0, 0.375), (u'.', 1.0, None, 0.0, 0.0), (u'it', 1.0, u'n', 0.0, 0.0), (u'will', 0.875, u'n', 0.125, 0.0), (u'then', 0.625, u'n', 0.375, 0.0), (u'begin', 1.0, u'n', 0.0, 0.0), (u'to', 1.0, None, 0.0, 0.0), (u'shut', 1.0, u'a', 0.0, 0.0), (u'down', 1.0, u'v', 0.0, 0.0), (u'the', 1.0, None, 0.0, 0.0), (u'pc', 1.0, u'n', 0.0, 0.0), (u'if', 1.0, None, 0.0, 0.0), (u'a', 0.625, u'n', 0.125, 0.25), (u'/', 1.0, None, 0.0, 0.0), (u'c', 1.0, u'n', 0.0, 0.0), (u'power', 1.0, u'n', 0.0, 0.0), (u'does', 1.0, u'n', 0.0, 0.0), (u'not', 0.375, u'r', 0.0, 0.625), (u'become', 1.0, u'v', 0.0, 0.0), (u'available', 0.625, u'a', 0.375, 0.0), (u'shortly', 0.875, u'r', 0.0, 0.125), (u'.', 1.0, None, 0.0, 0.0), (u'the', 1.0, None, 0.0, 0.0), (u'default', 1.0, u'v', 0.0, 0.0), (u'method', 0.375, u'n', 0.625, 0.0), (u'it', 1.0, u'n', 0.0, 0.0), (u'uses', 1.0, u'n', 0.0, 0.0), (u'is', 1.0, u'v', 0.0, 0.0), (u'to', 1.0, None, 0.0, 0.0), (u'place', 1.0, u'n', 0.0, 0.0), (u'the', 1.0, None, 0.0, 0.0), (u'pc', 1.0, u'n', 0.0, 0.0), (u'into', 1.0, None, 0.0, 0.0), (u'"', 1.0, None, 0.0, 0.0), (u'hibernation', 1.0, u'n', 0.0, 0.0), (u'mode', 1.0, u'n', 0.0, 0.0), (u'"', 1.0, None, 0.0, 0.0), (u',', 1.0, None, 0.0, 0.0), (u'saving', 0.375, u'a', 0.625, 0.0), (u'the', 1.0, None, 0.0, 0.0), (u'desktop', 1.0, u'n', 0.0, 0.0), (u'exactly', 0.625, u'r', 0.375, 0.0), (u'"', 1.0, None, 0.0, 0.0), (u'as', 0.625, u'n', 0.125, 0.25), (u'is', 1.0, u'v', 0.0, 0.0), (u'"', 1.0, None, 0.0, 0.0), (u'for', 1.0, None, 0.0, 0.0), (u'future', 1.0, u'a', 0.0, 0.0), (u'start-up', 1.0, None, 0.0, 0.0), (u'.', 1.0, None, 0.0, 0.0), (u'it', 1.0, u'n', 0.0, 0.0), (u'accomplished', 0.75, u'v', 0.125, 0.125), (u'this', 1.0, None, 0.0, 0.0), (u'task', 1.0, u'v', 0.0, 0.0), (u'with', 1.0, None, 0.0, 0.0), (u'my', 1.0, None, 0.0, 0.0), (u'pc', 1.0, u'n', 0.0, 0.0), (u'perfectly', 0.5, u'r', 0.375, 0.125), (u'.', 1.0, None, 0.0, 0.0), (u'if', 1.0, None, 0.0, 0.0), (u'i', 1.0, u'n', 0.0, 0.0), (u'had', 1.0, u'v', 0.0, 0.0), (u'wanted', 0.75, u'v', 0.25, 0.0), (u'a', 0.625, u'n', 0.125, 0.25), (u'ups', 1.0, u'v', 0.0, 0.0), (u'to', 1.0, None, 0.0, 0.0), (u'keep', 1.0, u'v', 0.0, 0.0), (u'my', 1.0, None, 0.0, 0.0), (u'computer', 1.0, u'n', 0.0, 0.0), (u'running', 1.0, u'v', 0.0, 0.0), (u'for', 1.0, None, 0.0, 0.0), (u'several', 0.75, u'a', 0.25, 0.0), (u'minutes', 1.0, u'n', 0.0, 0.0), (u'during', 1.0, None, 0.0, 0.0), (u'an', 0.875, u'n', 0.0, 0.125), (u'a', 0.625, u'n', 0.125, 0.25), (u'/', 1.0, None, 0.0, 0.0), (u'c', 1.0, u'n', 0.0, 0.0), (u'power', 1.0, u'n', 0.0, 0.0), (u'outage', 1.0, u'n', 0.0, 0.0), (u',', 1.0, None, 0.0, 0.0), (u'this', 1.0, None, 0.0, 0.0), (u'is', 1.0, u'v', 0.0, 0.0), (u'not', 0.375, u'r', 0.0, 0.625), (u'the', 1.0, None, 0.0, 0.0), (u'unit', 1.0, u'n', 0.0, 0.0), (u'i', 1.0, u'n', 0.0, 0.0), (u'would', 1.0, None, 0.0, 0.0), (u'have', 1.0, u'v', 0.0, 0.0), (u'purchased', 1.0, u'v', 0.0, 0.0), (u'.', 1.0, None, 0.0, 0.0), (u'however', 0.625, u'r', 0.375, 0.0), (u',', 1.0, None, 0.0, 0.0), (u'to', 1.0, None, 0.0, 0.0), (u'keep', 1.0, u'v', 0.0, 0.0), (u'my', 1.0, None, 0.0, 0.0), (u'system', 0.75, u'n', 0.25, 0.0), (u'from', 1.0, None, 0.0, 0.0), (u're-booting', 1.0, None, 0.0, 0.0), (u'due', 0.625, u'n', 0.375, 0.0), (u'to', 1.0, None, 0.0, 0.0), (u'the', 1.0, None, 0.0, 0.0), (u'power', 1.0, u'n', 0.0, 0.0), (u'being', 1.0, u'v', 0.0, 0.0), (u'interrupted', 1.0, u'a', 0.0, 0.0), (u'momentarily', 1.0, u'r', 0.0, 0.0), (u',', 1.0, None, 0.0, 0.0), (u'or', 1.0, u'n', 0.0, 0.0), (u'to', 1.0, None, 0.0, 0.0), (u'shut', 1.0, u'a', 0.0, 0.0), (u'down', 1.0, u'v', 0.0, 0.0), (u'the', 1.0, None, 0.0, 0.0), (u'pc', 1.0, u'n', 0.0, 0.0), (u'safely', 0.625, u'r', 0.375, 0.0), (u'should', 1.0, None, 0.0, 0.0), (u'the', 1.0, None, 0.0, 0.0), (u'power', 1.0, u'n', 0.0, 0.0), (u'outage', 1.0, u'n', 0.0, 0.0), (u'last', 1.0, u'n', 0.0, 0.0), (u'longer', 0.125, u'a', 0.375, 0.5), (u',', 1.0, None, 0.0, 0.0), (u'this', 1.0, None, 0.0, 0.0), (u'is', 1.0, u'v', 0.0, 0.0), (u'a', 0.625, u'n', 0.125, 0.25), (u'cost-effective', 0.875, u'a', 0.125, 0.0), (u'solution', 1.0, u'n', 0.0, 0.0), (u'for', 1.0, None, 0.0, 0.0), (u'those', 1.0, None, 0.0, 0.0), (u'tasks', 1.0, u'v', 0.0, 0.0), (u'.', 1.0, None, 0.0, 0.0)]
+======================================================================
+[(u'hp', 0.0, 0.0, u'amd', 0.125, 0.0), (u'was', 0.0, 0.0, u'very', 0.5, 0.0), (u'very', 0.5, 0.0, u'straightforward', 0.0, 0.625), (u'with', 0.0, 0.0, u'no', 0.0, 0.5), (u'no', 0.0, 0.5, u'problems', 0.0, 0.25), (u'.', 0.0, 0.0, u'all', 0.375, 0.0), (u'surge', 0.0, 0.0, u'protected', 0.0, 0.75), (u'has', 0.0, 0.0, u'battery', 0.0, 0.25), (u'to', 0.0, 0.0, u'allow', 0.125, 0.0), (u'and', 0.0, 0.0, u'still', 0.125, 0.5), (u'still', 0.125, 0.5, u'accommodate', 0.75, 0.0), (u'accommodate', 0.75, 0.0, u'use', 0.25, 0.0), (u'the', 0.0, 0.0, u'other', 0.0, 0.625), (u'surge', 0.0, 0.0, u'protects', 0.0, 0.75), (u'well', 0.0, 0.0, u'transparently', 0.125, 0.0), (u'pe', 0.0, 0.0, u'allows', 0.125, 0.0), (u'to', 0.0, 0.0, u'best', 0.625, 0.0), (u'best', 0.625, 0.0, u'fit', 0.0, 0.375), (u"user's", 0.0, 0.0, u'needs', 0.0, 0.375), (u'pe', 0.0, 0.0, u'automatically', 0.375, 0.0), (u'automatically', 0.375, 0.0, u'loads', 0.0, 0.375), (u'and', 0.0, 0.0, u'provides', 0.125, 0.0), (u'information', 0.0, 0.0, u'concerning', 0.375, 0.0), (u'concerning', 0.375, 0.0, u'abnormal', 0.5, 0.125), (u'have', 0.0, 0.0, u'occurred', 0.5, 0.0), (u'is', 0.0, 0.0, u'enough', 0.125, 0.0), (u'enough', 0.125, 0.0, u'battery', 0.0, 0.25), (u'operate', 0.0, 0.0, u'properly', 0.125, 0.0), (u'transformers', 0.0, 0.0, u'seem', 0.125, 0.125), (u'to', 0.0, 0.0, u'use', 0.25, 0.0), (u'time', 0.0, 0.0, u'available', 0.375, 0.0), (u'for', 0.0, 0.0, u'adequate', 0.125, 0.0), (u'power', 0.0, 0.0, u'fails', 0.0, 0.125), (u'unit', 0.0, 0.0, u'immediately', 0.0, 0.375), (u'immediately', 0.0, 0.375, u'picks', 0.0, 0.375), (u'power', 0.0, 0.0, u'load', 0.0, 0.375), (u'will', 0.125, 0.0, u'then', 0.375, 0.0), (u'does', 0.0, 0.0, u'not', 0.0, 0.625), (u'become', 0.0, 0.0, u'available', 0.375, 0.0), (u'available', 0.375, 0.0, u'shortly', 0.0, 0.125), (u'default', 0.0, 0.0, u'method', 0.625, 0.0), (u',', 0.0, 0.0, u'saving', 0.625, 0.0), (u'desktop', 0.0, 0.0, u'exactly', 0.375, 0.0), (u'it', 0.0, 0.0, u'accomplished', 0.125, 0.125), (u'pc', 0.0, 0.0, u'perfectly', 0.375, 0.125), (u'had', 0.0, 0.0, u'wanted', 0.25, 0.0), (u'for', 0.0, 0.0, u'several', 0.25, 0.0), (u'is', 0.0, 0.0, u'not', 0.0, 0.625), (u'.', 0.0, 0.0, u'however', 0.375, 0.0), (u'my', 0.0, 0.0, u'system', 0.25, 0.0), (u're-booting', 0.0, 0.0, u'due', 0.375, 0.0), (u'pc', 0.0, 0.0, u'safely', 0.375, 0.0), (u'last', 0.0, 0.0, u'longer', 0.375, 0.5), (u'a', 0.125, 0.25, u'cost-effective', 0.125, 0.0)]
+
+
+---------------------------
+14.375 10.175
+======================================================================
+
+I used it in Brasil and had it developed.  I was very happy with it.  It was the very first time I've used a digital camera
+
+i n 6832033
+used a 2494923
+it n 6134510
+in n 14641223
+brasil n 8853741
+had v 1427127
+it n 6134510
+developed a 1288895
+i n 6832033
+was n 9152944
+very a 1839317
+happy a 1000442
+it n 6134510
+it n 6134510
+was n 9152944
+very a 1839317
+first n 3350011
+time n 15135822
+used a 2494923
+a n 15089803
+digital a 110701
+camera n 4404997
+======================================================================
+[(u'i', 1.0, u'n', 0.0, 0.0), (u'used', 1.0, u'a', 0.0, 0.0), (u'it', 1.0, u'n', 0.0, 0.0), (u'in', 1.0, u'n', 0.0, 0.0), (u'brasil', 1.0, u'n', 0.0, 0.0), (u'and', 1.0, None, 0.0, 0.0), (u'had', 1.0, u'v', 0.0, 0.0), (u'it', 1.0, u'n', 0.0, 0.0), (u'developed', 1.0, u'a', 0.0, 0.0), (u'.', 1.0, None, 0.0, 0.0), (u'i', 1.0, u'n', 0.0, 0.0), (u'was', 1.0, u'n', 0.0, 0.0), (u'very', 0.5, u'a', 0.5, 0.0), (u'happy', 0.875, u'a', 0.125, 0.0), (u'with', 1.0, None, 0.0, 0.0), (u'it', 1.0, u'n', 0.0, 0.0), (u'.', 1.0, None, 0.0, 0.0), (u'it', 1.0, u'n', 0.0, 0.0), (u'was', 1.0, u'n', 0.0, 0.0), (u'the', 1.0, None, 0.0, 0.0), (u'very', 0.5, u'a', 0.5, 0.0), (u'first', 1.0, u'n', 0.0, 0.0), (u'time', 1.0, u'n', 0.0, 0.0), (u"i've", 1.0, None, 0.0, 0.0), (u'used', 1.0, u'a', 0.0, 0.0), (u'a', 0.625, u'n', 0.125, 0.25), (u'digital', 1.0, u'a', 0.0, 0.0), (u'camera', 1.0, u'n', 0.0, 0.0)]
+======================================================================
+[(u'was', 0.0, 0.0, u'very', 0.5, 0.0), (u'very', 0.5, 0.0, u'happy', 0.125, 0.0), (u'the', 0.0, 0.0, u'very', 0.5, 0.0)]
+
+
+---------------------------
+1.15625 0.0
+======================================================================
+
+I had two unworking disks (One a PS2 game and the other a PSX game) so I picked this up and both work fine now! The only thing is you'll have to run it through a couple times. If you run it through once you'll see little difference... But for the price and since it does work... eventually, I still give it a 5 out of 5.
+
+i n 6832033
+had v 1427127
+two n 13743269
+disks n 3208556
+one n 5870055
+a n 15089803
+game n 513089
+other a 2069355
+a n 15089803
+game n 513089
+so n 6868844
+i n 6832033
+picked v 842772
+up a 2490170
+both a 2268133
+work v 2410855
+fine n 13301328
+now n 15119919
+only r 28319
+thing n 2452
+is v 2620587
+have v 1427127
+run n 13760129
+it n 6134510
+through a 762168
+a n 15089803
+couple n 9257563
+times n 15135822
+run n 13760129
+it n 6134510
+through a 762168
+once r 181342
+see v 1156568
+little r 100002
+difference n 7366289
+but r 4722
+price v 2351010
+it n 6134510
+does n 8132955
+work v 2410855
+eventually r 48138
+i n 6832033
+still r 27384
+give v 2308741
+it n 6134510
+a n 15089803
+5 n 13744521
+out a 949797
+5 n 13744521
+======================================================================
+[(u'i', 1.0, u'n', 0.0, 0.0), (u'had', 1.0, u'v', 0.0, 0.0), (u'two', 1.0, u'n', 0.0, 0.0), (u'unworking', 1.0, None, 0.0, 0.0), (u'disks', 1.0, u'n', 0.0, 0.0), (u'(', 1.0, None, 0.0, 0.0), (u'one', 1.0, u'n', 0.0, 0.0), (u'a', 0.625, u'n', 0.125, 0.25), (u'ps2', 1.0, None, 0.0, 0.0), (u'game', 0.25, u'n', 0.25, 0.5), (u'and', 1.0, None, 0.0, 0.0), (u'the', 1.0, None, 0.0, 0.0), (u'other', 0.375, u'a', 0.0, 0.625), (u'a', 0.625, u'n', 0.125, 0.25), (u'psx', 1.0, None, 0.0, 0.0), (u'game', 0.25, u'n', 0.25, 0.5), (u')', 1.0, None, 0.0, 0.0), (u'so', 1.0, u'n', 0.0, 0.0), (u'i', 1.0, u'n', 0.0, 0.0), (u'picked', 0.625, u'v', 0.0, 0.375), (u'this', 1.0, None, 0.0, 0.0), (u'up', 1.0, u'a', 0.0, 0.0), (u'and', 1.0, None, 0.0, 0.0), (u'both', 1.0, u'a', 0.0, 0.0), (u'work', 1.0, u'v', 0.0, 0.0), (u'fine', 0.875, u'n', 0.0, 0.125), (u'now', 1.0, u'n', 0.0, 0.0), (u'!', 1.0, None, 0.0, 0.0), (u'the', 1.0, None, 0.0, 0.0), (u'only', 1.0, u'r', 0.0, 0.0), (u'thing', 1.0, u'n', 0.0, 0.0), (u'is', 1.0, u'v', 0.0, 0.0), (u"you'll", 1.0, None, 0.0, 0.0), (u'have', 1.0, u'v', 0.0, 0.0), (u'to', 1.0, None, 0.0, 0.0), (u'run', 1.0, u'n', 0.0, 0.0), (u'it', 1.0, u'n', 0.0, 0.0), (u'through', 0.625, u'a', 0.0, 0.375), (u'a', 0.625, u'n', 0.125, 0.25), (u'couple', 1.0, u'n', 0.0, 0.0), (u'times', 1.0, u'n', 0.0, 0.0), (u'.', 1.0, None, 0.0, 0.0), (u'if', 1.0, None, 0.0, 0.0), (u'you', 1.0, None, 0.0, 0.0), (u'run', 1.0, u'n', 0.0, 0.0), (u'it', 1.0, u'n', 0.0, 0.0), (u'through', 0.625, u'a', 0.0, 0.375), (u'once', 1.0, u'r', 0.0, 0.0), (u"you'll", 1.0, None, 0.0, 0.0), (u'see', 0.875, u'v', 0.125, 0.0), (u'little', 0.625, u'r', 0.0, 0.375), (u'difference', 0.625, u'n', 0.0, 0.375), (u'...', 1.0, None, 0.0, 0.0), (u'but', 1.0, u'r', 0.0, 0.0), (u'for', 1.0, None, 0.0, 0.0), (u'the', 1.0, None, 0.0, 0.0), (u'price', 1.0, u'v', 0.0, 0.0), (u'and', 1.0, None, 0.0, 0.0), (u'since', 1.0, None, 0.0, 0.0), (u'it', 1.0, u'n', 0.0, 0.0), (u'does', 1.0, u'n', 0.0, 0.0), (u'work', 1.0, u'v', 0.0, 0.0), (u'...', 1.0, None, 0.0, 0.0), (u'eventually', 1.0, u'r', 0.0, 0.0), (u',', 1.0, None, 0.0, 0.0), (u'i', 1.0, u'n', 0.0, 0.0), (u'still', 0.375, u'r', 0.125, 0.5), (u'give', 0.875, u'v', 0.125, 0.0), (u'it', 1.0, u'n', 0.0, 0.0), (u'a', 0.625, u'n', 0.125, 0.25), (u'5', 1.0, u'n', 0.0, 0.0), (u'out', 1.0, u'a', 0.0, 0.0), (u'of', 1.0, None, 0.0, 0.0), (u'5', 1.0, u'n', 0.0, 0.0), (u'.', 1.0, None, 0.0, 0.0)]
+======================================================================
+[(u'ps2', 0.0, 0.0, u'game', 0.25, 0.5), (u'the', 0.0, 0.0, u'other', 0.0, 0.625), (u'psx', 0.0, 0.0, u'game', 0.25, 0.5), (u'i', 0.0, 0.0, u'picked', 0.0, 0.375), (u'work', 0.0, 0.0, u'fine', 0.0, 0.125), (u'it', 0.0, 0.0, u'through', 0.0, 0.375), (u'it', 0.0, 0.0, u'through', 0.0, 0.375), (u"you'll", 0.0, 0.0, u'see', 0.125, 0.0), (u'see', 0.125, 0.0, u'little', 0.0, 0.375), (u'little', 0.0, 0.375, u'difference', 0.0, 0.375), (u'i', 0.0, 0.0, u'still', 0.125, 0.5), (u'still', 0.125, 0.5, u'give', 0.125, 0.0)]
+
+
+---------------------------
+1.125 4.4375
+======================================================================
+
+What an amazing product for such a small price.  It works right out of the box, but to get full functionality you need to install the encolsed drivers.  The option of mouse or pen makes it useful for everyday PC work as well using the pen for graphics.  I use it mainly for teaching via phone and use the whiteboard in messenger to communicate in words and pictures.  It really makes a difference.
+The unit seems well made and I like the fact you can personalise the tablet to add a picture of your choice.  I opted for the smallest in the range for value, and was not disappointed, but I am sure for more commerical use or for artwork a much bigger screen would be better, but at cost.
+The software bundle is ok too if you don't already have photoshop tools.
+The one quibble is that at home when I installed the drivers it continued to crash my PC with my wireless keyboard installed.  Not ideal, but as I dont use it at home any longer it is not a problem for me, but be careful, I am sure there will be a fix somewher
+
+an n 6698150
+amazing a 1282510
+product n 7999068
+such r 147386
+a n 15089803
+small a 1532912
+price v 2351010
+it n 6134510
+works v 2410855
+right a 1879464
+out a 949797
+box n 1440
