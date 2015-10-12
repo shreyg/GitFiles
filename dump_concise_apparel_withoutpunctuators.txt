@@ -1,0 +1,6264 @@
+[Found java: C:\Program Files\Java\jdk1.8.0_60\bin\java.exe]
+======================================================================
+
+These sunglasses are all right. They were a little crooked, but still cool..
+
+sunglasses n
+sunglasses n
+matched
+are v
+are v
+matched
+all r
+all r
+matched
+right r
+right r
+matched
+were v
+were v
+matched
+little a
+little a
+matched
+crooked a
+crooked a
+matched
+still r
+still r
+matched
+cool v
+cool v
+matched
+======================================================================
+[(u'these', 1, None, 0, 0), (u'sunglasses', 1.0, u'n', 0.0, 0.0), (u'are', 1.0, u'v', 0.0, 0.0), (u'all', 0.5, u'r', 0.5, 0.0), (u'right', 1.0, u'r', 0.0, 0.0), (u'they', 1, None, 0, 0), (u'were', 1.0, u'v', 0.0, 0.0), (u'a', 1, None, 0, 0), (u'little', 1.0, u'a', 0.0, 0.0), (u'crooked', 0.375, u'a', 0.0, 0.625), (u'but', 1, None, 0, 0), (u'still', 0.625, u'r', 0.0, 0.375), (u'cool', 1.0, u'v', 0.0, 0.0)]
+======================================================================
+[(u'are', 0.0, 0.0, u'all', 0.5, 0.0), (u'little', 0.0, 0.0, u'crooked', 0.0, 0.625), (u'but', 0, 0, u'still', 0.0, 0.375)]
+
+
+---------------------------
+0.5 0.6875
+======================================================================
+
+I don't see the difference between these bodysuits and the more expensive ones.  Fits my boy just right
+
+see v
+see v
+matched
+difference n
+difference n
+matched
+bodysuits n
+bodysuits n
+more r
+more r
+matched
+expensive a
+expensive a
+matched
+ones n
+ones n
+matched
+fits v
+fits v
+matched
+boy n
+boy n
+matched
+just r
+just r
+matched
+right r
+right r
+matched
+======================================================================
+[(u'i', 1, None, 0, 0), (u'dont', 1, None, 0, 0), (u'see', 1.0, u'v', 0.0, 0.0), (u'the', 1, None, 0, 0), (u'difference', 1.0, u'n', 0.0, 0.0), (u'between', 1, None, 0, 0), (u'these', 1, None, 0, 0), (u'bodysuits', 1.0, None, 0.0, 0.0), (u'and', 1, None, 0, 0), (u'the', 1, None, 0, 0), (u'more', 1.0, u'r', 0.0, 0.0), (u'expensive', 0.5, u'a', 0.5, 0.0), (u'ones', 1.0, u'n', 0.0, 0.0), (u'fits', 0.875, u'v', 0.0, 0.125), (u'my', 1, None, 0, 0), (u'boy', 0.75, u'n', 0.25, 0.0), (u'just', 0.875, u'r', 0.125, 0.0), (u'right', 1.0, u'r', 0.0, 0.0)]
+======================================================================
+[(u'more', 0.0, 0.0, u'expensive', 0.5, 0.0), (u'ones', 0.0, 0.0, u'fits', 0.0, 0.125), (u'my', 0, 0, u'boy', 0.25, 0.0), (u'boy', 0.25, 0.0, u'just', 0.125, 0.0)]
+
+
+---------------------------
+0.875 0.125
+======================================================================
+
+Your company was a pleasure to work with- thanks!  I will enjoy wearing the swimsuit that I ordered
+
+company n
+company n
+matched
+was v
+was v
+pleasure n
+pleasure n
+matched
+work v
+work v
+matched
+thanks n
+thanks n
+matched
+will v
+will v
+matched
+enjoy v
+enjoy v
+matched
+wearing v
+wearing v
+matched
+swimsuit n
+swimsuit n
+matched
+ordered v
+ordered v
+matched
+======================================================================
+[(u'your', 1, None, 0, 0), (u'company', 1.0, u'n', 0.0, 0.0), (u'was', 1.0, None, 0.0, 0.0), (u'a', 1, None, 0, 0), (u'pleasure', 1.0, u'n', 0.0, 0.0), (u'to', 1, None, 0, 0), (u'work', 1.0, u'v', 0.0, 0.0), (u'with', 1, None, 0, 0), (u'thanks', 0.875, u'n', 0.0, 0.125), (u'i', 1, None, 0, 0), (u'will', 1.0, u'v', 0.0, 0.0), (u'enjoy', 0.5, u'v', 0.5, 0.0), (u'wearing', 1.0, u'v', 0.0, 0.0), (u'the', 1, None, 0, 0), (u'swimsuit', 1.0, u'n', 0.0, 0.0), (u'that', 1, None, 0, 0), (u'i', 1, None, 0, 0), (u'ordered', 1.0, u'v', 0.0, 0.0)]
+======================================================================
+[(u'with', 0, 0, u'thanks', 0.0, 0.125), (u'will', 0.0, 0.0, u'enjoy', 0.5, 0.0)]
+
+
+---------------------------
+0.5 0.125
+======================================================================
+
+Nice shirt. Well made. Good price. What more can I say
+
+nice a
+nice a
+matched
+shirt n
+shirt n
+matched
+well r
+well r
+matched
+made v
+made v
+matched
+good a
+good a
+matched
+price n
+price n
+matched
+more a
+more a
+matched
+can v
+can v
+matched
+say v
+say v
+matched
+======================================================================
+[(u'nice', 0.25, u'a', 0.75, 0.0), (u'shirt', 1.0, u'n', 0.0, 0.0), (u'well', 0.25, u'r', 0.75, 0.0), (u'made', 0.125, u'v', 0.875, 0.0), (u'good', 0.375, u'a', 0.625, 0.0), (u'price', 1.0, u'n', 0.0, 0.0), (u'what', 1, None, 0, 0), (u'more', 1.0, u'a', 0.0, 0.0), (u'can', 1.0, u'v', 0.0, 0.0), (u'i', 1, None, 0, 0), (u'say', 1.0, u'v', 0.0, 0.0)]
+======================================================================
+[(None, 0.0, 0.0, u'nice', 0.75, 0.0), (u'shirt', 0.0, 0.0, u'well', 0.75, 0.0), (u'well', 0.75, 0.0, u'made', 0.875, 0.0), (u'made', 0.875, 0.0, u'good', 0.625, 0.0)]
+
+
+---------------------------
+4.625 0.0
+======================================================================
+
+The shirts are what I had asked for.  They are sturdy and well made.  I would buy more if I needed more.  Well worth the money spen
+
+shirts n
+shirts n
+matched
+are v
+are v
+matched
+had v
+had v
+matched
+asked v
+asked v
+matched
+are v
+are v
+matched
+sturdy a
+sturdy a
+matched
+well r
+well r
+matched
+made v
+made v
+matched
+would v
+would v
+buy v
+buy v
+matched
+more a
+more a
+matched
+needed v
+needed v
+matched
+more r
+more r
+matched
+well r
+well r
+matched
+worth a
+worth a
+matched
+money n
+money n
+matched
+spen n
+spen n
+======================================================================
+[(u'the', 1, None, 0, 0), (u'shirts', 1.0, u'n', 0.0, 0.0), (u'are', 1.0, u'v', 0.0, 0.0), (u'what', 1, None, 0, 0), (u'i', 1, None, 0, 0), (u'had', 1.0, u'v', 0.0, 0.0), (u'asked', 1.0, u'v', 0.0, 0.0), (u'for', 1, None, 0, 0), (u'they', 1, None, 0, 0), (u'are', 1.0, u'v', 0.0, 0.0), (u'sturdy', 0.5, u'a', 0.25, 0.25), (u'and', 1, None, 0, 0), (u'well', 0.875, u'r', 0.125, 0.0), (u'made', 1.0, u'v', 0.0, 0.0), (u'i', 1, None, 0, 0), (u'would', 1.0, None, 0.0, 0.0), (u'buy', 1.0, u'v', 0.0, 0.0), (u'more', 1.0, u'a', 0.0, 0.0), (u'if', 1, None, 0, 0), (u'i', 1, None, 0, 0), (u'needed', 0.75, u'v', 0.0, 0.25), (u'more', 1.0, u'r', 0.0, 0.0), (u'well', 0.875, u'r', 0.125, 0.0), (u'worth', 1.0, u'a', 0.0, 0.0), (u'the', 1, None, 0, 0), (u'money', 1.0, u'n', 0.0, 0.0), (u'spen', 1.0, None, 0.0, 0.0)]
+======================================================================
+[(u'are', 0.0, 0.0, u'sturdy', 0.25, 0.25), (u'and', 0, 0, u'well', 0.125, 0.0), (u'i', 0, 0, u'needed', 0.0, 0.25), (u'more', 0.0, 0.0, u'well', 0.125, 0.0)]
+
+
+---------------------------
+0.4375 0.5
+======================================================================
+
+It's golden color is very remarkable ..It looks like real gold..wonderful piece to have
+
+golden a
+golden a
+matched
+color n
+color n
+matched
+is v
+is v
+matched
+very r
+very r
+matched
+remarkable a
+remarkable a
+matched
+looks v
+looks v
+matched
+real a
+real a
+matched
+goldwonderful a
+goldwonderful a
+piece n
+piece n
+matched
+have v
+have v
+matched
+======================================================================
+[(u'its', 1, None, 0, 0), (u'golden', 0.125, u'a', 0.875, 0.0), (u'color', 1.0, u'n', 0.0, 0.0), (u'is', 0.625, u'v', 0.25, 0.125), (u'very', 0.5, u'r', 0.25, 0.25), (u'remarkable', 0.5, u'a', 0.25, 0.25), (u'it', 1, None, 0, 0), (u'looks', 1.0, u'v', 0.0, 0.0), (u'like', 1, None, 0, 0), (u'real', 0.875, u'a', 0.125, 0.0), (u'goldwonderful', 1.0, None, 0.0, 0.0), (u'piece', 1.0, u'n', 0.0, 0.0), (u'to', 1, None, 0, 0), (u'have', 1.0, u'v', 0.0, 0.0)]
+======================================================================
+[(u'its', 0, 0, u'golden', 0.875, 0.0), (u'is', 0.25, 0.125, u'very', 0.25, 0.25), (u'very', 0.25, 0.25, u'remarkable', 0.25, 0.25), (u'like', 0, 0, u'real', 0.125, 0.0)]
+
+
+---------------------------
+1.5 0.375
+======================================================================
+
+I found these at Lane Bryant and I absolutely love them! I wear them under my work clothes every day. You've got to try them
+
+found v
+found v
+matched
+lane n
+lane n
+matched
+bryant n
+bryant n
+absolutely r
+absolutely r
+matched
+love v
+love v
+matched
+wear v
+wear v
+matched
+work n
+work n
+matched
+clothes n
+clothes n
+matched
+day n
+day n
+matched
+youve n
+youve n
+got v
+got v
+matched
+try v
+try v
+matched
+======================================================================
+[(u'i', 1, None, 0, 0), (u'found', 1.0, u'v', 0.0, 0.0), (u'these', 1, None, 0, 0), (u'at', 1, None, 0, 0), (u'lane', 1.0, u'n', 0.0, 0.0), (u'bryant', 1.0, None, 0.0, 0.0), (u'and', 1, None, 0, 0), (u'i', 1, None, 0, 0), (u'absolutely', 0.5, u'r', 0.5, 0.0), (u'love', 0.5, u'v', 0.5, 0.0), (u'them', 1, None, 0, 0), (u'i', 1, None, 0, 0), (u'wear', 0.75, u'v', 0.0, 0.25), (u'them', 1, None, 0, 0), (u'under', 1, None, 0, 0), (u'my', 1, None, 0, 0), (u'work', 1.0, u'n', 0.0, 0.0), (u'clothes', 1.0, u'n', 0.0, 0.0), (u'every', 1, None, 0, 0), (u'day', 1.0, u'n', 0.0, 0.0), (u'youve', 1.0, None, 0.0, 0.0), (u'got', 1.0, u'v', 0.0, 0.0), (u'to', 1, None, 0, 0), (u'try', 0.5, u'v', 0.0, 0.5), (u'them', 1, None, 0, 0)]
+======================================================================
+[(u'i', 0, 0, u'absolutely', 0.5, 0.0), (u'absolutely', 0.5, 0.0, u'love', 0.5, 0.0), (u'i', 0, 0, u'wear', 0.0, 0.25), (u'to', 0, 0, u'try', 0.0, 0.5)]
+
+
+---------------------------
+1.125 0.75
+======================================================================
+
+Clever and stylish design; a lot of colors to choose from; and an excellent performance, best sport shoe eve
+
+clever a
+clever a
+matched
+stylish a
+stylish a
+matched
+design n
+design n
+matched
+lot n
+lot n
+matched
+colors n
+colors n
+matched
+choose v
+choose v
+matched
+excellent a
+excellent a
+matched
+performance n
+performance n
+matched
+best a
+best a
+matched
+sport n
+sport n
+matched
+shoe n
+shoe n
+matched
+eve n
+eve n
+matched
+======================================================================
+[(u'clever', 0.5, u'a', 0.5, 0.0), (u'and', 1, None, 0, 0), (u'stylish', 0.375, u'a', 0.5, 0.125), (u'design', 1.0, u'n', 0.0, 0.0), (u'a', 1, None, 0, 0), (u'lot', 1.0, u'n', 0.0, 0.0), (u'of', 1, None, 0, 0), (u'colors', 1.0, u'n', 0.0, 0.0), (u'to', 1, None, 0, 0), (u'choose', 1.0, u'v', 0.0, 0.0), (u'from', 1, None, 0, 0), (u'and', 1, None, 0, 0), (u'an', 1, None, 0, 0), (u'excellent', 0.0, u'a', 1.0, 0.0), (u'performance', 0.75, u'n', 0.25, 0.0), (u'best', 0.25, u'a', 0.75, 0.0), (u'sport', 0.5, u'n', 0.25, 0.25), (u'shoe', 1.0, u'n', 0.0, 0.0), (u'eve', 1.0, u'n', 0.0, 0.0)]
+======================================================================
+[(None, 0.0, 0.0, u'clever', 0.5, 0.0), (u'and', 0, 0, u'stylish', 0.5, 0.125), (u'an', 0, 0, u'excellent', 1.0, 0.0), (u'excellent', 1.0, 0.0, u'performance', 0.25, 0.0), (u'performance', 0.25, 0.0, u'best', 0.75, 0.0), (u'best', 0.75, 0.0, u'sport', 0.25, 0.25)]
+
+
+---------------------------
+5.25 0.375
+======================================================================
+
+This is just the thing to put away for a Christmas gift.  Nice product in a nice box, tied with a bow.
+
+is v
+is v
+matched
+just r
+just r
+matched
+thing n
+thing n
+matched
+put v
+put v
+matched
+christmas n
+christmas n
+matched
+gift n
+gift n
+matched
+nice a
+nice a
+matched
+product n
+product n
+matched
+nice a
+nice a
+matched
+box n
+box n
+matched
+tied v
+tied v
+matched
+bow n
+bow n
+matched
+======================================================================
+[(u'this', 1, None, 0, 0), (u'is', 1.0, u'v', 0.0, 0.0), (u'just', 0.875, u'r', 0.125, 0.0), (u'the', 1, None, 0, 0), (u'thing', 1.0, u'n', 0.0, 0.0), (u'to', 1, None, 0, 0), (u'put', 0.875, u'v', 0.125, 0.0), (u'away', 1, None, 0, 0), (u'for', 1, None, 0, 0), (u'a', 1, None, 0, 0), (u'christmas', 1.0, u'n', 0.0, 0.0), (u'gift', 0.75, u'n', 0.25, 0.0), (u'nice', 0.25, u'a', 0.75, 0.0), (u'product', 1.0, u'n', 0.0, 0.0), (u'in', 1, None, 0, 0), (u'a', 1, None, 0, 0), (u'nice', 0.25, u'a', 0.75, 0.0), (u'box', 1.0, u'n', 0.0, 0.0), (u'tied', 1.0, u'v', 0.0, 0.0), (u'with', 1, None, 0, 0), (u'a', 1, None, 0, 0), (u'bow', 1.0, u'n', 0.0, 0.0)]
+======================================================================
+[(u'is', 0.0, 0.0, u'just', 0.125, 0.0), (u'to', 0, 0, u'put', 0.125, 0.0), (u'christmas', 0.0, 0.0, u'gift', 0.25, 0.0), (u'gift', 0.25, 0.0, u'nice', 0.75, 0.0), (u'a', 0, 0, u'nice', 0.75, 0.0)]
+
+
+---------------------------
+2.25 0.0
+======================================================================
+
+The sheets were just as described and worth the price. Timely on shippng also. Very pleased
+
+sheets n
+sheets n
+matched
+were v
+were v
+matched
+just r
+just r
+matched
+described v
+described v
+matched
+worth a
+worth a
+matched
+price n
+price n
+matched
+timely a
+timely a
+matched
+shippng n
+shippng n
+also r
+also r
+matched
+very r
+very r
+matched
+pleased a
+pleased a
+matched
+======================================================================
+[(u'the', 1, None, 0, 0), (u'sheets', 1.0, u'n', 0.0, 0.0), (u'were', 1.0, u'v', 0.0, 0.0), (u'just', 0.875, u'r', 0.125, 0.0), (u'as', 1, None, 0, 0), (u'described', 1.0, u'v', 0.0, 0.0), (u'and', 1, None, 0, 0), (u'worth', 1.0, u'a', 0.0, 0.0), (u'the', 1, None, 0, 0), (u'price', 0.375, u'n', 0.625, 0.0), (u'timely', 1.0, u'a', 0.0, 0.0), (u'on', 1, None, 0, 0), (u'shippng', 1.0, None, 0.0, 0.0), (u'also', 1.0, u'r', 0.0, 0.0), (u'very', 0.75, u'r', 0.25, 0.0), (u'pleased', 0.125, u'a', 0.5, 0.375)]
+======================================================================
+[(u'were', 0.0, 0.0, u'just', 0.125, 0.0), (u'the', 0, 0, u'price', 0.625, 0.0), (u'also', 0.0, 0.0, u'very', 0.25, 0.0), (u'very', 0.25, 0.0, u'pleased', 0.5, 0.375)]
+
+
+---------------------------
+1.625 0.375
+======================================================================
+
+The Crib sheets were soft, the service fast and they fit the Pack and Play mattress
+
+crib n
+crib n
+matched
+sheets n
+sheets n
+matched
+were v
+were v
+matched
+soft a
+soft a
+matched
+service n
+service n
+matched
+fast r
+fast r
+matched
+fit v
+fit v
+matched
+pack n
+pack n
+matched
+play v
+play v
+matched
+mattress n
+mattress n
+matched
+======================================================================
+[(u'the', 1, None, 0, 0), (u'crib', 1.0, u'n', 0.0, 0.0), (u'sheets', 1.0, u'n', 0.0, 0.0), (u'were', 0.75, u'v', 0.125, 0.125), (u'soft', 0.625, u'a', 0.125, 0.25), (u'the', 1, None, 0, 0), (u'service', 1.0, u'n', 0.0, 0.0), (u'fast', 1.0, u'r', 0.0, 0.0), (u'and', 1, None, 0, 0), (u'they', 1, None, 0, 0), (u'fit', 0.875, u'v', 0.0, 0.125), (u'the', 1, None, 0, 0), (u'pack', 1.0, u'n', 0.0, 0.0), (u'and', 1, None, 0, 0), (u'play', 1.0, u'v', 0.0, 0.0), (u'mattress', 1.0, u'n', 0.0, 0.0)]
+======================================================================
+[(u'were', 0.125, 0.125, u'soft', 0.125, 0.25), (u'they', 0, 0, u'fit', 0.0, 0.125)]
+
+
+---------------------------
+0.25 0.5
+======================================================================
+
+Service was very quick, and they were having a free shipping special, so it was very well priced
+
+service n
+service n
+matched
+was v
+was v
+very r
+very r
+matched
+quick a
+quick a
+matched
+were v
+were v
+matched
+having v
+having v
+matched
+free a
+free a
+matched
+shipping n
+shipping n
+matched
+special a
+special a
+matched
+was v
+was v
+very r
+very r
+matched
+well r
+well r
+matched
+priced v
+priced v
+matched
+======================================================================
+[(u'service', 1.0, u'n', 0.0, 0.0), (u'was', 1.0, None, 0.0, 0.0), (u'very', 0.5, u'r', 0.25, 0.25), (u'quick', 1.0, u'a', 0.0, 0.0), (u'and', 1, None, 0, 0), (u'they', 1, None, 0, 0), (u'were', 1.0, u'v', 0.0, 0.0), (u'having', 1.0, u'v', 0.0, 0.0), (u'a', 1, None, 0, 0), (u'free', 0.625, u'a', 0.375, 0.0), (u'shipping', 1.0, u'n', 0.0, 0.0), (u'special', 0.875, u'a', 0.125, 0.0), (u'so', 1, None, 0, 0), (u'it', 1, None, 0, 0), (u'was', 1.0, None, 0.0, 0.0), (u'very', 0.5, u'r', 0.25, 0.25), (u'well', 0.875, u'r', 0.125, 0.0), (u'priced', 1.0, u'v', 0.0, 0.0)]
+======================================================================
+[(u'was', 0.0, 0.0, u'very', 0.25, 0.25), (u'a', 0, 0, u'free', 0.375, 0.0), (u'shipping', 0.0, 0.0, u'special', 0.125, 0.0), (u'was', 0.0, 0.0, u'very', 0.25, 0.25), (u'very', 0.25, 0.25, u'well', 0.125, 0.0)]
+
+
+---------------------------
+1.15625 0.5
+======================================================================
+
+The shoes are better then expected.. Everyone comments on how nice they are and where did you get them.. I will let anyone know to buy the
+
+shoes n
+shoes n
+matched
+are v
+are v
+matched
+better r
+better r
+matched
+then r
+then r
+matched
+expected v
+expected v
+matched
+everyone n
+everyone n
+comments n
+comments n
+matched
+how r
+how r
+nice a
+nice a
+matched
+are v
+are v
+matched
+where r
+where r
+did v
+did v
+matched
+get v
+get v
+matched
+will v
+will v
+matched
+let v
+let v
+matched
+anyone n
+anyone n
+know v
+know v
+matched
+buy v
+buy v
+matched
+======================================================================
+[(u'the', 1, None, 0, 0), (u'shoes', 1.0, u'n', 0.0, 0.0), (u'are', 1.0, u'v', 0.0, 0.0), (u'better', 0.875, u'r', 0.125, 0.0), (u'then', 1.0, u'r', 0.0, 0.0), (u'expected', 1.0, u'v', 0.0, 0.0), (u'everyone', 1.0, None, 0.0, 0.0), (u'comments', 1.0, u'n', 0.0, 0.0), (u'on', 1, None, 0, 0), (u'how', 1.0, None, 0.0, 0.0), (u'nice', 0.25, u'a', 0.75, 0.0), (u'they', 1, None, 0, 0), (u'are', 1.0, u'v', 0.0, 0.0), (u'and', 1, None, 0, 0), (u'where', 1.0, None, 0.0, 0.0), (u'did', 0.5, u'v', 0.0, 0.5), (u'you', 1, None, 0, 0), (u'get', 1.0, u'v', 0.0, 0.0), (u'them', 1, None, 0, 0), (u'i', 1, None, 0, 0), (u'will', 1.0, u'v', 0.0, 0.0), (u'let', 1.0, u'v', 0.0, 0.0), (u'anyone', 1.0, None, 0.0, 0.0), (u'know', 0.875, u'v', 0.125, 0.0), (u'to', 1, None, 0, 0), (u'buy', 1.0, u'v', 0.0, 0.0), (u'the', 1, None, 0, 0)]
+======================================================================
+[(u'are', 0.0, 0.0, u'better', 0.125, 0.0), (u'how', 0.0, 0.0, u'nice', 0.75, 0.0), (u'anyone', 0.0, 0.0, u'know', 0.125, 0.0)]
+
+
+---------------------------
+1.0 0.0
+======================================================================
+
+I was very pleased with the socks.  They were just what we were looking for!  Thanks so much
+
+was v
+was v
+very r
+very r
+matched
+pleased a
+pleased a
+matched
+socks n
+socks n
+matched
+were v
+were v
+matched
+just r
+just r
+matched
+were v
+were v
+matched
+looking v
+looking v
+matched
+thanks n
+thanks n
+matched
+so r
+so r
+matched
+much r
+much r
+matched
+======================================================================
+[(u'i', 1, None, 0, 0), (u'was', 1.0, None, 0.0, 0.0), (u'very', 0.75, u'r', 0.25, 0.0), (u'pleased', 0.125, u'a', 0.5, 0.375), (u'with', 1, None, 0, 0), (u'the', 1, None, 0, 0), (u'socks', 1.0, u'n', 0.0, 0.0), (u'they', 1, None, 0, 0), (u'were', 0.625, u'v', 0.25, 0.125), (u'just', 0.875, u'r', 0.125, 0.0), (u'what', 1, None, 0, 0), (u'we', 1, None, 0, 0), (u'were', 0.625, u'v', 0.25, 0.125), (u'looking', 1.0, u'v', 0.0, 0.0), (u'for', 1, None, 0, 0), (u'thanks', 0.875, u'n', 0.0, 0.125), (u'so', 1.0, u'r', 0.0, 0.0), (u'much', 0.875, u'r', 0.125, 0.0)]
+======================================================================
+[(u'was', 0.0, 0.0, u'very', 0.25, 0.0), (u'very', 0.25, 0.0, u'pleased', 0.5, 0.375), (u'were', 0.25, 0.125, u'just', 0.125, 0.0), (u'for', 0, 0, u'thanks', 0.0, 0.125), (u'so', 0.0, 0.0, u'much', 0.125, 0.0)]
+
+
+---------------------------
+1.41875 0.625
+======================================================================
+
+i was very satisfied with my purchase of these items.reasonable price and am very happy with items
+
+was v
+was v
+very r
+very r
+matched
+satisfied a
+satisfied a
+matched
+purchase n
+purchase n
+matched
+itemsreasonable a
+itemsreasonable a
+price n
+price n
+matched
+am v
+am v
+matched
+very r
+very r
+matched
+happy a
+happy a
+matched
+items n
+items n
+matched
+======================================================================
+[(u'i', 1, None, 0, 0), (u'was', 1.0, None, 0.0, 0.0), (u'very', 0.75, u'r', 0.25, 0.0), (u'satisfied', 0.625, u'a', 0.375, 0.0), (u'with', 1, None, 0, 0), (u'my', 1, None, 0, 0), (u'purchase', 1.0, u'n', 0.0, 0.0), (u'of', 1, None, 0, 0), (u'these', 1, None, 0, 0), (u'itemsreasonable', 1.0, None, 0.0, 0.0), (u'price', 1.0, u'n', 0.0, 0.0), (u'and', 1, None, 0, 0), (u'am', 1.0, u'v', 0.0, 0.0), (u'very', 0.75, u'r', 0.25, 0.0), (u'happy', 0.875, u'a', 0.125, 0.0), (u'with', 1, None, 0, 0), (u'items', 1.0, u'n', 0.0, 0.0)]
+======================================================================
+[(u'was', 0.0, 0.0, u'very', 0.25, 0.0), (u'very', 0.25, 0.0, u'satisfied', 0.375, 0.0), (u'am', 0.0, 0.0, u'very', 0.25, 0.0), (u'very', 0.25, 0.0, u'happy', 0.125, 0.0)]
+
+
+---------------------------
+1.125 0.0
+======================================================================
+
+it means so much to me to be able to buy a pair of jeans that fit me in length.  ya who.
+Am
+
+means v
+means v
+matched
+so r
+so r
+matched
+much a
+much a
+matched
+be v
+be v
+matched
+able a
+able a
+matched
+buy v
+buy v
+matched
+pair n
+pair n
+matched
+jeans n
+jeans n
+matched
+fit v
+fit v
+matched
+length n
+length n
+matched
+am v
+am v
+matched
+======================================================================
+[(u'it', 1, None, 0, 0), (u'means', 1.0, u'v', 0.0, 0.0), (u'so', 1.0, u'r', 0.0, 0.0), (u'much', 1.0, u'a', 0.0, 0.0), (u'to', 1, None, 0, 0), (u'me', 1, None, 0, 0), (u'to', 1, None, 0, 0), (u'be', 0.75, u'v', 0.125, 0.125), (u'able', 0.75, u'a', 0.25, 0.0), (u'to', 1, None, 0, 0), (u'buy', 1.0, u'v', 0.0, 0.0), (u'a', 1, None, 0, 0), (u'pair', 1.0, u'n', 0.0, 0.0), (u'of', 1, None, 0, 0), (u'jeans', 1.0, u'n', 0.0, 0.0), (u'that', 1, None, 0, 0), (u'fit', 0.875, u'v', 0.0, 0.125), (u'me', 1, None, 0, 0), (u'in', 1, None, 0, 0), (u'length', 1.0, u'n', 0.0, 0.0), (u'ya', 1, None, 0, 0), (u'who', 1, None, 0, 0), (u'am', 0.75, u'v', 0.125, 0.125)]
+======================================================================
+[(u'be', 0.125, 0.125, u'able', 0.25, 0.0), (u'that', 0, 0, u'fit', 0.0, 0.125)]
+
+
+---------------------------
+0.375 0.25
+======================================================================
+
+The slippers are great!  They do seem to be on the large side of a 15.  My husband had to put paper in the toes.  He wears 15 in every thing else
+
+slippers n
+slippers n
+matched
+are v
+are v
+matched
+great a
+great a
+matched
+do v
+do v
+matched
+seem v
+seem v
+matched
+be v
+be v
+matched
+large a
+large a
+matched
+side n
+side n
+matched
+husband n
+husband n
+matched
+had v
+had v
+matched
+put v
+put v
+matched
+paper n
+paper n
+matched
+toes n
+toes n
+matched
+wears v
+wears v
+matched
+thing n
+thing n
+matched
+else r
+else r
+======================================================================
+[(u'the', 1, None, 0, 0), (u'slippers', 1.0, u'n', 0.0, 0.0), (u'are', 1.0, u'v', 0.0, 0.0), (u'great', 1.0, u'a', 0.0, 0.0), (u'they', 1, None, 0, 0), (u'do', 0.5, u'v', 0.0, 0.5), (u'seem', 1.0, u'v', 0.0, 0.0), (u'to', 1, None, 0, 0), (u'be', 1.0, u'v', 0.0, 0.0), (u'on', 1, None, 0, 0), (u'the', 1, None, 0, 0), (u'large', 1.0, u'a', 0.0, 0.0), (u'side', 1.0, u'n', 0.0, 0.0), (u'of', 1, None, 0, 0), (u'a', 1, None, 0, 0), (u'15', 1, None, 0, 0), (u'my', 1, None, 0, 0), (u'husband', 1.0, u'n', 0.0, 0.0), (u'had', 1.0, u'v', 0.0, 0.0), (u'to', 1, None, 0, 0), (u'put', 0.875, u'v', 0.125, 0.0), (u'paper', 1.0, u'n', 0.0, 0.0), (u'in', 1, None, 0, 0), (u'the', 1, None, 0, 0), (u'toes', 1.0, u'n', 0.0, 0.0), (u'he', 1, None, 0, 0), (u'wears', 1.0, u'v', 0.0, 0.0), (u'15', 1, None, 0, 0), (u'in', 1, None, 0, 0), (u'every', 1, None, 0, 0), (u'thing', 1.0, u'n', 0.0, 0.0), (u'else', 1.0, None, 0.0, 0.0)]
+======================================================================
+[(u'to', 0, 0, u'put', 0.125, 0.0)]
+
+
+---------------------------
+0.125 0.0
+======================================================================
+
+Not best for running but look very cool.  comfortable enough to wear for styl
+
+not r
+not r
+matched
+best r
+best r
+matched
+running v
+running v
+matched
+look v
+look v
+matched
+very r
+very r
+matched
+cool a
+cool a
+matched
+comfortable a
+comfortable a
+matched
+enough r
+enough r
+matched
+wear v
+wear v
+matched
+styl n
+styl n
+======================================================================
+[(u'not', 0.375, u'r', 0.0, 0.625), (u'best', 1.0, u'r', 0.0, 0.0), (u'for', 1, None, 0, 0), (u'running', 1.0, u'v', 0.0, 0.0), (u'but', 1, None, 0, 0), (u'look', 1.0, u'v', 0.0, 0.0), (u'very', 0.75, u'r', 0.25, 0.0), (u'cool', 0.625, u'a', 0.25, 0.125), (u'comfortable', 0.25, u'a', 0.75, 0.0), (u'enough', 0.875, u'r', 0.125, 0.0), (u'to', 1, None, 0, 0), (u'wear', 1.0, u'v', 0.0, 0.0), (u'for', 1, None, 0, 0), (u'styl', 1.0, None, 0.0, 0.0)]
+======================================================================
+[(None, 0.0, 0.0, u'not', 0.0, 0.625), (u'look', 0.0, 0.0, u'very', 0.25, 0.0), (u'very', 0.25, 0.0, u'cool', 0.25, 0.125), (u'cool', 0.25, 0.125, u'comfortable', 0.75, 0.0), (u'comfortable', 0.75, 0.0, u'enough', 0.125, 0.0)]
+
+
+---------------------------
+2.4375 0.875
+======================================================================
+
+One of the most comfortable bras I've ever worn.  I own several, and they're just about all I'll wear!  Very nice fit, and good look under clothes
+
+most r
+most r
+matched
+comfortable a
+comfortable a
+matched
+bras n
+bras n
+matched
+ive v
+ive v
+ever r
+ever r
+matched
+worn v
+worn v
+matched
+own a
+own a
+matched
+several a
+several a
+matched
+theyre r
+theyre r
+just r
+just r
+matched
+ill a
+ill a
+matched
+wear n
+wear n
+matched
+very r
+very r
+matched
+nice a
+nice a
+matched
+fit n
+fit n
+matched
+good a
+good a
+matched
+look n
+look n
+matched
+clothes n
+clothes n
+matched
+======================================================================
+[(u'one', 1, None, 0, 0), (u'of', 1, None, 0, 0), (u'the', 1, None, 0, 0), (u'most', 1.0, u'r', 0.0, 0.0), (u'comfortable', 0.375, u'a', 0.625, 0.0), (u'bras', 1.0, u'n', 0.0, 0.0), (u'ive', 1.0, None, 0.0, 0.0), (u'ever', 1.0, u'r', 0.0, 0.0), (u'worn', 1.0, u'v', 0.0, 0.0), (u'i', 1, None, 0, 0), (u'own', 1.0, u'a', 0.0, 0.0), (u'several', 0.875, u'a', 0.125, 0.0), (u'and', 1, None, 0, 0), (u'theyre', 1.0, None, 0.0, 0.0), (u'just', 0.875, u'r', 0.125, 0.0), (u'about', 1, None, 0, 0), (u'all', 1, None, 0, 0), (u'ill', 0.125, u'a', 0.0, 0.875), (u'wear', 1.0, u'n', 0.0, 0.0), (u'very', 0.5, u'r', 0.25, 0.25), (u'nice', 0.25, u'a', 0.75, 0.0), (u'fit', 0.5, u'n', 0.0, 0.5), (u'and', 1, None, 0, 0), (u'good', 0.25, u'a', 0.75, 0.0), (u'look', 0.875, u'n', 0.125, 0.0), (u'under', 1, None, 0, 0), (u'clothes', 1.0, u'n', 0.0, 0.0)]
+======================================================================
+[(u'most', 0.0, 0.0, u'comfortable', 0.625, 0.0), (u'own', 0.0, 0.0, u'several', 0.125, 0.0), (u'theyre', 0.0, 0.0, u'just', 0.125, 0.0), (u'all', 0, 0, u'ill', 0.0, 0.875), (u'wear', 0.0, 0.0, u'very', 0.25, 0.25), (u'very', 0.25, 0.25, u'nice', 0.75, 0.0), (u'nice', 0.75, 0.0, u'fit', 0.0, 0.5), (u'and', 0, 0, u'good', 0.75, 0.0), (u'good', 0.75, 0.0, u'look', 0.125, 0.0)]
+
+
+---------------------------
+5.0625 1.625
+======================================================================
+
+I got this jacket last week, I liked it for the price i paid
+
+got v
+got v
+matched
+jacket n
+jacket n
+matched
+last a
+last a
+matched
+week n
+week n
+matched
+liked v
+liked v
+matched
+price n
+price n
+matched
+paid v
+paid v
+matched
+======================================================================
+[(u'i', 1, None, 0, 0), (u'got', 1.0, u'v', 0.0, 0.0), (u'this', 1, None, 0, 0), (u'jacket', 1.0, u'n', 0.0, 0.0), (u'last', 0.75, u'a', 0.0, 0.25), (u'week', 1.0, u'n', 0.0, 0.0), (u'i', 1, None, 0, 0), (u'liked', 0.875, u'v', 0.125, 0.0), (u'it', 1, None, 0, 0), (u'for', 1, None, 0, 0), (u'the', 1, None, 0, 0), (u'price', 1.0, u'n', 0.0, 0.0), (u'i', 1, None, 0, 0), (u'paid', 1.0, u'v', 0.0, 0.0)]
+======================================================================
+[(u'jacket', 0.0, 0.0, u'last', 0.0, 0.25), (u'i', 0, 0, u'liked', 0.125, 0.0)]
+
+
+---------------------------
+0.125 0.25
+======================================================================
+
+Single Style, good shoes. I think is a nice choice to every day work
+
+single a
+single a
+matched
+style n
+style n
+matched
+good a
+good a
+matched
+shoes n
+shoes n
+matched
+think n
+think n
+matched
+is v
+is v
+matched
+nice a
+nice a
+matched
+choice n
+choice n
+matched
+day n
+day n
+matched
+work n
+work n
+matched
+======================================================================
+[(u'single', 0.25, u'a', 0.0, 0.75), (u'style', 1.0, u'n', 0.0, 0.0), (u'good', 0.25, u'a', 0.75, 0.0), (u'shoes', 1.0, u'n', 0.0, 0.0), (u'i', 1, None, 0, 0), (u'think', 1.0, u'n', 0.0, 0.0), (u'is', 1.0, u'v', 0.0, 0.0), (u'a', 1, None, 0, 0), (u'nice', 0.125, u'a', 0.875, 0.0), (u'choice', 0.875, u'n', 0.0, 0.125), (u'to', 1, None, 0, 0), (u'every', 1, None, 0, 0), (u'day', 1.0, u'n', 0.0, 0.0), (u'work', 1.0, u'n', 0.0, 0.0)]
+======================================================================
+[(None, 0.0, 0.0, u'single', 0.0, 0.75), (u'style', 0.0, 0.0, u'good', 0.75, 0.0), (u'a', 0, 0, u'nice', 0.875, 0.0), (u'nice', 0.875, 0.0, u'choice', 0.0, 0.125)]
+
+
+---------------------------
+2.5 0.875
+======================================================================
+
+I LOVE these shoes...I have been searching for the right ballet/audrey hepburn style flats for years. I also love the price
+
+love n
+love n
+matched
+shoesi n
+shoesi n
+have v
+have v
+matched
+been v
+been v
+matched
+searching v
+searching v
+matched
+right a
+right a
+matched
+balletaudrey n
+balletaudrey n
+hepburn n
+hepburn n
+matched
+style n
+style n
+matched
+flats n
+flats n
+matched
+years n
+years n
+matched
+also r
+also r
+matched
+love v
+love v
+matched
+price n
+price n
+matched
+======================================================================
+[(u'i', 1, None, 0, 0), (u'love', 0.375, u'n', 0.625, 0.0), (u'these', 1, None, 0, 0), (u'shoesi', 1.0, None, 0.0, 0.0), (u'have', 1.0, u'v', 0.0, 0.0), (u'been', 1.0, u'v', 0.0, 0.0), (u'searching', 1.0, u'v', 0.0, 0.0), (u'for', 1, None, 0, 0), (u'the', 1, None, 0, 0), (u'right', 1.0, u'a', 0.0, 0.0), (u'balletaudrey', 1.0, None, 0.0, 0.0), (u'hepburn', 1.0, u'n', 0.0, 0.0), (u'style', 1.0, u'n', 0.0, 0.0), (u'flats', 1.0, u'n', 0.0, 0.0), (u'for', 1, None, 0, 0), (u'years', 1.0, u'n', 0.0, 0.0), (u'i', 1, None, 0, 0), (u'also', 1.0, u'r', 0.0, 0.0), (u'love', 0.5, u'v', 0.5, 0.0), (u'the', 1, None, 0, 0), (u'price', 1.0, u'n', 0.0, 0.0)]
+======================================================================
+[(u'i', 0, 0, u'love', 0.625, 0.0), (u'also', 0.0, 0.0, u'love', 0.5, 0.0)]
+
+
+---------------------------
+1.125 0.0
+======================================================================
+
+The fit is great. Sexy slim look and feel. Slight stretch to add to comfort and hugging feel of the denim. Got lots of compliments
+
+fit n
+fit n
+matched
+is v
+is v
+matched
+great a
+great a
+matched
+sexy a
+sexy a
+matched
+slim a
+slim a
+matched
+look n
+look n
+matched
+feel v
+feel v
+matched
+slight a
+slight a
+matched
+stretch n
+stretch n
+matched
+add v
+add v
+matched
+comfort v
+comfort v
+matched
+hugging v
+hugging v
+matched
+feel n
+feel n
+matched
+denim n
+denim n
+matched
+got v
+got v
+matched
+lots n
+lots n
+matched
+compliments n
+compliments n
+matched
+======================================================================
+[(u'the', 1, None, 0, 0), (u'fit', 0.5, u'n', 0.0, 0.5), (u'is', 0.625, u'v', 0.25, 0.125), (u'great', 0.125, u'a', 0.875, 0.0), (u'sexy', 0.375, u'a', 0.625, 0.0), (u'slim', 0.5, u'a', 0.5, 0.0), (u'look', 0.875, u'n', 0.125, 0.0), (u'and', 1, None, 0, 0), (u'feel', 1.0, u'v', 0.0, 0.0), (u'slight', 0.5, u'a', 0.5, 0.0), (u'stretch', 0.75, u'n', 0.125, 0.125), (u'to', 1, None, 0, 0), (u'add', 1.0, u'v', 0.0, 0.0), (u'to', 1, None, 0, 0), (u'comfort', 0.125, u'v', 0.0, 0.875), (u'and', 1, None, 0, 0), (u'hugging', 0.875, u'v', 0.125, 0.0), (u'feel', 0.875, u'n', 0.125, 0.0), (u'of', 1, None, 0, 0), (u'the', 1, None, 0, 0), (u'denim', 1.0, u'n', 0.0, 0.0), (u'got', 0.75, u'v', 0.0, 0.25), (u'lots', 1.0, u'n', 0.0, 0.0), (u'of', 1, None, 0, 0), (u'compliments', 0.625, u'n', 0.375, 0.0)]
+======================================================================
+[(u'the', 0, 0, u'fit', 0.0, 0.5), (u'is', 0.25, 0.125, u'great', 0.875, 0.0), (u'great', 0.875, 0.0, u'sexy', 0.625, 0.0), (u'sexy', 0.625, 0.0, u'slim', 0.5, 0.0), (u'slim', 0.5, 0.0, u'look', 0.125, 0.0), (u'feel', 0.0, 0.0, u'slight', 0.5, 0.0), (u'slight', 0.5, 0.0, u'stretch', 0.125, 0.125), (u'to', 0, 0, u'comfort', 0.0, 0.875), (u'and', 0, 0, u'hugging', 0.125, 0.0), (u'hugging', 0.125, 0.0, u'feel', 0.125, 0.0), (u'denim', 0.0, 0.0, u'got', 0.0, 0.25), (u'of', 0, 0, u'compliments', 0.375, 0.0)]
+
+
+---------------------------
+5.0625 1.75
+======================================================================
+
+Very cute tops, for a nice price.  They wash up good.  They do run a little big, just so you are aware
+
+very r
+very r
+matched
+cute a
+cute a
+matched
+tops n
+tops n
+matched
+nice a
+nice a
+matched
+price n
+price n
+matched
+wash v
+wash v
+matched
+up r
+up r
+matched
+good a
+good a
+matched
+do v
+do v
+matched
+run v
+run v
+matched
+little r
+little r
+matched
+big a
+big a
+matched
+just r
+just r
+matched
+are v
+are v
+matched
+aware a
+aware a
+matched
+======================================================================
+[(u'very', 0.5, u'r', 0.25, 0.25), (u'cute', 0.375, u'a', 0.625, 0.0), (u'tops', 1.0, u'n', 0.0, 0.0), (u'for', 1, None, 0, 0), (u'a', 1, None, 0, 0), (u'nice', 0.25, u'a', 0.75, 0.0), (u'price', 1.0, u'n', 0.0, 0.0), (u'they', 1, None, 0, 0), (u'wash', 1.0, u'v', 0.0, 0.0), (u'up', 1.0, u'r', 0.0, 0.0), (u'good', 0.25, u'a', 0.75, 0.0), (u'they', 1, None, 0, 0), (u'do', 0.5, u'v', 0.0, 0.5), (u'run', 1.0, u'v', 0.0, 0.0), (u'a', 1, None, 0, 0), (u'little', 0.625, u'r', 0.0, 0.375), (u'big', 0.875, u'a', 0.125, 0.0), (u'just', 0.875, u'r', 0.125, 0.0), (u'so', 1, None, 0, 0), (u'you', 1, None, 0, 0), (u'are', 0.625, u'v', 0.25, 0.125), (u'aware', 0.375, u'a', 0.625, 0.0)]
+======================================================================
+[(None, 0.0, 0.0, u'very', 0.25, 0.25), (u'very', 0.25, 0.25, u'cute', 0.625, 0.0), (u'a', 0, 0, u'nice', 0.75, 0.0), (u'up', 0.0, 0.0, u'good', 0.75, 0.0), (u'a', 0, 0, u'little', 0.0, 0.375), (u'little', 0.0, 0.375, u'big', 0.125, 0.0), (u'big', 0.125, 0.0, u'just', 0.125, 0.0), (u'are', 0.25, 0.125, u'aware', 0.625, 0.0)]
+
+
+---------------------------
+3.63125 0.75
+======================================================================
+
+my hubby liked this shirt -it was a great christmas present
+
+hubby n
+hubby n
+matched
+liked v
+liked v
+matched
+shirt n
+shirt n
+matched
+was v
+was v
+great a
+great a
+matched
+christmas n
+christmas n
+matched
+present n
+present n
+matched
+======================================================================
+[(u'my', 1, None, 0, 0), (u'hubby', 1.0, u'n', 0.0, 0.0), (u'liked', 0.875, u'v', 0.125, 0.0), (u'this', 1, None, 0, 0), (u'shirt', 1.0, u'n', 0.0, 0.0), (u'it', 1, None, 0, 0), (u'was', 1.0, None, 0.0, 0.0), (u'a', 1, None, 0, 0), (u'great', 1.0, u'a', 0.0, 0.0), (u'christmas', 1.0, u'n', 0.0, 0.0), (u'present', 1.0, u'n', 0.0, 0.0)]
+======================================================================
+[(u'hubby', 0.0, 0.0, u'liked', 0.125, 0.0)]
+
+
+---------------------------
+0.125 0.0
+======================================================================
+
+They are perfect for kids daily lunches.  Would like to order more but don't where to start. Lost all the ordering information
+
+are v
+are v
+matched
+perfect a
+perfect a
+matched
+kids n
+kids n
+matched
+daily a
+daily a
+matched
+lunches n
+lunches n
+matched
+would v
+would v
+like v
+like v
+matched
+order v
+order v
+matched
+more a
+more a
+matched
+dont v
+dont v
+where r
+where r
+start v
+start v
+matched
+lost v
+lost v
+matched
+ordering v
+ordering v
+matched
+information n
+information n
+matched
+======================================================================
+[(u'they', 1, None, 0, 0), (u'are', 1.0, u'v', 0.0, 0.0), (u'perfect', 0.25, u'a', 0.625, 0.125), (u'for', 1, None, 0, 0), (u'kids', 1.0, u'n', 0.0, 0.0), (u'daily', 1.0, u'a', 0.0, 0.0), (u'lunches', 1.0, u'n', 0.0, 0.0), (u'would', 1.0, None, 0.0, 0.0), (u'like', 0.875, u'v', 0.125, 0.0), (u'to', 1, None, 0, 0), (u'order', 1.0, u'v', 0.0, 0.0), (u'more', 1.0, u'a', 0.0, 0.0), (u'but', 1, None, 0, 0), (u'dont', 1.0, None, 0.0, 0.0), (u'where', 1.0, None, 0.0, 0.0), (u'to', 1, None, 0, 0), (u'start', 1.0, u'v', 0.0, 0.0), (u'lost', 0.5, u'v', 0.0, 0.5), (u'all', 1, None, 0, 0), (u'the', 1, None, 0, 0), (u'ordering', 1.0, u'v', 0.0, 0.0), (u'information', 1.0, u'n', 0.0, 0.0)]
+======================================================================
+[(u'are', 0.0, 0.0, u'perfect', 0.625, 0.125), (u'would', 0.0, 0.0, u'like', 0.125, 0.0), (u'start', 0.0, 0.0, u'lost', 0.0, 0.5)]
+
+
+---------------------------
+0.75 0.625
+======================================================================
+
+Good quality workmanship, very authentic looking and sizes are easy to fit. 
+
+I would buy another one. 
+
+
+robert
+
+good a
+good a
+matched
+quality n
+quality n
+matched
+workmanship n
+workmanship n
+matched
+very r
+very r
+matched
+authentic a
+authentic a
+matched
+looking v
+looking v
+matched
+sizes n
+sizes n
+matched
+are v
+are v
+matched
+easy a
+easy a
+matched
+fit v
+fit v
+matched
+would v
+would v
+buy v
+buy v
+matched
+robert n
+robert n
+matched
+======================================================================
+[(u'good', 0.25, u'a', 0.75, 0.0), (u'quality', 0.625, u'n', 0.375, 0.0), (u'workmanship', 0.875, u'n', 0.125, 0.0), (u'very', 0.5, u'r', 0.25, 0.25), (u'authentic', 0.0, u'a', 0.4, 0.6), (u'looking', 1.0, u'v', 0.0, 0.0), (u'and', 1, None, 0, 0), (u'sizes', 1.0, u'n', 0.0, 0.0), (u'are', 0.75, u'v', 0.125, 0.125), (u'easy', 0.625, u'a', 0.375, 0.0), (u'to', 1, None, 0, 0), (u'fit', 0.875, u'v', 0.0, 0.125), (u'i', 1, None, 0, 0), (u'would', 1.0, None, 0.0, 0.0), (u'buy', 1.0, u'v', 0.0, 0.0), (u'another', 1, None, 0, 0), (u'one', 1, None, 0, 0), (u'robert', 1.0, u'n', 0.0, 0.0)]
+======================================================================
+[(None, 0.0, 0.0, u'good', 0.75, 0.0), (u'good', 0.75, 0.0, u'quality', 0.375, 0.0), (u'quality', 0.375, 0.0, u'workmanship', 0.125, 0.0), (u'workmanship', 0.125, 0.0, u'very', 0.25, 0.25), (u'very', 0.25, 0.25, u'authentic', 0.4, 0.6), (u'are', 0.125, 0.125, u'easy', 0.375, 0.0), (u'to', 0, 0, u'fit', 0.0, 0.125)]
+
+
+---------------------------
+3.65 1.25
+======================================================================
+
+Soft, durable, breathable fabric.  Perfectly flexible for vigorous practice.  I'm glad I bought these
+
+soft a
+soft a
+matched
+durable a
+durable a
+matched
+breathable a
+breathable a
+fabric n
+fabric n
+matched
+perfectly r
+perfectly r
+matched
+flexible a
+flexible a
+matched
+vigorous a
+vigorous a
+matched
+practice n
+practice n
+matched
+glad a
+glad a
+matched
+bought v
+bought v
+matched
+======================================================================
+[(u'soft', 0.625, u'a', 0.125, 0.25), (u'durable', 1.0, u'a', 0.0, 0.0), (u'breathable', 1.0, None, 0.0, 0.0), (u'fabric', 1.0, u'n', 0.0, 0.0), (u'perfectly', 0.5, u'r', 0.375, 0.125), (u'flexible', 1.0, u'a', 0.0, 0.0), (u'for', 1, None, 0, 0), (u'vigorous', 0.5, u'a', 0.5, 0.0), (u'practice', 0.625, u'n', 0.375, 0.0), (u'im', 1, None, 0, 0), (u'glad', 0.25, u'a', 0.125, 0.625), (u'i', 1, None, 0, 0), (u'bought', 1.0, u'v', 0.0, 0.0), (u'these', 1, None, 0, 0)]
+======================================================================
+[(None, 0.0, 0.0, u'soft', 0.125, 0.25), (u'fabric', 0.0, 0.0, u'perfectly', 0.375, 0.125), (u'for', 0, 0, u'vigorous', 0.5, 0.0), (u'vigorous', 0.5, 0.0, u'practice', 0.375, 0.0), (u'im', 0, 0, u'glad', 0.125, 0.625)]
+
+
+---------------------------
+2.0 1.0
+======================================================================
+
+These are very cute and they fit great.  I wear them all the time
+
+are v
+are v
+matched
+very r
+very r
+matched
+cute a
+cute a
+matched
+fit v
+fit v
+matched
+great a
+great a
+matched
+wear v
+wear v
+matched
+time n
+time n
+matched
+======================================================================
+[(u'these', 1, None, 0, 0), (u'are', 1.0, u'v', 0.0, 0.0), (u'very', 0.75, u'r', 0.25, 0.0), (u'cute', 0.375, u'a', 0.625, 0.0), (u'and', 1, None, 0, 0), (u'they', 1, None, 0, 0), (u'fit', 0.875, u'v', 0.0, 0.125), (u'great', 0.125, u'a', 0.875, 0.0), (u'i', 1, None, 0, 0), (u'wear', 1.0, u'v', 0.0, 0.0), (u'them', 1, None, 0, 0), (u'all', 1, None, 0, 0), (u'the', 1, None, 0, 0), (u'time', 0.5, u'n', 0.5, 0.0)]
+======================================================================
+[(u'are', 0.0, 0.0, u'very', 0.25, 0.0), (u'very', 0.25, 0.0, u'cute', 0.625, 0.0), (u'they', 0, 0, u'fit', 0.0, 0.125), (u'fit', 0.0, 0.125, u'great', 0.875, 0.0), (u'the', 0, 0, u'time', 0.5, 0.0)]
+
+
+---------------------------
+2.40625 0.25
+======================================================================
+
+ordering was easy, arrived in 4 days, gloves fit, well and good quality, good buy,recommend  to purchas
+
+ordering v
+ordering v
+matched
+was v
+was v
+easy r
+easy r
+matched
+arrived v
+arrived v
+matched
+days n
+days n
+matched
+gloves n
+gloves n
+matched
+fit v
+fit v
+matched
+well r
+well r
+matched
+good a
+good a
+matched
+quality n
+quality n
+matched
+good a
+good a
+matched
+buyrecommend n
+buyrecommend n
+purchas n
+purchas n
+======================================================================
+[(u'ordering', 1.0, u'v', 0.0, 0.0), (u'was', 1.0, None, 0.0, 0.0), (u'easy', 1.0, u'r', 0.0, 0.0), (u'arrived', 1.0, u'v', 0.0, 0.0), (u'in', 1, None, 0, 0), (u'4', 1, None, 0, 0), (u'days', 1.0, u'n', 0.0, 0.0), (u'gloves', 1.0, u'n', 0.0, 0.0), (u'fit', 0.875, u'v', 0.0, 0.125), (u'well', 0.875, u'r', 0.125, 0.0), (u'and', 1, None, 0, 0), (u'good', 0.375, u'a', 0.625, 0.0), (u'quality', 0.625, u'n', 0.375, 0.0), (u'good', 0.375, u'a', 0.625, 0.0), (u'buyrecommend', 1.0, None, 0.0, 0.0), (u'to', 1, None, 0, 0), (u'purchas', 1.0, None, 0.0, 0.0)]
+======================================================================
+[(u'gloves', 0.0, 0.0, u'fit', 0.0, 0.125), (u'fit', 0.0, 0.125, u'well', 0.125, 0.0), (u'and', 0, 0, u'good', 0.625, 0.0), (u'good', 0.625, 0.0, u'quality', 0.375, 0.0), (u'quality', 0.375, 0.0, u'good', 0.625, 0.0)]
+
+
+---------------------------
+2.75 0.25
+======================================================================
+
+I have to say, those crocs are the best. they are super confi, and light... I recommend them
+
+have v
+have v
+matched
+say v
+say v
+matched
+crocs n
+crocs n
+are v
+are v
+matched
+best a
+best a
+matched
+are v
+are v
+matched
+super a
+super a
+matched
+confi n
+confi n
+light a
+light a
+matched
+recommend v
+recommend v
+matched
+======================================================================
+[(u'i', 1, None, 0, 0), (u'have', 1.0, u'v', 0.0, 0.0), (u'to', 1, None, 0, 0), (u'say', 1.0, u'v', 0.0, 0.0), (u'those', 1, None, 0, 0), (u'crocs', 1.0, None, 0.0, 0.0), (u'are', 1.0, u'v', 0.0, 0.0), (u'the', 1, None, 0, 0), (u'best', 0.25, u'a', 0.75, 0.0), (u'they', 1, None, 0, 0), (u'are', 1.0, u'v', 0.0, 0.0), (u'super', 0.5, u'a', 0.125, 0.375), (u'confi', 1.0, None, 0.0, 0.0), (u'and', 1, None, 0, 0), (u'light', 0.375, u'a', 0.0, 0.625), (u'i', 1, None, 0, 0), (u'recommend', 0.875, u'v', 0.0, 0.125), (u'them', 1, None, 0, 0)]
+======================================================================
+[(u'the', 0, 0, u'best', 0.75, 0.0), (u'are', 0.0, 0.0, u'super', 0.125, 0.375), (u'and', 0, 0, u'light', 0.0, 0.625), (u'i', 0, 0, u'recommend', 0.0, 0.125)]
+
+
+---------------------------
+0.875 1.125
+======================================================================
+
+     These shoes keep my feet cozy all the way through a twelve hour shift, walking on concrete floors
+
+shoes n
+shoes n
+matched
+keep v
+keep v
+matched
+feet n
+feet n
+matched
+cozy a
+cozy a
+matched
+way n
+way n
+matched
+hour n
+hour n
+matched
+shift n
+shift n
+matched
+walking v
+walking v
+matched
+concrete a
+concrete a
+matched
+floors n
+floors n
+matched
+======================================================================
+[(u'these', 1, None, 0, 0), (u'shoes', 1.0, u'n', 0.0, 0.0), (u'keep', 1.0, u'v', 0.0, 0.0), (u'my', 1, None, 0, 0), (u'feet', 1.0, u'n', 0.0, 0.0), (u'cozy', 0.75, u'a', 0.0, 0.25), (u'all', 1, None, 0, 0), (u'the', 1, None, 0, 0), (u'way', 1.0, u'n', 0.0, 0.0), (u'through', 1, None, 0, 0), (u'a', 1, None, 0, 0), (u'twelve', 1, None, 0, 0), (u'hour', 1.0, u'n', 0.0, 0.0), (u'shift', 1.0, u'n', 0.0, 0.0), (u'walking', 1.0, u'v', 0.0, 0.0), (u'on', 1, None, 0, 0), (u'concrete', 1.0, u'a', 0.0, 0.0), (u'floors', 0.75, u'n', 0.0, 0.25)]
+======================================================================
+[(u'feet', 0.0, 0.0, u'cozy', 0.0, 0.25), (u'concrete', 0.0, 0.0, u'floors', 0.0, 0.25)]
+
+
+---------------------------
+0.0 0.5
+======================================================================
+
+The presentation of the product is claer and attractive and the product is durable, comfortable and goodlooking
+
+presentation n
+presentation n
+matched
+product n
+product n
+matched
+is v
+is v
+matched
+claer n
+claer n
+attractive a
+attractive a
+matched
+product n
+product n
+matched
+is v
+is v
+matched
+durable a
+durable a
+matched
+comfortable a
+comfortable a
+matched
+goodlooking v
+goodlooking v
+======================================================================
+[(u'the', 1, None, 0, 0), (u'presentation', 1.0, u'n', 0.0, 0.0), (u'of', 1, None, 0, 0), (u'the', 1, None, 0, 0), (u'product', 1.0, u'n', 0.0, 0.0), (u'is', 1.0, u'v', 0.0, 0.0), (u'claer', 1.0, None, 0.0, 0.0), (u'and', 1, None, 0, 0), (u'attractive', 0.625, u'a', 0.375, 0.0), (u'and', 1, None, 0, 0), (u'the', 1, None, 0, 0), (u'product', 1.0, u'n', 0.0, 0.0), (u'is', 1.0, u'v', 0.0, 0.0), (u'durable', 1.0, u'a', 0.0, 0.0), (u'comfortable', 0.25, u'a', 0.75, 0.0), (u'and', 1, None, 0, 0), (u'goodlooking', 1.0, None, 0.0, 0.0)]
+======================================================================
+[(u'and', 0, 0, u'attractive', 0.375, 0.0), (u'durable', 0.0, 0.0, u'comfortable', 0.75, 0.0)]
+
+
+---------------------------
+1.125 0.0
+======================================================================
+
+THIS IS A GREAT PRODUCT THAT I HAVE BEEN PUCHASING FOR 15 PLUS YEARS. CAN I ORDER MONOGRAMED SHIRTS FROM THIS SITE
+
+is v
+is v
+matched
+great a
+great a
+matched
+product n
+product n
+matched
+have v
+have v
+matched
+been v
+been v
+matched
+puchasing v
+puchasing v
+years n
+years n
+matched
+can v
+can v
+matched
+order n
+order n
+matched
+monogramed v
+monogramed v
+shirts n
+shirts n
+matched
+site n
+site n
+matched
+======================================================================
+[(u'this', 1, None, 0, 0), (u'is', 1.0, u'v', 0.0, 0.0), (u'a', 1, None, 0, 0), (u'great', 1.0, u'a', 0.0, 0.0), (u'product', 1.0, u'n', 0.0, 0.0), (u'that', 1, None, 0, 0), (u'i', 1, None, 0, 0), (u'have', 1.0, u'v', 0.0, 0.0), (u'been', 1.0, u'v', 0.0, 0.0), (u'puchasing', 1.0, None, 0.0, 0.0), (u'for', 1, None, 0, 0), (u'15', 1, None, 0, 0), (u'plus', 1, None, 0, 0), (u'years', 1.0, u'n', 0.0, 0.0), (u'can', 1.0, u'v', 0.0, 0.0), (u'i', 1, None, 0, 0), (u'order', 1.0, u'n', 0.0, 0.0), (u'monogramed', 1.0, None, 0.0, 0.0), (u'shirts', 1.0, u'n', 0.0, 0.0), (u'from', 1, None, 0, 0), (u'this', 1, None, 0, 0), (u'site', 1.0, u'n', 0.0, 0.0)]
+======================================================================
+[]
+
+
+---------------------------
+0.0 0.0
+======================================================================
+
+Ordering online and not being able to try on clothing can be risky but it paid off with this purchase. I just wish it wasn't "hand wash only".
+
+ordering v
+ordering v
+matched
+online n
+online n
+not r
+not r
+matched
+being v
+being v
+matched
+able a
+able a
+matched
+try v
+try v
+matched
+clothing n
+clothing n
+matched
+can v
+can v
+matched
+be v
+be v
+matched
+risky a
+risky a
+matched
+paid v
+paid v
+matched
+purchase n
+purchase n
+matched
+just r
+just r
+matched
+wish v
+wish v
+matched
+wasnt a
+wasnt a
+hand n
+hand n
+matched
+wash n
+wash n
+matched
+only r
+only r
+matched
+======================================================================
+[(u'ordering', 1.0, u'v', 0.0, 0.0), (u'online', 1.0, None, 0.0, 0.0), (u'and', 1, None, 0, 0), (u'not', 0.375, u'r', 0.0, 0.625), (u'being', 0.625, u'v', 0.25, 0.125), (u'able', 0.75, u'a', 0.25, 0.0), (u'to', 1, None, 0, 0), (u'try', 0.5, u'v', 0.0, 0.5), (u'on', 1, None, 0, 0), (u'clothing', 1.0, u'n', 0.0, 0.0), (u'can', 1.0, u'v', 0.0, 0.0), (u'be', 0.625, u'v', 0.25, 0.125), (u'risky', 0.25, u'a', 0.0, 0.75), (u'but', 1, None, 0, 0), (u'it', 1, None, 0, 0), (u'paid', 1.0, u'v', 0.0, 0.0), (u'off', 1, None, 0, 0), (u'with', 1, None, 0, 0), (u'this', 1, None, 0, 0), (u'purchase', 1.0, u'n', 0.0, 0.0), (u'i', 1, None, 0, 0), (u'just', 0.875, u'r', 0.125, 0.0), (u'wish', 1.0, u'v', 0.0, 0.0), (u'it', 1, None, 0, 0), (u'wasnt', 1.0, None, 0.0, 0.0), (u'hand', 1.0, u'n', 0.0, 0.0), (u'wash', 1.0, u'n', 0.0, 0.0), (u'only', 0.75, u'r', 0.125, 0.125)]
+======================================================================
+[(u'and', 0, 0, u'not', 0.0, 0.625), (u'being', 0.25, 0.125, u'able', 0.25, 0.0), (u'to', 0, 0, u'try', 0.0, 0.5), (u'be', 0.25, 0.125, u'risky', 0.0, 0.75), (u'i', 0, 0, u'just', 0.125, 0.0), (u'wash', 0.0, 0.0, u'only', 0.125, 0.125)]
+
+
+---------------------------
+1.0 2.25
+======================================================================
+
+recipient was very satisfied with this blanket as PB are his initials
+
+recipient a
+recipient a
+was v
+was v
+very r
+very r
+matched
+satisfied a
+satisfied a
+matched
+blanket n
+blanket n
+matched
+pb n
+pb n
+matched
+are v
+are v
+matched
+initials n
+initials n
+matched
+======================================================================
+[(u'recipient', 1.0, None, 0.0, 0.0), (u'was', 1.0, None, 0.0, 0.0), (u'very', 0.75, u'r', 0.25, 0.0), (u'satisfied', 0.625, u'a', 0.375, 0.0), (u'with', 1, None, 0, 0), (u'this', 1, None, 0, 0), (u'blanket', 1.0, u'n', 0.0, 0.0), (u'as', 1, None, 0, 0), (u'pb', 1.0, u'n', 0.0, 0.0), (u'are', 1.0, u'v', 0.0, 0.0), (u'his', 1, None, 0, 0), (u'initials', 1.0, u'n', 0.0, 0.0)]
+======================================================================
+[(u'was', 0.0, 0.0, u'very', 0.25, 0.0), (u'very', 0.25, 0.0, u'satisfied', 0.375, 0.0)]
+
+
+---------------------------
+0.71875 0.0
+======================================================================
+
+these are the most warm and comfortable slippers.  i would recommend these to everyone
+
+are v
+are v
+matched
+most r
+most r
+matched
+warm a
+warm a
+matched
+comfortable a
+comfortable a
+matched
+slippers n
+slippers n
+matched
+would v
+would v
+recommend v
+recommend v
+matched
+everyone n
+everyone n
+======================================================================
+[(u'these', 1, None, 0, 0), (u'are', 1.0, u'v', 0.0, 0.0), (u'the', 1, None, 0, 0), (u'most', 1.0, u'r', 0.0, 0.0), (u'warm', 1.0, u'a', 0.0, 0.0), (u'and', 1, None, 0, 0), (u'comfortable', 0.25, u'a', 0.75, 0.0), (u'slippers', 1.0, u'n', 0.0, 0.0), (u'i', 1, None, 0, 0), (u'would', 1.0, None, 0.0, 0.0), (u'recommend', 0.875, u'v', 0.0, 0.125), (u'these', 1, None, 0, 0), (u'to', 1, None, 0, 0), (u'everyone', 1.0, None, 0.0, 0.0)]
+======================================================================
+[(u'and', 0, 0, u'comfortable', 0.75, 0.0), (u'would', 0.0, 0.0, u'recommend', 0.0, 0.125)]
+
+
+---------------------------
+0.75 0.125
+======================================================================
+
+I love these Crocs!  They are much more comfortable than the original style, and I like the two tone color combo.  I wear them even in the winter
+
+love n
+love n
+matched
+crocs n
+crocs n
+are v
+are v
+matched
+much r
+much r
+matched
+more r
+more r
+matched
+comfortable a
+comfortable a
+matched
+original a
+original a
+matched
+style n
+style n
+matched
+tone n
+tone n
+matched
+color n
+color n
+matched
+wear v
+wear v
+matched
+even r
+even r
+matched
+winter n
+winter n
+matched
+======================================================================
+[(u'i', 1, None, 0, 0), (u'love', 0.375, u'n', 0.625, 0.0), (u'these', 1, None, 0, 0), (u'crocs', 1.0, None, 0.0, 0.0), (u'they', 1, None, 0, 0), (u'are', 1.0, u'v', 0.0, 0.0), (u'much', 0.875, u'r', 0.125, 0.0), (u'more', 1.0, u'r', 0.0, 0.0), (u'comfortable', 0.25, u'a', 0.75, 0.0), (u'than', 1, None, 0, 0), (u'the', 1, None, 0, 0), (u'original', 0.75, u'a', 0.0, 0.25), (u'style', 1.0, u'n', 0.0, 0.0), (u'and', 1, None, 0, 0), (u'i', 1, None, 0, 0), (u'like', 1, None, 0, 0), (u'the', 1, None, 0, 0), (u'two', 1, None, 0, 0), (u'tone', 0.875, u'n', 0.0, 0.125), (u'color', 1.0, u'n', 0.0, 0.0), (u'combo', 1, None, 0, 0), (u'i', 1, None, 0, 0), (u'wear', 1.0, u'v', 0.0, 0.0), (u'them', 1, None, 0, 0), (u'even', 0.625, u'r', 0.0, 0.375), (u'in', 1, None, 0, 0), (u'the', 1, None, 0, 0), (u'winter', 1.0, u'n', 0.0, 0.0)]
+======================================================================
+[(u'i', 0, 0, u'love', 0.625, 0.0), (u'are', 0.0, 0.0, u'much', 0.125, 0.0), (u'more', 0.0, 0.0, u'comfortable', 0.75, 0.0), (u'the', 0, 0, u'original', 0.0, 0.25), (u'two', 0, 0, u'tone', 0.0, 0.125), (u'them', 0, 0, u'even', 0.0, 0.375)]
+
+
+---------------------------
+1.125 0.75
+======================================================================
+
+The jersey of our #54 got here for my wife in time for Super Bowl and she was very happy.(With the jersey NOT Grossman
+
+jersey n
+jersey n
+matched
+got v
+got v
+matched
+here r
+here r
+matched
+wife n
+wife n
+matched
+time n
+time n
+matched
+super a
+super a
+matched
+bowl n
+bowl n
+matched
+was v
+was v
+very r
+very r
+matched
+happywith a
+happywith a
+jersey n
+jersey n
+matched
+not r
+not r
+matched
+grossman n
+grossman n
+======================================================================
+[(u'the', 1, None, 0, 0), (u'jersey', 1.0, u'n', 0.0, 0.0), (u'of', 1, None, 0, 0), (u'our', 1, None, 0, 0), (u'54', 1, None, 0, 0), (u'got', 1.0, u'v', 0.0, 0.0), (u'here', 1.0, u'r', 0.0, 0.0), (u'for', 1, None, 0, 0), (u'my', 1, None, 0, 0), (u'wife', 1.0, u'n', 0.0, 0.0), (u'in', 1, None, 0, 0), (u'time', 0.25, u'n', 0.75, 0.0), (u'for', 1, None, 0, 0), (u'super', 0.5, u'a', 0.125, 0.375), (u'bowl', 1.0, u'n', 0.0, 0.0), (u'and', 1, None, 0, 0), (u'she', 1, None, 0, 0), (u'was', 1.0, None, 0.0, 0.0), (u'very', 0.75, u'r', 0.25, 0.0), (u'happywith', 1.0, None, 0.0, 0.0), (u'the', 1, None, 0, 0), (u'jersey', 1.0, u'n', 0.0, 0.0), (u'not', 0.375, u'r', 0.0, 0.625), (u'grossman', 1.0, None, 0.0, 0.0)]
+======================================================================
+[(u'in', 0, 0, u'time', 0.75, 0.0), (u'for', 0, 0, u'super', 0.125, 0.375), (u'was', 0.0, 0.0, u'very', 0.25, 0.0), (u'jersey', 0.0, 0.0, u'not', 0.0, 0.625)]
+
+
+---------------------------
+1.125 1.0
+======================================================================
+
+These shoes are so comfy!  I love the no shoe string thing too.  Easy and comfortable.  What more could you ask for
+
+shoes n
+shoes n
+matched
+are v
+are v
+matched
+so r
+so r
+matched
+love n
+love n
+matched
+shoe n
+shoe n
+matched
+string n
+string n
+matched
+thing n
+thing n
+matched
+too r
+too r
+matched
+easy a
+easy a
+matched
+comfortable a
+comfortable a
+matched
+more a
+more a
+matched
+could v
+could v
+ask v
+ask v
+matched
+======================================================================
+[(u'these', 1, None, 0, 0), (u'shoes', 1.0, u'n', 0.0, 0.0), (u'are', 1.0, u'v', 0.0, 0.0), (u'so', 1.0, u'r', 0.0, 0.0), (u'comfy', 1, None, 0, 0), (u'i', 1, None, 0, 0), (u'love', 0.375, u'n', 0.625, 0.0), (u'the', 1, None, 0, 0), (u'no', 1, None, 0, 0), (u'shoe', 1.0, u'n', 0.0, 0.0), (u'string', 1.0, u'n', 0.0, 0.0), (u'thing', 1.0, u'n', 0.0, 0.0), (u'too', 0.625, u'r', 0.125, 0.25), (u'easy', 0.125, u'a', 0.25, 0.625), (u'and', 1, None, 0, 0), (u'comfortable', 0.375, u'a', 0.625, 0.0), (u'what', 1, None, 0, 0), (u'more', 1.0, u'a', 0.0, 0.0), (u'could', 1.0, None, 0.0, 0.0), (u'you', 1, None, 0, 0), (u'ask', 1.0, u'v', 0.0, 0.0), (u'for', 1, None, 0, 0)]
+======================================================================
+[(u'i', 0, 0, u'love', 0.625, 0.0), (u'thing', 0.0, 0.0, u'too', 0.125, 0.25), (u'too', 0.125, 0.25, u'easy', 0.25, 0.625), (u'and', 0, 0, u'comfortable', 0.625, 0.0)]
+
+
+---------------------------
+1.75 1.125
+======================================================================
+
+The Lilyette Maximum Support bra is well made and wears well.  It holds up to frequent washings and retains its support features.  It is comfortable
+
+lilyette n
+lilyette n
+maximum n
+maximum n
+matched
+support n
+support n
+matched
+bra n
+bra n
+matched
+is v
+is v
+matched
+well r
+well r
+matched
+made v
+made v
+matched
+wears v
+wears v
+matched
+well r
+well r
+matched
+holds v
+holds v
+matched
+frequent a
+frequent a
+matched
+washings n
+washings n
+matched
+retains v
+retains v
+matched
+support n
+support n
+matched
+features v
+features v
+matched
+is v
+is v
+matched
+comfortable a
+comfortable a
+matched
+======================================================================
+[(u'the', 1, None, 0, 0), (u'lilyette', 1.0, None, 0.0, 0.0), (u'maximum', 0.75, u'n', 0.0, 0.25), (u'support', 1.0, u'n', 0.0, 0.0), (u'bra', 1.0, u'n', 0.0, 0.0), (u'is', 1.0, u'v', 0.0, 0.0), (u'well', 0.875, u'r', 0.125, 0.0), (u'made', 1.0, u'v', 0.0, 0.0), (u'and', 1, None, 0, 0), (u'wears', 0.625, u'v', 0.0, 0.375), (u'well', 0.875, u'r', 0.125, 0.0), (u'it', 1, None, 0, 0), (u'holds', 1.0, u'v', 0.0, 0.0), (u'up', 1, None, 0, 0), (u'to', 1, None, 0, 0), (u'frequent', 1.0, u'a', 0.0, 0.0), (u'washings', 1.0, u'n', 0.0, 0.0), (u'and', 1, None, 0, 0), (u'retains', 1.0, u'v', 0.0, 0.0), (u'its', 1, None, 0, 0), (u'support', 1.0, u'n', 0.0, 0.0), (u'features', 1.0, u'v', 0.0, 0.0), (u'it', 1, None, 0, 0), (u'is', 1.0, u'v', 0.0, 0.0), (u'comfortable', 0.25, u'a', 0.75, 0.0)]
+======================================================================
+[(u'lilyette', 0.0, 0.0, u'maximum', 0.0, 0.25), (u'is', 0.0, 0.0, u'well', 0.125, 0.0), (u'and', 0, 0, u'wears', 0.0, 0.375), (u'wears', 0.0, 0.375, u'well', 0.125, 0.0), (u'is', 0.0, 0.0, u'comfortable', 0.75, 0.0)]
+
+
+---------------------------
+1.0 1.0
+======================================================================
+
+I love naughty monkey! I'm so happy with their shoes! They don't hurt my feet
+
+love n
+love n
+matched
+naughty a
+naughty a
+matched
+monkey n
+monkey n
+matched
+im n
+im n
+so r
+so r
+matched
+happy a
+happy a
+matched
+shoes n
+shoes n
+matched
+dont v
+dont v
+hurt v
+hurt v
+matched
+feet n
+feet n
+matched
+======================================================================
+[(u'i', 1, None, 0, 0), (u'love', 0.375, u'n', 0.625, 0.0), (u'naughty', 0.25, u'a', 0.0, 0.75), (u'monkey', 0.875, u'n', 0.0, 0.125), (u'im', 1.0, None, 0.0, 0.0), (u'so', 1.0, u'r', 0.0, 0.0), (u'happy', 0.875, u'a', 0.125, 0.0), (u'with', 1, None, 0, 0), (u'their', 1, None, 0, 0), (u'shoes', 1.0, u'n', 0.0, 0.0), (u'they', 1, None, 0, 0), (u'dont', 1.0, None, 0.0, 0.0), (u'hurt', 0.5, u'v', 0.0, 0.5), (u'my', 1, None, 0, 0), (u'feet', 1.0, u'n', 0.0, 0.0)]
+======================================================================
+[(u'i', 0, 0, u'love', 0.625, 0.0), (u'love', 0.625, 0.0, u'naughty', 0.0, 0.75), (u'naughty', 0.0, 0.75, u'monkey', 0.0, 0.125), (u'so', 0.0, 0.0, u'happy', 0.125, 0.0), (u'dont', 0.0, 0.0, u'hurt', 0.0, 0.5)]
+
+
+---------------------------
+1.41875 2.125
+======================================================================
+
+Good quality jeans at an affordable price. Size is just right, quite comfortable
+
+good a
+good a
+matched
+quality n
+quality n
+matched
+jeans n
+jeans n
+matched
+affordable a
+affordable a
+matched
+price n
+price n
+matched
+size n
+size n
+matched
+is v
+is v
+matched
+just r
+just r
+matched
+right r
+right r
+matched
+quite r
+quite r
+matched
+comfortable a
+comfortable a
+matched
+======================================================================
+[(u'good', 0.25, u'a', 0.75, 0.0), (u'quality', 0.625, u'n', 0.375, 0.0), (u'jeans', 1.0, u'n', 0.0, 0.0), (u'at', 1, None, 0, 0), (u'an', 1, None, 0, 0), (u'affordable', 1.0, u'a', 0.0, 0.0), (u'price', 1.0, u'n', 0.0, 0.0), (u'size', 1.0, u'n', 0.0, 0.0), (u'is', 0.625, u'v', 0.25, 0.125), (u'just', 0.875, u'r', 0.125, 0.0), (u'right', 1.0, u'r', 0.0, 0.0), (u'quite', 0.5, u'r', 0.25, 0.25), (u'comfortable', 0.25, u'a', 0.75, 0.0)]
+======================================================================
+[(None, 0.0, 0.0, u'good', 0.75, 0.0), (u'good', 0.75, 0.0, u'quality', 0.375, 0.0), (u'is', 0.25, 0.125, u'just', 0.125, 0.0), (u'right', 0.0, 0.0, u'quite', 0.25, 0.25), (u'quite', 0.25, 0.25, u'comfortable', 0.75, 0.0)]
+
+
+---------------------------
+3.325 0.375
+======================================================================
+
+I bought these for my son for Christmas, they were first quality, arrived in time for christmas,and at a great price
+
+bought v
+bought v
+matched
+son n
+son n
+matched
+christmas n
+christmas n
+matched
+were v
+were v
+matched
+first a
+first a
+matched
+quality n
+quality n
+matched
+arrived v
+arrived v
+matched
+time n
+time n
+matched
+christmasand n
+christmasand n
+great a
+great a
+matched
+price n
+price n
+matched
+======================================================================
+[(u'i', 1, None, 0, 0), (u'bought', 1.0, u'v', 0.0, 0.0), (u'these', 1, None, 0, 0), (u'for', 1, None, 0, 0), (u'my', 1, None, 0, 0), (u'son', 1.0, u'n', 0.0, 0.0), (u'for', 1, None, 0, 0), (u'christmas', 1.0, u'n', 0.0, 0.0), (u'they', 1, None, 0, 0), (u'were', 1.0, u'v', 0.0, 0.0), (u'first', 1.0, u'a', 0.0, 0.0), (u'quality', 1.0, u'n', 0.0, 0.0), (u'arrived', 1.0, u'v', 0.0, 0.0), (u'in', 1, None, 0, 0), (u'time', 0.5, u'n', 0.5, 0.0), (u'for', 1, None, 0, 0), (u'christmasand', 1.0, None, 0.0, 0.0), (u'at', 1, None, 0, 0), (u'a', 1, None, 0, 0), (u'great', 0.125, u'a', 0.875, 0.0), (u'price', 1.0, u'n', 0.0, 0.0)]
+======================================================================
+[(u'in', 0, 0, u'time', 0.5, 0.0), (u'a', 0, 0, u'great', 0.875, 0.0)]
+
+
+---------------------------
+1.375 0.0
+======================================================================
+
+Super comfortable.  Provides great support/coverage.  Love the front zipper.  No fighting to get over your head. 
+
+super a
+super a
+matched
+comfortable a
+comfortable a
+matched
+provides v
+provides v
+matched
+great a
+great a
+matched
+supportcoverage a
+supportcoverage a
+love n
+love n
+matched
+front a
+front a
+matched
+zipper n
+zipper n
+matched
+fighting n
+fighting n
+matched
+get v
+get v
+matched
+head n
+head n
+matched
+======================================================================
+[(u'super', 0.5, u'a', 0.125, 0.375), (u'comfortable', 0.25, u'a', 0.75, 0.0), (u'provides', 1.0, u'v', 0.0, 0.0), (u'great', 1.0, u'a', 0.0, 0.0), (u'supportcoverage', 1.0, None, 0.0, 0.0), (u'love', 0.375, u'n', 0.625, 0.0), (u'the', 1, None, 0, 0), (u'front', 1.0, u'a', 0.0, 0.0), (u'zipper', 1.0, u'n', 0.0, 0.0), (u'no', 1, None, 0, 0), (u'fighting', 1.0, u'n', 0.0, 0.0), (u'to', 1, None, 0, 0), (u'get', 1.0, u'v', 0.0, 0.0), (u'over', 1, None, 0, 0), (u'your', 1, None, 0, 0), (u'head', 1.0, u'n', 0.0, 0.0)]
+======================================================================
+[(None, 0.0, 0.0, u'super', 0.125, 0.375), (u'super', 0.125, 0.375, u'comfortable', 0.75, 0.0), (u'supportcoverage', 0.0, 0.0, u'love', 0.625, 0.0)]
+
+
+---------------------------
+1.8 0.375
+======================================================================
+
+Very comfortable - looks great - makes it easy to move around in bed
+
+very r
+very r
+matched
+comfortable a
+comfortable a
+matched
+looks n
+looks n
+matched
+great r
+great r
+makes v
+makes v
+matched
+easy a
+easy a
+matched
+move v
+move v
+matched
+around r
+around r
+matched
+bed n
+bed n
+matched
+======================================================================
+[(u'very', 0.75, u'r', 0.25, 0.0), (u'comfortable', 0.25, u'a', 0.75, 0.0), (u'looks', 0.875, u'n', 0.125, 0.0), (u'great', 1.0, None, 0.0, 0.0), (u'makes', 1.0, u'v', 0.0, 0.0), (u'it', 1, None, 0, 0), (u'easy', 0.625, u'a', 0.375, 0.0), (u'to', 1, None, 0, 0), (u'move', 1.0, u'v', 0.0, 0.0), (u'around', 1.0, u'r', 0.0, 0.0), (u'in', 1, None, 0, 0), (u'bed', 1.0, u'n', 0.0, 0.0)]
+======================================================================
+[(None, 0.0, 0.0, u'very', 0.25, 0.0), (u'very', 0.25, 0.0, u'comfortable', 0.75, 0.0), (u'comfortable', 0.75, 0.0, u'looks', 0.125, 0.0), (u'it', 0, 0, u'easy', 0.375, 0.0)]
+
+
+---------------------------
+2.4375 0.0
+======================================================================
+
+I LOVE my new Steve Maddens!  They are brand new as described and I received them verrrry quickly
+
+love v
+love v
+matched
+new a
+new a
+matched
+steve n
+steve n
+maddens v
+maddens v
+matched
+are v
+are v
+matched
+brand n
+brand n
+matched
+new a
+new a
+matched
+described v
+described v
+matched
+received v
+received v
+matched
+verrrry r
+verrrry r
+quickly r
+quickly r
+matched
+======================================================================
+[(u'i', 1, None, 0, 0), (u'love', 0.5, u'v', 0.5, 0.0), (u'my', 1, None, 0, 0), (u'new', 0.875, u'a', 0.0, 0.125), (u'steve', 1.0, None, 0.0, 0.0), (u'maddens', 1.0, u'v', 0.0, 0.0), (u'they', 1, None, 0, 0), (u'are', 1.0, u'v', 0.0, 0.0), (u'brand', 0.5, u'n', 0.5, 0.0), (u'new', 0.875, u'a', 0.0, 0.125), (u'as', 1, None, 0, 0), (u'described', 1.0, u'v', 0.0, 0.0), (u'and', 1, None, 0, 0), (u'i', 1, None, 0, 0), (u'received', 0.25, u'v', 0.75, 0.0), (u'them', 1, None, 0, 0), (u'verrrry', 1.0, None, 0.0, 0.0), (u'quickly', 1.0, u'r', 0.0, 0.0)]
+======================================================================
+[(u'i', 0, 0, u'love', 0.5, 0.0), (u'my', 0, 0, u'new', 0.0, 0.125), (u'are', 0.0, 0.0, u'brand', 0.5, 0.0), (u'brand', 0.5, 0.0, u'new', 0.0, 0.125), (u'i', 0, 0, u'received', 0.75, 0.0)]
+
+
+---------------------------
+2.25 0.25
+======================================================================
+
+They were a nice quality, nicely priced, and were shipped promptly.  I would buy this brand again
+
+were v
+were v
+matched
+nice a
+nice a
+matched
+quality n
+quality n
+matched
+nicely r
+nicely r
+matched
+priced v
+priced v
+matched
+were v
+were v
+matched
+shipped v
+shipped v
+matched
+promptly r
+promptly r
+matched
+would v
+would v
+buy v
+buy v
+matched
+brand n
+brand n
+matched
+again r
+again r
+matched
+======================================================================
+[(u'they', 1, None, 0, 0), (u'were', 0.625, u'v', 0.25, 0.125), (u'a', 1, None, 0, 0), (u'nice', 0.25, u'a', 0.75, 0.0), (u'quality', 1.0, u'n', 0.0, 0.0), (u'nicely', 0.75, u'r', 0.25, 0.0), (u'priced', 1.0, u'v', 0.0, 0.0), (u'and', 1, None, 0, 0), (u'were', 0.625, u'v', 0.25, 0.125), (u'shipped', 1.0, u'v', 0.0, 0.0), (u'promptly', 0.375, u'r', 0.0, 0.625), (u'i', 1, None, 0, 0), (u'would', 1.0, None, 0.0, 0.0), (u'buy', 1.0, u'v', 0.0, 0.0), (u'this', 1, None, 0, 0), (u'brand', 0.5, u'n', 0.5, 0.0), (u'again', 1.0, u'r', 0.0, 0.0)]
+======================================================================
+[(u'a', 0, 0, u'nice', 0.75, 0.0), (u'quality', 0.0, 0.0, u'nicely', 0.25, 0.0), (u'shipped', 0.0, 0.0, u'promptly', 0.0, 0.625), (u'this', 0, 0, u'brand', 0.5, 0.0)]
+
+
+---------------------------
+1.5 0.625
+======================================================================
+
+I like the flip case. It is exactly what i wanted. However,the clip has fallen off a few times when i hit it.
+
+flip a
+flip a
+matched
+case n
+case n
+matched
+is v
+is v
+matched
+exactly r
+exactly r
+matched
+wanted a
+wanted a
+matched
+howeverthe n
+howeverthe n
+clip n
+clip n
+matched
+has v
+has v
+fallen v
+fallen v
+matched
+few a
+few a
+matched
+times n
+times n
+matched
+when r
+when r
+hit v
+hit v
+matched
+======================================================================
+[(u'i', 1, None, 0, 0), (u'like', 1, None, 0, 0), (u'the', 1, None, 0, 0), (u'flip', 0.25, u'a', 0.25, 0.5), (u'case', 1.0, u'n', 0.0, 0.0), (u'it', 1, None, 0, 0), (u'is', 1.0, u'v', 0.0, 0.0), (u'exactly', 1.0, u'r', 0.0, 0.0), (u'what', 1, None, 0, 0), (u'i', 1, None, 0, 0), (u'wanted', 0.375, u'a', 0.625, 0.0), (u'howeverthe', 1.0, None, 0.0, 0.0), (u'clip', 1.0, u'n', 0.0, 0.0), (u'has', 1.0, None, 0.0, 0.0), (u'fallen', 1.0, u'v', 0.0, 0.0), (u'off', 1, None, 0, 0), (u'a', 1, None, 0, 0), (u'few', 1.0, u'a', 0.0, 0.0), (u'times', 1.0, u'n', 0.0, 0.0), (u'when', 1.0, None, 0.0, 0.0), (u'i', 1, None, 0, 0), (u'hit', 1.0, u'v', 0.0, 0.0), (u'it', 1, None, 0, 0)]
+======================================================================
+[(u'the', 0, 0, u'flip', 0.25, 0.5), (u'i', 0, 0, u'wanted', 0.625, 0.0)]
+
+
+---------------------------
+0.875 0.5
+======================================================================
+
+ FIT IS PERFECT.  VERY COMFORTABLE.  4 STARS.   WOULD PURCHASE AGAIN.
+                              MARY S
+
+fit n
+fit n
+matched
+is v
+is v
+matched
+perfect a
+perfect a
+matched
+very r
+very r
+matched
+comfortable a
+comfortable a
+matched
+stars n
+stars n
+matched
+would v
+would v
+purchase v
+purchase v
+matched
+again r
+again r
+matched
+mary a
+mary a
+s n
+s n
+matched
+======================================================================
+[(u'fit', 0.5, u'n', 0.0, 0.5), (u'is', 1.0, u'v', 0.0, 0.0), (u'perfect', 0.25, u'a', 0.625, 0.125), (u'very', 0.75, u'r', 0.25, 0.0), (u'comfortable', 0.25, u'a', 0.75, 0.0), (u'4', 1, None, 0, 0), (u'stars', 1.0, u'n', 0.0, 0.0), (u'would', 1.0, None, 0.0, 0.0), (u'purchase', 1.0, u'v', 0.0, 0.0), (u'again', 1.0, u'r', 0.0, 0.0), (u'mary', 1.0, None, 0.0, 0.0), (u's', 1.0, u'n', 0.0, 0.0)]
+======================================================================
+[(None, 0.0, 0.0, u'fit', 0.0, 0.5), (u'is', 0.0, 0.0, u'perfect', 0.625, 0.125), (u'perfect', 0.625, 0.125, u'very', 0.25, 0.0), (u'very', 0.25, 0.0, u'comfortable', 0.75, 0.0)]
+
+
+---------------------------
+2.4375 0.75
+======================================================================
+
+Fit well.  Great for all kinds of athletic workouts.  I'm ready to buy a couple more pairs
+
+fit v
+fit v
+matched
+well r
+well r
+matched
+great a
+great a
+matched
+kinds n
+kinds n
+matched
+athletic a
+athletic a
+matched
+workouts n
+workouts n
+matched
+im v
+im v
+ready a
+ready a
+matched
+buy v
+buy v
+matched
+couple n
+couple n
+matched
+more a
+more a
+matched
+pairs n
+pairs n
+matched
+======================================================================
+[(u'fit', 0.875, u'v', 0.0, 0.125), (u'well', 0.875, u'r', 0.125, 0.0), (u'great', 1.0, u'a', 0.0, 0.0), (u'for', 1, None, 0, 0), (u'all', 1, None, 0, 0), (u'kinds', 1.0, u'n', 0.0, 0.0), (u'of', 1, None, 0, 0), (u'athletic', 0.75, u'a', 0.25, 0.0), (u'workouts', 1.0, u'n', 0.0, 0.0), (u'im', 1.0, None, 0.0, 0.0), (u'ready', 1.0, u'a', 0.0, 0.0), (u'to', 1, None, 0, 0), (u'buy', 1.0, u'v', 0.0, 0.0), (u'a', 1, None, 0, 0), (u'couple', 1.0, u'n', 0.0, 0.0), (u'more', 1.0, u'a', 0.0, 0.0), (u'pairs', 1.0, u'n', 0.0, 0.0)]
+======================================================================
+[(None, 0.0, 0.0, u'fit', 0.0, 0.125), (u'fit', 0.0, 0.125, u'well', 0.125, 0.0), (u'of', 0, 0, u'athletic', 0.25, 0.0)]
+
+
+---------------------------
+0.375 0.25
+======================================================================
+
+For the money, these are a great value.  Unlike a comment above, I have not found these short at all, but average in length
+
+money n
+money n
+matched
+are v
+are v
+matched
+great a
+great a
+matched
+value n
+value n
+matched
+comment n
+comment n
+matched
+have v
+have v
+matched
+not r
+not r
+matched
+found v
+found v
+matched
+short a
+short a
+matched
+average n
+average n
+matched
+length n
+length n
+matched
+======================================================================
+[(u'for', 1, None, 0, 0), (u'the', 1, None, 0, 0), (u'money', 1.0, u'n', 0.0, 0.0), (u'these', 1, None, 0, 0), (u'are', 1.0, u'v', 0.0, 0.0), (u'a', 1, None, 0, 0), (u'great', 1.0, u'a', 0.0, 0.0), (u'value', 1.0, u'n', 0.0, 0.0), (u'unlike', 1, None, 0, 0), (u'a', 1, None, 0, 0), (u'comment', 1.0, u'n', 0.0, 0.0), (u'above', 1, None, 0, 0), (u'i', 1, None, 0, 0), (u'have', 1.0, u'v', 0.0, 0.0), (u'not', 0.375, u'r', 0.0, 0.625), (u'found', 1.0, u'v', 0.0, 0.0), (u'these', 1, None, 0, 0), (u'short', 0.375, u'a', 0.0, 0.625), (u'at', 1, None, 0, 0), (u'all', 1, None, 0, 0), (u'but', 1, None, 0, 0), (u'average', 1.0, u'n', 0.0, 0.0), (u'in', 1, None, 0, 0), (u'length', 1.0, u'n', 0.0, 0.0)]
+======================================================================
+[(u'have', 0.0, 0.0, u'not', 0.0, 0.625), (u'these', 0, 0, u'short', 0.0, 0.625)]
+
+
+---------------------------
+0.0 1.25
+======================================================================
+
+love these little gems... perfect at 1 size below normal size.
+you won't want to take them off
+
+love v
+love v
+matched
+little a
+little a
+matched
+gems n
+gems n
+matched
+perfect a
+perfect a
+matched
+size n
+size n
+matched
+normal a
+normal a
+matched
+size n
+size n
+matched
+wont v
+wont v
+want v
+want v
+matched
+take v
+take v
+matched
+======================================================================
+[(u'love', 0.5, u'v', 0.5, 0.0), (u'these', 1, None, 0, 0), (u'little', 0.625, u'a', 0.0, 0.375), (u'gems', 1.0, u'n', 0.0, 0.0), (u'perfect', 0.25, u'a', 0.625, 0.125), (u'at', 1, None, 0, 0), (u'1', 1, None, 0, 0), (u'size', 1.0, u'n', 0.0, 0.0), (u'below', 1, None, 0, 0), (u'normal', 0.5, u'a', 0.0, 0.5), (u'size', 1.0, u'n', 0.0, 0.0), (u'you', 1, None, 0, 0), (u'wont', 1.0, None, 0.0, 0.0), (u'want', 0.375, u'v', 0.0, 0.625), (u'to', 1, None, 0, 0), (u'take', 1.0, u'v', 0.0, 0.0), (u'them', 1, None, 0, 0), (u'off', 1, None, 0, 0)]
+======================================================================
+[(None, 0.0, 0.0, u'love', 0.5, 0.0), (u'these', 0, 0, u'little', 0.0, 0.375), (u'gems', 0.0, 0.0, u'perfect', 0.625, 0.125), (u'below', 0, 0, u'normal', 0.0, 0.5), (u'wont', 0.0, 0.0, u'want', 0.0, 0.625)]
+
+
+---------------------------
+1.125 1.625
+======================================================================
+
+I really like these.  I do recommend getting a size smaller. I normally wear and 8.5 and ordered a 7 and they fit perfectly. super comfortable!
+
+really r
+really r
+matched
+do v
+do v
+matched
+recommend v
+recommend v
+matched
+getting v
+getting v
+matched
+size n
+size n
+matched
+smaller a
+smaller a
+matched
+normally r
+normally r
+matched
+wear v
+wear v
+matched
+ordered v
+ordered v
+matched
+fit v
+fit v
+matched
+perfectly r
+perfectly r
+matched
+super a
+super a
+matched
+comfortable a
+comfortable a
+matched
+======================================================================
+[(u'i', 1, None, 0, 0), (u'really', 0.5, u'r', 0.25, 0.25), (u'like', 1, None, 0, 0), (u'these', 1, None, 0, 0), (u'i', 1, None, 0, 0), (u'do', 1.0, u'v', 0.0, 0.0), (u'recommend', 0.875, u'v', 0.0, 0.125), (u'getting', 1.0, u'v', 0.0, 0.0), (u'a', 1, None, 0, 0), (u'size', 1.0, u'n', 0.0, 0.0), (u'smaller', 0.875, u'a', 0.0, 0.125), (u'i', 1, None, 0, 0), (u'normally', 1.0, u'r', 0.0, 0.0), (u'wear', 1.0, u'v', 0.0, 0.0), (u'and', 1, None, 0, 0), (u'85', 1, None, 0, 0), (u'and', 1, None, 0, 0), (u'ordered', 1.0, u'v', 0.0, 0.0), (u'a', 1, None, 0, 0), (u'7', 1, None, 0, 0), (u'and', 1, None, 0, 0), (u'they', 1, None, 0, 0), (u'fit', 0.875, u'v', 0.0, 0.125), (u'perfectly', 0.5, u'r', 0.375, 0.125), (u'super', 0.375, u'a', 0.625, 0.0), (u'comfortable', 0.25, u'a', 0.75, 0.0)]
+======================================================================
+[(u'i', 0, 0, u'really', 0.25, 0.25), (u'do', 0.0, 0.0, u'recommend', 0.0, 0.125), (u'size', 0.0, 0.0, u'smaller', 0.0, 0.125), (u'they', 0, 0, u'fit', 0.0, 0.125), (u'fit', 0.0, 0.125, u'perfectly', 0.375, 0.125), (u'perfectly', 0.375, 0.125, u'super', 0.625, 0.0), (u'super', 0.625, 0.0, u'comfortable', 0.75, 0.0)]
+
+
+---------------------------
+2.3625 0.875
+======================================================================
+
+i have purchased other hats from well known companies. these hats are great for the money and are constructed well. good job!
+
+have v
+have v
+matched
+purchased v
+purchased v
+matched
+other a
+other a
+matched
+hats n
+hats n
+matched
+well r
+well r
+matched
+known v
+known v
+matched
+companies n
+companies n
+matched
+hats n
+hats n
+matched
+are v
+are v
+matched
+great a
+great a
+matched
+money n
+money n
+matched
+are v
+are v
+matched
+constructed v
+constructed v
+matched
+well r
+well r
+matched
+good a
+good a
+matched
+job n
+job n
+matched
+======================================================================
+[(u'i', 1, None, 0, 0), (u'have', 1.0, u'v', 0.0, 0.0), (u'purchased', 1.0, u'v', 0.0, 0.0), (u'other', 0.375, u'a', 0.0, 0.625), (u'hats', 0.75, u'n', 0.0, 0.25), (u'from', 1, None, 0, 0), (u'well', 0.875, u'r', 0.125, 0.0), (u'known', 0.875, u'v', 0.125, 0.0), (u'companies', 1.0, u'n', 0.0, 0.0), (u'these', 1, None, 0, 0), (u'hats', 0.75, u'n', 0.0, 0.25), (u'are', 1.0, u'v', 0.0, 0.0), (u'great', 0.125, u'a', 0.875, 0.0), (u'for', 1, None, 0, 0), (u'the', 1, None, 0, 0), (u'money', 1.0, u'n', 0.0, 0.0), (u'and', 1, None, 0, 0), (u'are', 1.0, u'v', 0.0, 0.0), (u'constructed', 1.0, u'v', 0.0, 0.0), (u'well', 0.875, u'r', 0.125, 0.0), (u'good', 0.375, u'a', 0.625, 0.0), (u'job', 0.75, u'n', 0.0, 0.25)]
+======================================================================
+[(u'purchased', 0.0, 0.0, u'other', 0.0, 0.625), (u'other', 0.0, 0.625, u'hats', 0.0, 0.25), (u'from', 0, 0, u'well', 0.125, 0.0), (u'well', 0.125, 0.0, u'known', 0.125, 0.0), (u'these', 0, 0, u'hats', 0.0, 0.25), (u'are', 0.0, 0.0, u'great', 0.875, 0.0), (u'constructed', 0.0, 0.0, u'well', 0.125, 0.0), (u'well', 0.125, 0.0, u'good', 0.625, 0.0), (u'good', 0.625, 0.0, u'job', 0.0, 0.25)]
+
+
+---------------------------
+2.75 2.0
+======================================================================
+
+These sweatpants are extremely comfortable, reasonably priced and come in a variety of colors...Definetly a great buy..
+
+sweatpants n
+sweatpants n
+matched
+are v
+are v
+matched
+extremely r
+extremely r
+matched
+comfortable a
+comfortable a
+matched
+reasonably r
+reasonably r
+matched
+priced v
+priced v
+matched
+come v
+come v
+matched
+variety n
+variety n
+matched
+colorsdefinetly r
+colorsdefinetly r
+great a
+great a
+matched
+buy n
+buy n
+matched
+======================================================================
+[(u'these', 1, None, 0, 0), (u'sweatpants', 1.0, u'n', 0.0, 0.0), (u'are', 0.625, u'v', 0.25, 0.125), (u'extremely', 0.375, u'r', 0.625, 0.0), (u'comfortable', 0.25, u'a', 0.75, 0.0), (u'reasonably', 0.625, u'r', 0.125, 0.25), (u'priced', 1.0, u'v', 0.0, 0.0), (u'and', 1, None, 0, 0), (u'come', 0.75, u'v', 0.25, 0.0), (u'in', 1, None, 0, 0), (u'a', 1, None, 0, 0), (u'variety', 1.0, u'n', 0.0, 0.0), (u'of', 1, None, 0, 0), (u'colorsdefinetly', 1.0, None, 0.0, 0.0), (u'a', 1, None, 0, 0), (u'great', 1.0, u'a', 0.0, 0.0), (u'buy', 0.5, u'n', 0.5, 0.0)]
+======================================================================
+[(u'are', 0.25, 0.125, u'extremely', 0.625, 0.0), (u'extremely', 0.625, 0.0, u'comfortable', 0.75, 0.0), (u'comfortable', 0.75, 0.0, u'reasonably', 0.125, 0.25), (u'and', 0, 0, u'come', 0.25, 0.0), (u'great', 0.0, 0.0, u'buy', 0.5, 0.0)]
+
+
+---------------------------
+3.7625 0.375
+======================================================================
+
+i regret to say that i did not receive the shoes..!!
+
+regret n
+regret n
+matched
+say v
+say v
+matched
+did v
+did v
+matched
+not r
+not r
+matched
+receive v
+receive v
+matched
+shoes n
+shoes n
+matched
+======================================================================
+[(u'i', 1, None, 0, 0), (u'regret', 0.125, u'n', 0.0, 0.875), (u'to', 1, None, 0, 0), (u'say', 1.0, u'v', 0.0, 0.0), (u'that', 1, None, 0, 0), (u'i', 1, None, 0, 0), (u'did', 0.5, u'v', 0.0, 0.5), (u'not', 0.375, u'r', 0.0, 0.625), (u'receive', 1.0, u'v', 0.0, 0.0), (u'the', 1, None, 0, 0), (u'shoes', 1.0, u'n', 0.0, 0.0)]
+======================================================================
+[(u'i', 0, 0, u'regret', 0.0, 0.875), (u'did', 0.0, 0.5, u'not', 0.0, 0.625)]
+
+
+---------------------------
+0.0 2.0
+======================================================================
+
+The shirt came fast.It's a good quality shirt.I'm satisfied with it
+
+shirt n
+shirt n
+matched
+came v
+came v
+matched
+fastits n
+fastits n
+good a
+good a
+matched
+quality n
+quality n
+matched
+shirtim n
+shirtim n
+satisfied v
+satisfied v
+matched
+======================================================================
+[(u'the', 1, None, 0, 0), (u'shirt', 1.0, u'n', 0.0, 0.0), (u'came', 1.0, u'v', 0.0, 0.0), (u'fastits', 1.0, None, 0.0, 0.0), (u'a', 1, None, 0, 0), (u'good', 0.25, u'a', 0.75, 0.0), (u'quality', 0.625, u'n', 0.375, 0.0), (u'shirtim', 1.0, None, 0.0, 0.0), (u'satisfied', 0.625, u'v', 0.375, 0.0), (u'with', 1, None, 0, 0), (u'it', 1, None, 0, 0)]
+======================================================================
+[(u'a', 0, 0, u'good', 0.75, 0.0), (u'good', 0.75, 0.0, u'quality', 0.375, 0.0), (u'shirtim', 0.0, 0.0, u'satisfied', 0.375, 0.0)]
+
+
+---------------------------
+2.25 0.0
+======================================================================
+
+These keep your feet warm and toastie. Will want more when these wear out
+
+keep v
+keep v
+matched
+feet n
+feet n
+matched
+warm a
+warm a
+matched
+toastie n
+toastie n
+will v
+will v
+matched
+want v
+want v
+matched
+more a
+more a
+matched
+when r
+when r
+wear n
+wear n
+matched
+======================================================================
+[(u'these', 1, None, 0, 0), (u'keep', 1.0, u'v', 0.0, 0.0), (u'your', 1, None, 0, 0), (u'feet', 1.0, u'n', 0.0, 0.0), (u'warm', 1.0, u'a', 0.0, 0.0), (u'and', 1, None, 0, 0), (u'toastie', 1.0, None, 0.0, 0.0), (u'will', 1.0, u'v', 0.0, 0.0), (u'want', 0.375, u'v', 0.0, 0.625), (u'more', 1.0, u'a', 0.0, 0.0), (u'when', 1.0, None, 0.0, 0.0), (u'these', 1, None, 0, 0), (u'wear', 1.0, u'n', 0.0, 0.0), (u'out', 1, None, 0, 0)]
+======================================================================
+[(u'will', 0.0, 0.0, u'want', 0.0, 0.625)]
+
+
+---------------------------
+0.0 0.625
+======================================================================
+
+It is perfect for my three year old to carry his toys...instead of me carrying them!!!
+
+is v
+is v
+matched
+perfect a
+perfect a
+matched
+year n
+year n
+matched
+old a
+old a
+matched
+carry v
+carry v
+matched
+toysinstead n
+toysinstead n
+carrying v
+carrying v
+matched
+======================================================================
+[(u'it', 1, None, 0, 0), (u'is', 1.0, u'v', 0.0, 0.0), (u'perfect', 0.25, u'a', 0.625, 0.125), (u'for', 1, None, 0, 0), (u'my', 1, None, 0, 0), (u'three', 1, None, 0, 0), (u'year', 1.0, u'n', 0.0, 0.0), (u'old', 0.625, u'a', 0.0, 0.375), (u'to', 1, None, 0, 0), (u'carry', 1.0, u'v', 0.0, 0.0), (u'his', 1, None, 0, 0), (u'toysinstead', 1.0, None, 0.0, 0.0), (u'of', 1, None, 0, 0), (u'me', 1, None, 0, 0), (u'carrying', 1.0, u'v', 0.0, 0.0), (u'them', 1, None, 0, 0)]
+======================================================================
+[(u'is', 0.0, 0.0, u'perfect', 0.625, 0.125), (u'year', 0.0, 0.0, u'old', 0.0, 0.375)]
+
+
+---------------------------
+0.625 0.5
+======================================================================
+
+After i tired Jockey No Line Promise Hip Brief , i will never purchased anything els
+
+tired a
+tired a
+matched
+jockey n
+jockey n
+matched
+line n
+line n
+matched
+promise n
+promise n
+matched
+hip n
+hip n
+matched
+brief a
+brief a
+matched
+will v
+will v
+matched
+never r
+never r
+matched
+purchased v
+purchased v
+matched
+anything n
+anything n
+els n
+els n
+matched
+======================================================================
+[(u'after', 1, None, 0, 0), (u'i', 1, None, 0, 0), (u'tired', 0.75, u'a', 0.25, 0.0), (u'jockey', 1.0, u'n', 0.0, 0.0), (u'no', 1, None, 0, 0), (u'line', 0.375, u'n', 0.125, 0.5), (u'promise', 0.625, u'n', 0.125, 0.25), (u'hip', 1.0, u'n', 0.0, 0.0), (u'brief', 1.0, u'a', 0.0, 0.0), (u'i', 1, None, 0, 0), (u'will', 1.0, u'v', 0.0, 0.0), (u'never', 0.375, u'r', 0.0, 0.625), (u'purchased', 1.0, u'v', 0.0, 0.0), (u'anything', 1.0, None, 0.0, 0.0), (u'els', 1.0, u'n', 0.0, 0.0)]
+======================================================================
+[(u'i', 0, 0, u'tired', 0.25, 0.0), (u'no', 0, 0, u'line', 0.125, 0.5), (u'line', 0.125, 0.5, u'promise', 0.125, 0.25), (u'will', 0.0, 0.0, u'never', 0.0, 0.625)]
+
+
+---------------------------
+0.5 0.875
+======================================================================
+
+The service was expedient and the bras fit perfectly.  Just what I expected and wanted
+
+service n
+service n
+matched
+was v
+was v
+expedient a
+expedient a
+matched
+bras n
+bras n
+matched
+fit v
+fit v
+matched
+perfectly r
+perfectly r
+matched
+just r
+just r
+matched
+expected v
+expected v
+matched
+wanted v
+wanted v
+matched
+======================================================================
+[(u'the', 1, None, 0, 0), (u'service', 1.0, u'n', 0.0, 0.0), (u'was', 1.0, None, 0.0, 0.0), (u'expedient', 1.0, u'a', 0.0, 0.0), (u'and', 1, None, 0, 0), (u'the', 1, None, 0, 0), (u'bras', 1.0, u'n', 0.0, 0.0), (u'fit', 0.875, u'v', 0.0, 0.125), (u'perfectly', 0.5, u'r', 0.375, 0.125), (u'just', 0.875, u'r', 0.125, 0.0), (u'what', 1, None, 0, 0), (u'i', 1, None, 0, 0), (u'expected', 1.0, u'v', 0.0, 0.0), (u'and', 1, None, 0, 0), (u'wanted', 0.375, u'v', 0.0, 0.625)]
+======================================================================
+[(u'bras', 0.0, 0.0, u'fit', 0.0, 0.125), (u'fit', 0.0, 0.125, u'perfectly', 0.375, 0.125), (u'perfectly', 0.375, 0.125, u'just', 0.125, 0.0), (u'and', 0, 0, u'wanted', 0.0, 0.625)]
+
+
+---------------------------
+0.5125 1.0
+======================================================================
+
+Purchased this for my son. He loves wearing it (he's a big fan of ny and the pd). Fits well, washes well
+
+purchased v
+purchased v
+matched
+son n
+son n
+matched
+loves v
+loves v
+matched
+wearing v
+wearing v
+matched
+hes v
+hes v
+big a
+big a
+matched
+fan n
+fan n
+matched
+ny n
+ny n
+matched
+pd n
+pd n
+matched
+fits v
+fits v
+matched
+well r
+well r
+matched
+washes v
+washes v
+matched
+well r
+well r
+matched
+======================================================================
+[(u'purchased', 1.0, u'v', 0.0, 0.0), (u'this', 1, None, 0, 0), (u'for', 1, None, 0, 0), (u'my', 1, None, 0, 0), (u'son', 1.0, u'n', 0.0, 0.0), (u'he', 1, None, 0, 0), (u'loves', 0.5, u'v', 0.5, 0.0), (u'wearing', 0.625, u'v', 0.0, 0.375), (u'it', 1, None, 0, 0), (u'hes', 1.0, None, 0.0, 0.0), (u'a', 1, None, 0, 0), (u'big', 0.875, u'a', 0.125, 0.0), (u'fan', 0.875, u'n', 0.125, 0.0), (u'of', 1, None, 0, 0), (u'ny', 1.0, u'n', 0.0, 0.0), (u'and', 1, None, 0, 0), (u'the', 1, None, 0, 0), (u'pd', 1.0, u'n', 0.0, 0.0), (u'fits', 0.875, u'v', 0.0, 0.125), (u'well', 0.875, u'r', 0.125, 0.0), (u'washes', 1.0, u'v', 0.0, 0.0), (u'well', 0.875, u'r', 0.125, 0.0)]
+======================================================================
+[(u'he', 0, 0, u'loves', 0.5, 0.0), (u'loves', 0.5, 0.0, u'wearing', 0.0, 0.375), (u'a', 0, 0, u'big', 0.125, 0.0), (u'big', 0.125, 0.0, u'fan', 0.125, 0.0), (u'pd', 0.0, 0.0, u'fits', 0.0, 0.125), (u'fits', 0.0, 0.125, u'well', 0.125, 0.0), (u'washes', 0.0, 0.0, u'well', 0.125, 0.0)]
+
+
+---------------------------
+1.5375 0.625
+======================================================================
+
+excellent product for the price  a lot cheaper than the bridal shop  fast shipping  thank
+
+excellent a
+excellent a
+matched
+product n
+product n
+matched
+price n
+price n
+matched
+lot n
+lot n
+matched
+cheaper a
+cheaper a
+matched
+bridal a
+bridal a
+matched
+shop n
+shop n
+matched
+fast a
+fast a
+matched
+shipping n
+shipping n
+matched
+thank v
+thank v
+matched
+======================================================================
+[(u'excellent', 0.0, u'a', 1.0, 0.0), (u'product', 1.0, u'n', 0.0, 0.0), (u'for', 1, None, 0, 0), (u'the', 1, None, 0, 0), (u'price', 1.0, u'n', 0.0, 0.0), (u'a', 1, None, 0, 0), (u'lot', 1.0, u'n', 0.0, 0.0), (u'cheaper', 0.75, u'a', 0.0, 0.25), (u'than', 1, None, 0, 0), (u'the', 1, None, 0, 0), (u'bridal', 1.0, u'a', 0.0, 0.0), (u'shop', 1.0, u'n', 0.0, 0.0), (u'fast', 1.0, u'a', 0.0, 0.0), (u'shipping', 1.0, u'n', 0.0, 0.0), (u'thank', 1.0, u'v', 0.0, 0.0)]
+======================================================================
+[(None, 0.0, 0.0, u'excellent', 1.0, 0.0), (u'lot', 0.0, 0.0, u'cheaper', 0.0, 0.25)]
+
+
+---------------------------
+1.0 0.325
+======================================================================
+
+Stylish and comfy... What more could you ask for?  My husband was very pleased
+
+stylish a
+stylish a
+matched
+comfy a
+comfy a
+matched
+more a
+more a
+matched
+could v
+could v
+ask v
+ask v
+matched
+husband n
+husband n
+matched
+was v
+was v
+very r
+very r
+matched
+pleased a
+pleased a
+matched
+======================================================================
+[(u'stylish', 0.375, u'a', 0.5, 0.125), (u'and', 1, None, 0, 0), (u'comfy', 0.25, u'a', 0.0, 0.75), (u'what', 1, None, 0, 0), (u'more', 1.0, u'a', 0.0, 0.0), (u'could', 1.0, None, 0.0, 0.0), (u'you', 1, None, 0, 0), (u'ask', 1.0, u'v', 0.0, 0.0), (u'for', 1, None, 0, 0), (u'my', 1, None, 0, 0), (u'husband', 1.0, u'n', 0.0, 0.0), (u'was', 1.0, None, 0.0, 0.0), (u'very', 0.75, u'r', 0.25, 0.0), (u'pleased', 0.125, u'a', 0.5, 0.375)]
+======================================================================
+[(None, 0.0, 0.0, u'stylish', 0.5, 0.125), (u'and', 0, 0, u'comfy', 0.0, 0.75), (u'was', 0.0, 0.0, u'very', 0.25, 0.0), (u'very', 0.25, 0.0, u'pleased', 0.5, 0.375)]
+
+
+---------------------------
+1.375 1.25
+======================================================================
+
+GREAT price. I have another pair of these shoes I bought elsewhere at twice this price. Very comfortable. True to size.
+
+great a
+great a
+matched
+price n
+price n
+matched
+have v
+have v
+matched
+pair n
+pair n
+matched
+shoes n
+shoes n
+matched
+bought v
+bought v
+matched
+elsewhere r
+elsewhere r
+matched
+twice r
+twice r
+matched
+price n
+price n
+matched
+very r
+very r
+matched
+comfortable a
+comfortable a
+matched
+true a
+true a
+matched
+size v
+size v
+matched
+======================================================================
+[(u'great', 1.0, u'a', 0.0, 0.0), (u'price', 1.0, u'n', 0.0, 0.0), (u'i', 1, None, 0, 0), (u'have', 1.0, u'v', 0.0, 0.0), (u'another', 1, None, 0, 0), (u'pair', 1.0, u'n', 0.0, 0.0), (u'of', 1, None, 0, 0), (u'these', 1, None, 0, 0), (u'shoes', 1.0, u'n', 0.0, 0.0), (u'i', 1, None, 0, 0), (u'bought', 1.0, u'v', 0.0, 0.0), (u'elsewhere', 1.0, u'r', 0.0, 0.0), (u'at', 1, None, 0, 0), (u'twice', 1.0, u'r', 0.0, 0.0), (u'this', 1, None, 0, 0), (u'price', 1.0, u'n', 0.0, 0.0), (u'very', 0.75, u'r', 0.25, 0.0), (u'comfortable', 0.25, u'a', 0.75, 0.0), (u'true', 1.0, u'a', 0.0, 0.0), (u'to', 1, None, 0, 0), (u'size', 1.0, u'v', 0.0, 0.0)]
+======================================================================
+[(u'price', 0.0, 0.0, u'very', 0.25, 0.0), (u'very', 0.25, 0.0, u'comfortable', 0.75, 0.0)]
+
+
+---------------------------
+1.1875 0.0
+======================================================================
+
+Size was true. I just did not like the
+
+size n
+size n
+matched
+was v
+was v
+true a
+true a
+matched
+just r
+just r
+matched
+did v
+did v
+matched
+not r
+not r
+matched
+like v
+like v
+matched
+======================================================================
+[(u'size', 1.0, u'n', 0.0, 0.0), (u'was', 1.0, None, 0.0, 0.0), (u'true', 1.0, u'a', 0.0, 0.0), (u'i', 1, None, 0, 0), (u'just', 0.875, u'r', 0.125, 0.0), (u'did', 1.0, u'v', 0.0, 0.0), (u'not', 0.375, u'r', 0.0, 0.625), (u'like', 0.875, u'v', 0.125, 0.0), (u'the', 1, None, 0, 0)]
+======================================================================
+[(u'i', 0, 0, u'just', 0.125, 0.0), (u'did', 0.0, 0.0, u'not', 0.0, 0.625), (u'not', 0.0, 0.625, u'like', 0.125, 0.0)]
+
+
+---------------------------
+-0.375 1.25
+======================================================================
+
+These boots look good with jeans. Can be loose, but comfortable with thick socks
+
+boots n
+boots n
+matched
+look v
+look v
+matched
+good a
+good a
+matched
+jeans n
+jeans n
+matched
+can v
+can v
+matched
+be v
+be v
+matched
+loose a
+loose a
+matched
+comfortable a
+comfortable a
+matched
+thick a
+thick a
+matched
+socks n
+socks n
+matched
+======================================================================
+[(u'these', 1, None, 0, 0), (u'boots', 1.0, u'n', 0.0, 0.0), (u'look', 1.0, u'v', 0.0, 0.0), (u'good', 0.25, u'a', 0.75, 0.0), (u'with', 1, None, 0, 0), (u'jeans', 1.0, u'n', 0.0, 0.0), (u'can', 1.0, u'v', 0.0, 0.0), (u'be', 0.625, u'v', 0.25, 0.125), (u'loose', 0.75, u'a', 0.0, 0.25), (u'but', 1, None, 0, 0), (u'comfortable', 0.25, u'a', 0.75, 0.0), (u'with', 1, None, 0, 0), (u'thick', 1.0, u'a', 0.0, 0.0), (u'socks', 1.0, u'n', 0.0, 0.0)]
+======================================================================
+[(u'look', 0.0, 0.0, u'good', 0.75, 0.0), (u'be', 0.25, 0.125, u'loose', 0.0, 0.25), (u'but', 0, 0, u'comfortable', 0.75, 0.0)]
+
+
+---------------------------
+1.75 0.375
+======================================================================
+
+I am very happy with this product, its comfortable and good looking. Worth buy...
+
+am r
+am r
+very r
+very r
+matched
+happy a
+happy a
+matched
+product n
+product n
+matched
+comfortable a
+comfortable a
+matched
+good a
+good a
+matched
+looking v
+looking v
+matched
+worth a
+worth a
+matched
+buy n
+buy n
+matched
+======================================================================
+[(u'i', 1, None, 0, 0), (u'am', 1.0, None, 0.0, 0.0), (u'very', 0.5, u'r', 0.25, 0.25), (u'happy', 0.875, u'a', 0.125, 0.0), (u'with', 1, None, 0, 0), (u'this', 1, None, 0, 0), (u'product', 1.0, u'n', 0.0, 0.0), (u'its', 1, None, 0, 0), (u'comfortable', 0.25, u'a', 0.75, 0.0), (u'and', 1, None, 0, 0), (u'good', 0.25, u'a', 0.75, 0.0), (u'looking', 1.0, u'v', 0.0, 0.0), (u'worth', 1.0, u'a', 0.0, 0.0), (u'buy', 0.5, u'n', 0.5, 0.0)]
+======================================================================
+[(u'am', 0.0, 0.0, u'very', 0.25, 0.25), (u'very', 0.25, 0.25, u'happy', 0.125, 0.0), (u'its', 0, 0, u'comfortable', 0.75, 0.0), (u'and', 0, 0, u'good', 0.75, 0.0), (u'worth', 0.0, 0.0, u'buy', 0.5, 0.0)]
+
+
+---------------------------
+2.40625 0.25
+======================================================================
+
+these panties fit great wash after wash. great quality and very smooth under dress or pant
+
+panties n
+panties n
+matched
+fit v
+fit v
+matched
+great a
+great a
+matched
+wash n
+wash n
+matched
+wash n
+wash n
+matched
+great a
+great a
+matched
+quality n
+quality n
+matched
+very r
+very r
+matched
+smooth a
+smooth a
+matched
+dress n
+dress n
+matched
+pant n
+pant n
+matched
+======================================================================
+[(u'these', 1, None, 0, 0), (u'panties', 1.0, u'n', 0.0, 0.0), (u'fit', 0.875, u'v', 0.0, 0.125), (u'great', 1.0, u'a', 0.0, 0.0), (u'wash', 1.0, u'n', 0.0, 0.0), (u'after', 1, None, 0, 0), (u'wash', 1.0, u'n', 0.0, 0.0), (u'great', 1.0, u'a', 0.0, 0.0), (u'quality', 1.0, u'n', 0.0, 0.0), (u'and', 1, None, 0, 0), (u'very', 0.75, u'r', 0.25, 0.0), (u'smooth', 0.75, u'a', 0.25, 0.0), (u'under', 1, None, 0, 0), (u'dress', 0.875, u'n', 0.0, 0.125), (u'or', 1, None, 0, 0), (u'pant', 1.0, u'n', 0.0, 0.0)]
+======================================================================
+[(u'panties', 0.0, 0.0, u'fit', 0.0, 0.125), (u'and', 0, 0, u'very', 0.25, 0.0), (u'very', 0.25, 0.0, u'smooth', 0.25, 0.0), (u'under', 0, 0, u'dress', 0.0, 0.125)]
+
+
+---------------------------
+0.5625 0.25
+======================================================================
+
+This is one of the most comfortable shoes I ever owned.  Excellent quality and fit. 
+
+is v
+is v
+matched
+most r
+most r
+matched
+comfortable a
+comfortable a
+matched
+shoes n
+shoes n
+matched
+ever r
+ever r
+matched
+owned v
+owned v
+matched
+excellent a
+excellent a
+matched
+quality n
+quality n
+matched
+fit n
+fit n
+matched
+======================================================================
+[(u'this', 1, None, 0, 0), (u'is', 0.75, u'v', 0.125, 0.125), (u'one', 1, None, 0, 0), (u'of', 1, None, 0, 0), (u'the', 1, None, 0, 0), (u'most', 1.0, u'r', 0.0, 0.0), (u'comfortable', 0.375, u'a', 0.625, 0.0), (u'shoes', 1.0, u'n', 0.0, 0.0), (u'i', 1, None, 0, 0), (u'ever', 1.0, u'r', 0.0, 0.0), (u'owned', 1.0, u'v', 0.0, 0.0), (u'excellent', 0.0, u'a', 1.0, 0.0), (u'quality', 1.0, u'n', 0.0, 0.0), (u'and', 1, None, 0, 0), (u'fit', 0.5, u'n', 0.0, 0.5)]
+======================================================================
+[(u'most', 0.0, 0.0, u'comfortable', 0.625, 0.0), (u'owned', 0.0, 0.0, u'excellent', 1.0, 0.0), (u'and', 0, 0, u'fit', 0.0, 0.5)]
+
+
+---------------------------
+2.25 0.5
+======================================================================
+
+My son loves the jersey - a little pricey but a nice jerse
+
+son n
+son n
+matched
+loves v
+loves v
+matched
+jersey n
+jersey n
+matched
+little a
+little a
+matched
+pricey a
+pricey a
+matched
+nice a
+nice a
+matched
+jerse n
+jerse n
+======================================================================
+[(u'my', 1, None, 0, 0), (u'son', 1.0, u'n', 0.0, 0.0), (u'loves', 0.5, u'v', 0.5, 0.0), (u'the', 1, None, 0, 0), (u'jersey', 1.0, u'n', 0.0, 0.0), (u'a', 1, None, 0, 0), (u'little', 1.0, u'a', 0.0, 0.0), (u'pricey', 0.5, u'a', 0.5, 0.0), (u'but', 1, None, 0, 0), (u'a', 1, None, 0, 0), (u'nice', 0.25, u'a', 0.75, 0.0), (u'jerse', 1.0, None, 0.0, 0.0)]
+======================================================================
+[(u'son', 0.0, 0.0, u'loves', 0.5, 0.0), (u'little', 0.0, 0.0, u'pricey', 0.5, 0.0), (u'a', 0, 0, u'nice', 0.75, 0.0)]
+
+
+---------------------------
+1.5 0.0
+======================================================================
+
+This was a Christmas gift for my friend's husband. He really liked it and said it was excellent quality
+
+was v
+was v
+christmas n
+christmas n
+matched
+gift n
+gift n
+matched
+friends n
+friends n
+matched
+husband n
+husband n
+matched
+really r
+really r
+matched
+liked v
+liked v
+matched
+said v
+said v
+matched
+was v
+was v
+excellent a
+excellent a
+matched
+quality n
+quality n
+matched
+======================================================================
+[(u'this', 1, None, 0, 0), (u'was', 1.0, None, 0.0, 0.0), (u'a', 1, None, 0, 0), (u'christmas', 1.0, u'n', 0.0, 0.0), (u'gift', 0.75, u'n', 0.25, 0.0), (u'for', 1, None, 0, 0), (u'my', 1, None, 0, 0), (u'friends', 0.875, u'n', 0.125, 0.0), (u'husband', 1.0, u'n', 0.0, 0.0), (u'he', 1, None, 0, 0), (u'really', 0.5, u'r', 0.25, 0.25), (u'liked', 0.875, u'v', 0.125, 0.0), (u'it', 1, None, 0, 0), (u'and', 1, None, 0, 0), (u'said', 1.0, u'v', 0.0, 0.0), (u'it', 1, None, 0, 0), (u'was', 1.0, None, 0.0, 0.0), (u'excellent', 0.0, u'a', 1.0, 0.0), (u'quality', 1.0, u'n', 0.0, 0.0)]
+======================================================================
+[(u'christmas', 0.0, 0.0, u'gift', 0.25, 0.0), (u'my', 0, 0, u'friends', 0.125, 0.0), (u'he', 0, 0, u'really', 0.25, 0.25), (u'really', 0.25, 0.25, u'liked', 0.125, 0.0), (u'was', 0.0, 0.0, u'excellent', 1.0, 0.0)]
+
+
+---------------------------
+1.76875 0.25
+======================================================================
+
+they were slightly small and a tad too stiff.
+
+but very cut
+
+were v
+were v
+matched
+slightly r
+slightly r
+matched
+small a
+small a
+matched
+tad n
+tad n
+matched
+too r
+too r
+matched
+stiff a
+stiff a
+matched
+very a
+very a
+matched
+cut n
+cut n
+matched
+======================================================================
+[(u'they', 1, None, 0, 0), (u'were', 0.625, u'v', 0.25, 0.125), (u'slightly', 1.0, u'r', 0.0, 0.0), (u'small', 0.875, u'a', 0.0, 0.125), (u'and', 1, None, 0, 0), (u'a', 1, None, 0, 0), (u'tad', 0.875, u'n', 0.0, 0.125), (u'too', 0.625, u'r', 0.125, 0.25), (u'stiff', 0.875, u'a', 0.125, 0.0), (u'but', 1, None, 0, 0), (u'very', 0.5, u'a', 0.5, 0.0), (u'cut', 1.0, u'n', 0.0, 0.0)]
+======================================================================
+[(u'slightly', 0.0, 0.0, u'small', 0.0, 0.125), (u'a', 0, 0, u'tad', 0.0, 0.125), (u'tad', 0.0, 0.125, u'too', 0.125, 0.25), (u'too', 0.125, 0.25, u'stiff', 0.125, 0.0), (u'but', 0, 0, u'very', 0.5, 0.0)]
+
+
+---------------------------
+0.875 0.8125
+======================================================================
+
+after all these years buying this wrangler product this by far has been the cheaper price that i've ran across. i love it.
+
+years n
+years n
+matched
+buying v
+buying v
+matched
+wrangler n
+wrangler n
+matched
+product n
+product n
+matched
+far r
+far r
+matched
+has v
+has v
+been v
+been v
+matched
+cheaper a
+cheaper a
+matched
+price n
+price n
+matched
+ive n
+ive n
+ran v
+ran v
+matched
+love v
+love v
+matched
+======================================================================
+[(u'after', 1, None, 0, 0), (u'all', 1, None, 0, 0), (u'these', 1, None, 0, 0), (u'years', 1.0, u'n', 0.0, 0.0), (u'buying', 1.0, u'v', 0.0, 0.0), (u'this', 1, None, 0, 0), (u'wrangler', 0.75, u'n', 0.0, 0.25), (u'product', 1.0, u'n', 0.0, 0.0), (u'this', 1, None, 0, 0), (u'by', 1, None, 0, 0), (u'far', 0.875, u'r', 0.125, 0.0), (u'has', 1.0, None, 0.0, 0.0), (u'been', 1.0, u'v', 0.0, 0.0), (u'the', 1, None, 0, 0), (u'cheaper', 0.75, u'a', 0.0, 0.25), (u'price', 0.375, u'n', 0.625, 0.0), (u'that', 1, None, 0, 0), (u'ive', 1.0, None, 0.0, 0.0), (u'ran', 1.0, u'v', 0.0, 0.0), (u'across', 1, None, 0, 0), (u'i', 1, None, 0, 0), (u'love', 0.5, u'v', 0.5, 0.0), (u'it', 1, None, 0, 0)]
+======================================================================
+[(u'this', 0, 0, u'wrangler', 0.0, 0.25), (u'by', 0, 0, u'far', 0.125, 0.0), (u'the', 0, 0, u'cheaper', 0.0, 0.25), (u'cheaper', 0.0, 0.25, u'price', 0.625, 0.0), (u'i', 0, 0, u'love', 0.5, 0.0)]
+
+
+---------------------------
+1.25 0.75
+======================================================================
+
+I was very satisfied with my purchase and am in the process of ordering more hats
+
+was v
+was v
+very r
+very r
+matched
+satisfied a
+satisfied a
+matched
+purchase n
+purchase n
+matched
+am v
+am v
+matched
+process n
+process n
+matched
+ordering v
+ordering v
+matched
+more a
+more a
+matched
+hats n
+hats n
+matched
+======================================================================
+[(u'i', 1, None, 0, 0), (u'was', 1.0, None, 0.0, 0.0), (u'very', 0.75, u'r', 0.25, 0.0), (u'satisfied', 0.625, u'a', 0.375, 0.0), (u'with', 1, None, 0, 0), (u'my', 1, None, 0, 0), (u'purchase', 1.0, u'n', 0.0, 0.0), (u'and', 1, None, 0, 0), (u'am', 1.0, u'v', 0.0, 0.0), (u'in', 1, None, 0, 0), (u'the', 1, None, 0, 0), (u'process', 1.0, u'n', 0.0, 0.0), (u'of', 1, None, 0, 0), (u'ordering', 1.0, u'v', 0.0, 0.0), (u'more', 1.0, u'a', 0.0, 0.0), (u'hats', 0.75, u'n', 0.0, 0.25)]
+======================================================================
+[(u'was', 0.0, 0.0, u'very', 0.25, 0.0), (u'very', 0.25, 0.0, u'satisfied', 0.375, 0.0), (u'more', 0.0, 0.0, u'hats', 0.0, 0.25)]
+
+
+---------------------------
+0.71875 0.125
+======================================================================
+
+When I bought these shoes I didn't know they would look so pretty. I am glad I bought these shoes
+
+when r
+when r
+bought v
+bought v
+matched
+shoes n
+shoes n
+matched
+know v
+know v
+matched
+would v
+would v
+look v
+look v
+matched
+so r
+so r
+matched
+pretty r
+pretty r
+matched
+am r
+am r
+glad a
+glad a
+matched
+bought v
+bought v
+matched
+shoes n
+shoes n
+matched
+======================================================================
+[(u'when', 1.0, None, 0.0, 0.0), (u'i', 1, None, 0, 0), (u'bought', 1.0, u'v', 0.0, 0.0), (u'these', 1, None, 0, 0), (u'shoes', 1.0, u'n', 0.0, 0.0), (u'i', 1, None, 0, 0), (u'didnt', 1, None, 0, 0), (u'know', 0.875, u'v', 0.125, 0.0), (u'they', 1, None, 0, 0), (u'would', 1.0, None, 0.0, 0.0), (u'look', 1.0, u'v', 0.0, 0.0), (u'so', 1.0, u'r', 0.0, 0.0), (u'pretty', 0.625, u'r', 0.125, 0.25), (u'i', 1, None, 0, 0), (u'am', 1.0, None, 0.0, 0.0), (u'glad', 0.25, u'a', 0.125, 0.625), (u'i', 1, None, 0, 0), (u'bought', 1.0, u'v', 0.0, 0.0), (u'these', 1, None, 0, 0), (u'shoes', 1.0, u'n', 0.0, 0.0)]
+======================================================================
+[(u'didnt', 0, 0, u'know', 0.125, 0.0), (u'so', 0.0, 0.0, u'pretty', 0.125, 0.25), (u'am', 0.0, 0.0, u'glad', 0.125, 0.625)]
+
+
+---------------------------
+0.375 0.9625
+======================================================================
+
+Russell!  I really wouldn't buy any other kind.  Too bad they don't make concert T-shirts!  Great material, long-lasting.  The best
+
+really r
+really r
+matched
+wouldnt a
+wouldnt a
+buy n
+buy n
+matched
+other a
+other a
+matched
+kind n
+kind n
+matched
+too r
+too r
+matched
+bad a
+bad a
+matched
+dont v
+dont v
+make v
+make v
+matched
+concert n
+concert n
+matched
+tshirts n
+tshirts n
+great a
+great a
+matched
+material n
+material n
+matched
+longlasting v
+longlasting v
+best a
+best a
+matched
+======================================================================
+[(u'russell', 1, None, 0, 0), (u'i', 1, None, 0, 0), (u'really', 0.5, u'r', 0.25, 0.25), (u'wouldnt', 1.0, None, 0.0, 0.0), (u'buy', 0.5, u'n', 0.5, 0.0), (u'any', 1, None, 0, 0), (u'other', 0.25, u'a', 0.375, 0.375), (u'kind', 1.0, u'n', 0.0, 0.0), (u'too', 0.625, u'r', 0.125, 0.25), (u'bad', 0.375, u'a', 0.0, 0.625), (u'they', 1, None, 0, 0), (u'dont', 1.0, None, 0.0, 0.0), (u'make', 1.0, u'v', 0.0, 0.0), (u'concert', 1.0, u'n', 0.0, 0.0), (u'tshirts', 1.0, None, 0.0, 0.0), (u'great', 0.125, u'a', 0.875, 0.0), (u'material', 1.0, u'n', 0.0, 0.0), (u'longlasting', 1.0, None, 0.0, 0.0), (u'the', 1, None, 0, 0), (u'best', 0.25, u'a', 0.75, 0.0)]
+======================================================================
+[(u'i', 0, 0, u'really', 0.25, 0.25), (u'wouldnt', 0.0, 0.0, u'buy', 0.5, 0.0), (u'any', 0, 0, u'other', 0.375, 0.375), (u'kind', 0.0, 0.0, u'too', 0.125, 0.25), (u'too', 0.125, 0.25, u'bad', 0.0, 0.625), (u'tshirts', 0.0, 0.0, u'great', 0.875, 0.0), (u'the', 0, 0, u'best', 0.75, 0.0)]
+
+
+---------------------------
+3.0 1.75
+======================================================================
+
+I am sorry but I did not like it nor will I wear it as it is too big and looks funny on me. I wish I had not have gotten it.
+
+am r
+am r
+sorry a
+sorry a
+matched
+did v
+did v
+matched
+not r
+not r
+matched
+like v
+like v
+matched
+will v
+will v
+matched
+wear v
+wear v
+matched
+is v
+is v
+matched
+too r
+too r
+matched
+big a
+big a
+matched
+looks v
+looks v
+matched
+funny a
+funny a
+matched
+wish v
+wish v
+matched
+had v
+had v
+matched
+not r
+not r
+matched
+have v
+have v
+matched
+gotten v
+gotten v
+matched
+======================================================================
+[(u'i', 1, None, 0, 0), (u'am', 1.0, None, 0.0, 0.0), (u'sorry', 0.375, u'a', 0.0, 0.625), (u'but', 1, None, 0, 0), (u'i', 1, None, 0, 0), (u'did', 1.0, u'v', 0.0, 0.0), (u'not', 0.375, u'r', 0.0, 0.625), (u'like', 0.875, u'v', 0.125, 0.0), (u'it', 1, None, 0, 0), (u'nor', 1, None, 0, 0), (u'will', 1.0, u'v', 0.0, 0.0), (u'i', 1, None, 0, 0), (u'wear', 1.0, u'v', 0.0, 0.0), (u'it', 1, None, 0, 0), (u'as', 1, None, 0, 0), (u'it', 1, None, 0, 0), (u'is', 0.625, u'v', 0.25, 0.125), (u'too', 0.625, u'r', 0.125, 0.25), (u'big', 0.875, u'a', 0.125, 0.0), (u'and', 1, None, 0, 0), (u'looks', 1.0, u'v', 0.0, 0.0), (u'funny', 0.5, u'a', 0.0, 0.5), (u'on', 1, None, 0, 0), (u'me', 1, None, 0, 0), (u'i', 1, None, 0, 0), (u'wish', 0.875, u'v', 0.125, 0.0), (u'i', 1, None, 0, 0), (u'had', 1.0, u'v', 0.0, 0.0), (u'not', 0.375, u'r', 0.0, 0.625), (u'have', 1.0, u'v', 0.0, 0.0), (u'gotten', 1.0, u'v', 0.0, 0.0), (u'it', 1, None, 0, 0)]
+======================================================================
+[(u'am', 0.0, 0.0, u'sorry', 0.0, 0.625), (u'did', 0.0, 0.0, u'not', 0.0, 0.625), (u'not', 0.0, 0.625, u'like', 0.125, 0.0), (u'is', 0.25, 0.125, u'too', 0.125, 0.25), (u'too', 0.125, 0.25, u'big', 0.125, 0.0), (u'looks', 0.0, 0.0, u'funny', 0.0, 0.5), (u'i', 0, 0, u'wish', 0.125, 0.0), (u'had', 0.0, 0.0, u'not', 0.0, 0.625)]
+
+
+---------------------------
+0.25 3.625
+======================================================================
+
+A red star!?!?  I bet this won't sell well in eastern Europe.
+
+red a
+red a
+matched
+star n
+star n
+matched
+bet v
+bet v
+matched
+wont a
+wont a
+sell n
+sell n
+matched
+well r
+well r
+matched
+eastern a
+eastern a
+matched
+europe n
+europe n
+matched
+======================================================================
+[(u'a', 1, None, 0, 0), (u'red', 0.75, u'a', 0.0, 0.25), (u'star', 1.0, u'n', 0.0, 0.0), (u'i', 1, None, 0, 0), (u'bet', 1.0, u'v', 0.0, 0.0), (u'this', 1, None, 0, 0), (u'wont', 1.0, None, 0.0, 0.0), (u'sell', 1.0, u'n', 0.0, 0.0), (u'well', 0.875, u'r', 0.125, 0.0), (u'in', 1, None, 0, 0), (u'eastern', 1.0, u'a', 0.0, 0.0), (u'europe', 1.0, u'n', 0.0, 0.0)]
+======================================================================
+[(u'a', 0, 0, u'red', 0.0, 0.25), (u'sell', 0.0, 0.0, u'well', 0.125, 0.0)]
+
+
+---------------------------
+0.125 0.25
+======================================================================
+
+THe pants that I ordered for my size were very small. They weren't true to size at all. I would not recommend this item to anyone
+
+pants n
+pants n
+matched
+ordered v
+ordered v
+matched
+size n
+size n
+matched
+were v
+were v
+matched
+very r
+very r
+matched
+small a
+small a
+matched
+werent v
+werent v
+true a
+true a
+matched
+size v
+size v
+matched
+would v
+would v
+not r
+not r
+matched
+recommend v
+recommend v
+matched
+item n
+item n
+matched
+anyone n
+anyone n
+======================================================================
+[(u'the', 1, None, 0, 0), (u'pants', 1.0, u'n', 0.0, 0.0), (u'that', 1, None, 0, 0), (u'i', 1, None, 0, 0), (u'ordered', 1.0, u'v', 0.0, 0.0), (u'for', 1, None, 0, 0), (u'my', 1, None, 0, 0), (u'size', 1.0, u'n', 0.0, 0.0), (u'were', 1.0, u'v', 0.0, 0.0), (u'very', 0.75, u'r', 0.25, 0.0), (u'small', 0.875, u'a', 0.0, 0.125), (u'they', 1, None, 0, 0), (u'werent', 1.0, None, 0.0, 0.0), (u'true', 1.0, u'a', 0.0, 0.0), (u'to', 1, None, 0, 0), (u'size', 1.0, u'v', 0.0, 0.0), (u'at', 1, None, 0, 0), (u'all', 1, None, 0, 0), (u'i', 1, None, 0, 0), (u'would', 1.0, None, 0.0, 0.0), (u'not', 0.375, u'r', 0.0, 0.625), (u'recommend', 0.875, u'v', 0.0, 0.125), (u'this', 1, None, 0, 0), (u'item', 1.0, u'n', 0.0, 0.0), (u'to', 1, None, 0, 0), (u'anyone', 1.0, None, 0.0, 0.0)]
+======================================================================
+[(u'were', 0.0, 0.0, u'very', 0.25, 0.0), (u'very', 0.25, 0.0, u'small', 0.0, 0.125), (u'would', 0.0, 0.0, u'not', 0.0, 0.625), (u'not', 0.0, 0.625, u'recommend', 0.0, 0.125)]
+
+
+---------------------------
+0.25 0.90625
+======================================================================
+
+IT was advertised and NOT IN STOCK so I was unable to get it
+
+was v
+was v
+advertised v
+advertised v
+matched
+not r
+not r
+matched
+stock n
+stock n
+matched
+so r
+so r
+matched
+was v
+was v
+unable a
+unable a
+matched
+get v
+get v
+matched
+======================================================================
+[(u'it', 1, None, 0, 0), (u'was', 1.0, None, 0.0, 0.0), (u'advertised', 1.0, u'v', 0.0, 0.0), (u'and', 1, None, 0, 0), (u'not', 0.375, u'r', 0.0, 0.625), (u'in', 1, None, 0, 0), (u'stock', 1.0, u'n', 0.0, 0.0), (u'so', 1.0, u'r', 0.0, 0.0), (u'i', 1, None, 0, 0), (u'was', 1.0, None, 0.0, 0.0), (u'unable', 0.25, u'a', 0.0, 0.75), (u'to', 1, None, 0, 0), (u'get', 1.0, u'v', 0.0, 0.0), (u'it', 1, None, 0, 0)]
+======================================================================
+[(u'and', 0, 0, u'not', 0.0, 0.625), (u'was', 0.0, 0.0, u'unable', 0.0, 0.75)]
+
+
+---------------------------
+0.0 1.375
+======================================================================
+
+Very dissatisfied with the quality like several other reviewers.  Relegated to cleaning after just one use
+
+very r
+very r
+matched
+dissatisfied a
+dissatisfied a
+matched
+quality n
+quality n
+matched
+several a
+several a
+matched
+other a
+other a
+matched
+reviewers n
+reviewers n
+matched
+relegated v
+relegated v
+matched
+cleaning n
+cleaning n
+matched
+just r
+just r
+matched
+use n
+use n
+matched
+======================================================================
+[(u'very', 0.75, u'r', 0.25, 0.0), (u'dissatisfied', 0.5, u'a', 0.0, 0.5), (u'with', 1, None, 0, 0), (u'the', 1, None, 0, 0), (u'quality', 0.625, u'n', 0.375, 0.0), (u'like', 1, None, 0, 0), (u'several', 0.875, u'a', 0.125, 0.0), (u'other', 0.25, u'a', 0.375, 0.375), (u'reviewers', 1.0, u'n', 0.0, 0.0), (u'relegated', 1.0, u'v', 0.0, 0.0), (u'to', 1, None, 0, 0), (u'cleaning', 1.0, u'n', 0.0, 0.0), (u'after', 1, None, 0, 0), (u'just', 0.875, u'r', 0.125, 0.0), (u'one', 1, None, 0, 0), (u'use', 1.0, u'n', 0.0, 0.0)]
+======================================================================
+[(None, 0.0, 0.0, u'very', 0.25, 0.0), (u'very', 0.25, 0.0, u'dissatisfied', 0.0, 0.5), (u'the', 0, 0, u'quality', 0.375, 0.0), (u'like', 0, 0, u'several', 0.125, 0.0), (u'several', 0.125, 0.0, u'other', 0.375, 0.375), (u'after', 0, 0, u'just', 0.125, 0.0)]
+
+
+---------------------------
+1.375 1.0
+======================================================================
+
+THe pants that I ordered for my size were very small. They weren't true to size at all. I would not recommend this item to anyone
+
+pants n
+pants n
+matched
+ordered v
+ordered v
+matched
+size n
+size n
+matched
+were v
+were v
+matched
+very r
+very r
+matched
+small a
+small a
+matched
+werent v
+werent v
+true a
+true a
+matched
+size v
+size v
+matched
+would v
+would v
+not r
+not r
+matched
+recommend v
+recommend v
+matched
+item n
+item n
+matched
+anyone n
+anyone n
+======================================================================
+[(u'the', 1, None, 0, 0), (u'pants', 1.0, u'n', 0.0, 0.0), (u'that', 1, None, 0, 0), (u'i', 1, None, 0, 0), (u'ordered', 1.0, u'v', 0.0, 0.0), (u'for', 1, None, 0, 0), (u'my', 1, None, 0, 0), (u'size', 1.0, u'n', 0.0, 0.0), (u'were', 1.0, u'v', 0.0, 0.0), (u'very', 0.75, u'r', 0.25, 0.0), (u'small', 0.875, u'a', 0.0, 0.125), (u'they', 1, None, 0, 0), (u'werent', 1.0, None, 0.0, 0.0), (u'true', 1.0, u'a', 0.0, 0.0), (u'to', 1, None, 0, 0), (u'size', 1.0, u'v', 0.0, 0.0), (u'at', 1, None, 0, 0), (u'all', 1, None, 0, 0), (u'i', 1, None, 0, 0), (u'would', 1.0, None, 0.0, 0.0), (u'not', 0.375, u'r', 0.0, 0.625), (u'recommend', 0.875, u'v', 0.0, 0.125), (u'this', 1, None, 0, 0), (u'item', 1.0, u'n', 0.0, 0.0), (u'to', 1, None, 0, 0), (u'anyone', 1.0, None, 0.0, 0.0)]
+======================================================================
+[(u'were', 0.0, 0.0, u'very', 0.25, 0.0), (u'very', 0.25, 0.0, u'small', 0.0, 0.125), (u'would', 0.0, 0.0, u'not', 0.0, 0.625), (u'not', 0.0, 0.625, u'recommend', 0.0, 0.125)]
+
+
+---------------------------
+0.25 0.90625
+======================================================================
+
+IT was advertised and NOT IN STOCK so I was unable to get it
+
+was v
+was v
+advertised v
+advertised v
+matched
+not r
+not r
+matched
+stock n
+stock n
+matched
+so r
+so r
+matched
+was v
+was v
+unable a
+unable a
+matched
+get v
+get v
+matched
+======================================================================
+[(u'it', 1, None, 0, 0), (u'was', 1.0, None, 0.0, 0.0), (u'advertised', 1.0, u'v', 0.0, 0.0), (u'and', 1, None, 0, 0), (u'not', 0.375, u'r', 0.0, 0.625), (u'in', 1, None, 0, 0), (u'stock', 1.0, u'n', 0.0, 0.0), (u'so', 1.0, u'r', 0.0, 0.0), (u'i', 1, None, 0, 0), (u'was', 1.0, None, 0.0, 0.0), (u'unable', 0.25, u'a', 0.0, 0.75), (u'to', 1, None, 0, 0), (u'get', 1.0, u'v', 0.0, 0.0), (u'it', 1, None, 0, 0)]
+======================================================================
+[(u'and', 0, 0, u'not', 0.0, 0.625), (u'was', 0.0, 0.0, u'unable', 0.0, 0.75)]
+
+
+---------------------------
+0.0 1.375
+======================================================================
+
+Very dissatisfied with the quality like several other reviewers.  Relegated to cleaning after just one use
+
+very r
+very r
+matched
+dissatisfied a
+dissatisfied a
+matched
+quality n
+quality n
+matched
+several a
+several a
+matched
+other a
+other a
+matched
+reviewers n
+reviewers n
+matched
+relegated v
+relegated v
+matched
+cleaning n
+cleaning n
+matched
+just r
+just r
+matched
+use n
+use n
+matched
+======================================================================
+[(u'very', 0.75, u'r', 0.25, 0.0), (u'dissatisfied', 0.5, u'a', 0.0, 0.5), (u'with', 1, None, 0, 0), (u'the', 1, None, 0, 0), (u'quality', 0.625, u'n', 0.375, 0.0), (u'like', 1, None, 0, 0), (u'several', 0.875, u'a', 0.125, 0.0), (u'other', 0.25, u'a', 0.375, 0.375), (u'reviewers', 1.0, u'n', 0.0, 0.0), (u'relegated', 1.0, u'v', 0.0, 0.0), (u'to', 1, None, 0, 0), (u'cleaning', 1.0, u'n', 0.0, 0.0), (u'after', 1, None, 0, 0), (u'just', 0.875, u'r', 0.125, 0.0), (u'one', 1, None, 0, 0), (u'use', 1.0, u'n', 0.0, 0.0)]
+======================================================================
+[(None, 0.0, 0.0, u'very', 0.25, 0.0), (u'very', 0.25, 0.0, u'dissatisfied', 0.0, 0.5), (u'the', 0, 0, u'quality', 0.375, 0.0), (u'like', 0, 0, u'several', 0.125, 0.0), (u'several', 0.125, 0.0, u'other', 0.375, 0.375), (u'after', 0, 0, u'just', 0.125, 0.0)]
+
+
+---------------------------
+1.375 1.0
+======================================================================
+
+I wore this shirt just once. It's almost transparent. Not worth it even if you get it for free
+
+wore v
+wore v
+matched
+shirt n
+shirt n
+matched
+just r
+just r
+matched
+once r
+once r
+matched
+almost r
+almost r
+matched
+transparent a
+transparent a
+matched
+not r
+not r
+matched
+worth a
+worth a
+matched
+even r
+even r
+matched
+get v
+get v
+matched
+free a
+free a
+matched
+======================================================================
+[(u'i', 1, None, 0, 0), (u'wore', 1.0, u'v', 0.0, 0.0), (u'this', 1, None, 0, 0), (u'shirt', 1.0, u'n', 0.0, 0.0), (u'just', 0.875, u'r', 0.125, 0.0), (u'once', 1.0, u'r', 0.0, 0.0), (u'its', 1, None, 0, 0), (u'almost', 1.0, u'r', 0.0, 0.0), (u'transparent', 0.5, u'a', 0.5, 0.0), (u'not', 0.375, u'r', 0.0, 0.625), (u'worth', 1.0, u'a', 0.0, 0.0), (u'it', 1, None, 0, 0), (u'even', 0.625, u'r', 0.0, 0.375), (u'if', 1, None, 0, 0), (u'you', 1, None, 0, 0), (u'get', 1.0, u'v', 0.0, 0.0), (u'it', 1, None, 0, 0), (u'for', 1, None, 0, 0), (u'free', 0.625, u'a', 0.375, 0.0)]
+======================================================================
+[(u'shirt', 0.0, 0.0, u'just', 0.125, 0.0), (u'almost', 0.0, 0.0, u'transparent', 0.5, 0.0), (u'transparent', 0.5, 0.0, u'not', 0.0, 0.625), (u'it', 0, 0, u'even', 0.0, 0.375), (u'for', 0, 0, u'free', 0.375, 0.0)]
+
+
+---------------------------
+0.75 1.0
+======================================================================
+
+I am sorry but I did not like it nor will I wear it as it is too big and looks funny on me. I wish I had not have gotten it.
+
+am r
+am r
+sorry a
+sorry a
+matched
+did v
+did v
+matched
+not r
+not r
+matched
+like v
+like v
+matched
+will v
+will v
+matched
+wear v
+wear v
+matched
+is v
+is v
+matched
+too r
+too r
+matched
+big a
+big a
+matched
+looks v
+looks v
+matched
+funny a
+funny a
+matched
+wish v
+wish v
+matched
+had v
+had v
+matched
+not r
+not r
+matched
+have v
+have v
+matched
+gotten v
+gotten v
+matched
+======================================================================
+[(u'i', 1, None, 0, 0), (u'am', 1.0, None, 0.0, 0.0), (u'sorry', 0.375, u'a', 0.0, 0.625), (u'but', 1, None, 0, 0), (u'i', 1, None, 0, 0), (u'did', 1.0, u'v', 0.0, 0.0), (u'not', 0.375, u'r', 0.0, 0.625), (u'like', 0.875, u'v', 0.125, 0.0), (u'it', 1, None, 0, 0), (u'nor', 1, None, 0, 0), (u'will', 1.0, u'v', 0.0, 0.0), (u'i', 1, None, 0, 0), (u'wear', 1.0, u'v', 0.0, 0.0), (u'it', 1, None, 0, 0), (u'as', 1, None, 0, 0), (u'it', 1, None, 0, 0), (u'is', 0.625, u'v', 0.25, 0.125), (u'too', 0.625, u'r', 0.125, 0.25), (u'big', 0.875, u'a', 0.125, 0.0), (u'and', 1, None, 0, 0), (u'looks', 1.0, u'v', 0.0, 0.0), (u'funny', 0.5, u'a', 0.0, 0.5), (u'on', 1, None, 0, 0), (u'me', 1, None, 0, 0), (u'i', 1, None, 0, 0), (u'wish', 0.875, u'v', 0.125, 0.0), (u'i', 1, None, 0, 0), (u'had', 1.0, u'v', 0.0, 0.0), (u'not', 0.375, u'r', 0.0, 0.625), (u'have', 1.0, u'v', 0.0, 0.0), (u'gotten', 1.0, u'v', 0.0, 0.0), (u'it', 1, None, 0, 0)]
+======================================================================
+[(u'am', 0.0, 0.0, u'sorry', 0.0, 0.625), (u'did', 0.0, 0.0, u'not', 0.0, 0.625), (u'not', 0.0, 0.625, u'like', 0.125, 0.0), (u'is', 0.25, 0.125, u'too', 0.125, 0.25), (u'too', 0.125, 0.25, u'big', 0.125, 0.0), (u'looks', 0.0, 0.0, u'funny', 0.0, 0.5), (u'i', 0, 0, u'wish', 0.125, 0.0), (u'had', 0.0, 0.0, u'not', 0.0, 0.625)]
+
+
+---------------------------
+0.25 3.625
+======================================================================
+
+A red star!?!?  I bet this won't sell well in eastern Europe.
+
+red a
+red a
+matched
+star n
+star n
+matched
+bet v
+bet v
+matched
+wont a
+wont a
+sell n
+sell n
+matched
+well r
+well r
+matched
+eastern a
+eastern a
+matched
+europe n
+europe n
+matched
+======================================================================
+[(u'a', 1, None, 0, 0), (u'red', 0.75, u'a', 0.0, 0.25), (u'star', 1.0, u'n', 0.0, 0.0), (u'i', 1, None, 0, 0), (u'bet', 1.0, u'v', 0.0, 0.0), (u'this', 1, None, 0, 0), (u'wont', 1.0, None, 0.0, 0.0), (u'sell', 1.0, u'n', 0.0, 0.0), (u'well', 0.875, u'r', 0.125, 0.0), (u'in', 1, None, 0, 0), (u'eastern', 1.0, u'a', 0.0, 0.0), (u'europe', 1.0, u'n', 0.0, 0.0)]
+======================================================================
+[(u'a', 0, 0, u'red', 0.0, 0.25), (u'sell', 0.0, 0.0, u'well', 0.125, 0.0)]
+
+
+---------------------------
+0.125 0.25
+======================================================================
+
+Not what I expected for the price and the color shipped was wrong.  Even though I contacted the seller, have received no response
+
+not r
+not r
+matched
+expected v
+expected v
+matched
+price n
+price n
+matched
+color n
+color n
+matched
+shipped v
+shipped v
+matched
+was v
+was v
+wrong a
+wrong a
+matched
+even r
+even r
+matched
+contacted v
+contacted v
+matched
+seller n
+seller n
+matched
+have v
+have v
+matched
+received v
+received v
+matched
+response n
+response n
+matched
+======================================================================
+[(u'not', 0.375, u'r', 0.0, 0.625), (u'what', 1, None, 0, 0), (u'i', 1, None, 0, 0), (u'expected', 1.0, u'v', 0.0, 0.0), (u'for', 1, None, 0, 0), (u'the', 1, None, 0, 0), (u'price', 1.0, u'n', 0.0, 0.0), (u'and', 1, None, 0, 0), (u'the', 1, None, 0, 0), (u'color', 1.0, u'n', 0.0, 0.0), (u'shipped', 1.0, u'v', 0.0, 0.0), (u'was', 1.0, None, 0.0, 0.0), (u'wrong', 0.125, u'a', 0.125, 0.75), (u'even', 0.625, u'r', 0.0, 0.375), (u'though', 1, None, 0, 0), (u'i', 1, None, 0, 0), (u'contacted', 1.0, u'v', 0.0, 0.0), (u'the', 1, None, 0, 0), (u'seller', 1.0, u'n', 0.0, 0.0), (u'have', 1.0, u'v', 0.0, 0.0), (u'received', 1.0, u'v', 0.0, 0.0), (u'no', 1, None, 0, 0), (u'response', 0.5, u'n', 0.5, 0.0)]
+======================================================================
+[(None, 0.0, 0.0, u'not', 0.0, 0.625), (u'was', 0.0, 0.0, u'wrong', 0.125, 0.75), (u'wrong', 0.125, 0.75, u'even', 0.0, 0.375), (u'no', 0, 0, u'response', 0.5, 0.0)]
+
+
+---------------------------
+-0.25 2.5
+======================================================================
+
+BEWARE..............This is a "little" girls camisole, and CHEAP looking
+
+bewarethis n
+bewarethis n
+is v
+is v
+matched
+little a
+little a
+matched
+girls n
+girls n
+matched
+camisole n
+camisole n
+matched
+cheap a
+cheap a
+matched
+looking v
+looking v
+matched
+======================================================================
+[(u'bewarethis', 1.0, None, 0.0, 0.0), (u'is', 1.0, u'v', 0.0, 0.0), (u'a', 1, None, 0, 0), (u'little', 0.625, u'a', 0.0, 0.375), (u'girls', 1.0, u'n', 0.0, 0.0), (u'camisole', 1.0, u'n', 0.0, 0.0), (u'and', 1, None, 0, 0), (u'cheap', 0.75, u'a', 0.125, 0.125), (u'looking', 1.0, u'v', 0.0, 0.0)]
+======================================================================
+[(u'a', 0, 0, u'little', 0.0, 0.375), (u'and', 0, 0, u'cheap', 0.125, 0.125)]
+
+
+---------------------------
+0.125 0.5
+======================================================================
+
+Shoe has a high back that kinda cuts in to your heel.  I love Clark's, but not this pair
+
+shoe n
+shoe n
+matched
+has v
+has v
+high a
+high a
+matched
+back n
+back n
+matched
+kinda n
+kinda n
+cuts n
+cuts n
+matched
+heel n
+heel n
+matched
+love n
+love n
+matched
+clarks n
+clarks n
+matched
+not r
+not r
+matched
+pair n
+pair n
+matched
+======================================================================
+[(u'shoe', 1.0, u'n', 0.0, 0.0), (u'has', 1.0, None, 0.0, 0.0), (u'a', 1, None, 0, 0), (u'high', 0.625, u'a', 0.125, 0.25), (u'back', 1.0, u'n', 0.0, 0.0), (u'that', 1, None, 0, 0), (u'kinda', 1.0, None, 0.0, 0.0), (u'cuts', 1.0, u'n', 0.0, 0.0), (u'in', 1, None, 0, 0), (u'to', 1, None, 0, 0), (u'your', 1, None, 0, 0), (u'heel', 1.0, u'n', 0.0, 0.0), (u'i', 1, None, 0, 0), (u'love', 0.375, u'n', 0.625, 0.0), (u'clarks', 1.0, u'n', 0.0, 0.0), (u'but', 1, None, 0, 0), (u'not', 0.375, u'r', 0.0, 0.625), (u'this', 1, None, 0, 0), (u'pair', 1.0, u'n', 0.0, 0.0)]
+======================================================================
+[(u'a', 0, 0, u'high', 0.125, 0.25), (u'i', 0, 0, u'love', 0.625, 0.0), (u'but', 0, 0, u'not', 0.0, 0.625)]
+
+
+---------------------------
+0.75 0.875
+======================================================================
+
+This shirt was larger than I expected.  I got a 2x because i'm a 12-14, but it was way too big.  Also the pink was a lot brighter than pictured
+
+shirt n
+shirt n
+matched
+was v
+was v
+larger a
+larger a
+matched
+expected v
+expected v
+matched
+got v
+got v
+matched
+2x n
+2x n
+im n
+im n
+was v
+was v
+way r
+way r
+matched
+too r
+too r
+matched
+big a
+big a
+matched
+also r
+also r
+matched
+pink n
+pink n
+matched
+was v
+was v
+lot n
+lot n
+matched
+brighter a
+brighter a
+matched
+pictured v
+pictured v
+matched
+======================================================================
+[(u'this', 1, None, 0, 0), (u'shirt', 1.0, u'n', 0.0, 0.0), (u'was', 1.0, None, 0.0, 0.0), (u'larger', 0.625, u'a', 0.25, 0.125), (u'than', 1, None, 0, 0), (u'i', 1, None, 0, 0), (u'expected', 1.0, u'v', 0.0, 0.0), (u'i', 1, None, 0, 0), (u'got', 1.0, u'v', 0.0, 0.0), (u'a', 1, None, 0, 0), (u'2x', 1.0, None, 0.0, 0.0), (u'because', 1, None, 0, 0), (u'im', 1.0, None, 0.0, 0.0), (u'a', 1, None, 0, 0), (u'1214', 1, None, 0, 0), (u'but', 1, None, 0, 0), (u'it', 1, None, 0, 0), (u'was', 1.0, None, 0.0, 0.0), (u'way', 1.0, u'r', 0.0, 0.0), (u'too', 1.0, u'r', 0.0, 0.0), (u'big', 0.75, u'a', 0.0, 0.25), (u'also', 1.0, u'r', 0.0, 0.0), (u'the', 1, None, 0, 0), (u'pink', 0.875, u'n', 0.0, 0.125), (u'was', 1.0, None, 0.0, 0.0), (u'a', 1, None, 0, 0), (u'lot', 1.0, u'n', 0.0, 0.0), (u'brighter', 0.25, u'a', 0.75, 0.0), (u'than', 1, None, 0, 0), (u'pictured', 1.0, u'v', 0.0, 0.0)]
+======================================================================
+[(u'was', 0.0, 0.0, u'larger', 0.25, 0.125), (u'too', 0.0, 0.0, u'big', 0.0, 0.25), (u'the', 0, 0, u'pink', 0.0, 0.125), (u'lot', 0.0, 0.0, u'brighter', 0.75, 0.0)]
+
+
+---------------------------
+1.225 0.5
+======================================================================
+
+paid double what i found at another site outside of amazon/this store - NEVER AGAIN
+
+paid v
+paid v
+matched
+double r
+double r
+matched
+found v
+found v
+matched
+site n
+site n
+matched
+outside a
+outside a
+matched
+amazonthis n
+amazonthis n
+store n
+store n
+matched
+never r
+never r
+matched
+again r
+again r
+matched
+======================================================================
+[(u'paid', 1.0, u'v', 0.0, 0.0), (u'double', 1.0, u'r', 0.0, 0.0), (u'what', 1, None, 0, 0), (u'i', 1, None, 0, 0), (u'found', 1.0, u'v', 0.0, 0.0), (u'at', 1, None, 0, 0), (u'another', 1, None, 0, 0), (u'site', 1.0, u'n', 0.0, 0.0), (u'outside', 0.875, u'a', 0.125, 0.0), (u'of', 1, None, 0, 0), (u'amazonthis', 1.0, None, 0.0, 0.0), (u'store', 1.0, u'n', 0.0, 0.0), (u'never', 0.375, u'r', 0.0, 0.625), (u'again', 1.0, u'r', 0.0, 0.0)]
+======================================================================
+[(u'site', 0.0, 0.0, u'outside', 0.125, 0.0), (u'store', 0.0, 0.0, u'never', 0.0, 0.625)]
+
+
+---------------------------
+0.125 0.625
+======================================================================
+
+These tops were cute, for my 7 and 10 year old neices.  How in the world did they justify putting a size 2x on these things? 
+
+tops n
+tops n
+matched
+were v
+were v
+matched
+cute a
+cute a
+matched
+year n
+year n
+matched
+old a
+old a
+matched
+neices n
+neices n
+how r
+how r
+world n
+world n
+matched
+did v
+did v
+matched
+justify v
+justify v
+matched
+putting v
+putting v
+matched
+size n
+size n
+matched
+2x n
+2x n
+things n
+things n
+matched
+======================================================================
+[(u'these', 1, None, 0, 0), (u'tops', 1.0, u'n', 0.0, 0.0), (u'were', 1.0, u'v', 0.0, 0.0), (u'cute', 0.375, u'a', 0.625, 0.0), (u'for', 1, None, 0, 0), (u'my', 1, None, 0, 0), (u'7', 1, None, 0, 0), (u'and', 1, None, 0, 0), (u'10', 1, None, 0, 0), (u'year', 1.0, u'n', 0.0, 0.0), (u'old', 0.625, u'a', 0.0, 0.375), (u'neices', 1.0, None, 0.0, 0.0), (u'how', 1.0, None, 0.0, 0.0), (u'in', 1, None, 0, 0), (u'the', 1, None, 0, 0), (u'world', 1.0, u'n', 0.0, 0.0), (u'did', 1.0, u'v', 0.0, 0.0), (u'they', 1, None, 0, 0), (u'justify', 1.0, u'v', 0.0, 0.0), (u'putting', 0.875, u'v', 0.125, 0.0), (u'a', 1, None, 0, 0), (u'size', 1.0, u'n', 0.0, 0.0), (u'2x', 1.0, None, 0.0, 0.0), (u'on', 1, None, 0, 0), (u'these', 1, None, 0, 0), (u'things', 1.0, u'n', 0.0, 0.0)]
+======================================================================
+[(u'were', 0.0, 0.0, u'cute', 0.625, 0.0), (u'year', 0.0, 0.0, u'old', 0.0, 0.375), (u'justify', 0.0, 0.0, u'putting', 0.125, 0.0)]
+
+
+---------------------------
+0.75 0.375
+======================================================================
+
+I never received this item when I was promised it, so it was cancelled and my account was credited
+
+never r
+never r
+matched
+received v
+received v
+matched
+item n
+item n
+matched
+when r
+when r
+was v
+was v
+promised v
+promised v
+matched
+was v
+was v
+cancelled v
+cancelled v
+matched
+account n
+account n
+matched
+was v
+was v
+credited v
+credited v
+matched
+======================================================================
+[(u'i', 1, None, 0, 0), (u'never', 0.375, u'r', 0.0, 0.625), (u'received', 1.0, u'v', 0.0, 0.0), (u'this', 1, None, 0, 0), (u'item', 1.0, u'n', 0.0, 0.0), (u'when', 1.0, None, 0.0, 0.0), (u'i', 1, None, 0, 0), (u'was', 1.0, None, 0.0, 0.0), (u'promised', 1.0, u'v', 0.0, 0.0), (u'it', 1, None, 0, 0), (u'so', 1, None, 0, 0), (u'it', 1, None, 0, 0), (u'was', 1.0, None, 0.0, 0.0), (u'cancelled', 1.0, u'v', 0.0, 0.0), (u'and', 1, None, 0, 0), (u'my', 1, None, 0, 0), (u'account', 1.0, u'n', 0.0, 0.0), (u'was', 1.0, None, 0.0, 0.0), (u'credited', 1.0, u'v', 0.0, 0.0)]
+======================================================================
+[(u'i', 0, 0, u'never', 0.0, 0.625)]
+
+
+---------------------------
+0.0 0.625
+======================================================================
+
+Not the best fabric, Scratchy and See thru. You get what you pay for on these
+
+not r
+not r
+matched
+best a
+best a
+matched
+fabric n
+fabric n
+matched
+scratchy n
+scratchy n
+see v
+see v
+matched
+get v
+get v
+matched
+pay v
+pay v
+matched
+======================================================================
+[(u'not', 0.375, u'r', 0.0, 0.625), (u'the', 1, None, 0, 0), (u'best', 0.25, u'a', 0.75, 0.0), (u'fabric', 1.0, u'n', 0.0, 0.0), (u'scratchy', 1.0, None, 0.0, 0.0), (u'and', 1, None, 0, 0), (u'see', 1.0, u'v', 0.0, 0.0), (u'thru', 1, None, 0, 0), (u'you', 1, None, 0, 0), (u'get', 1.0, u'v', 0.0, 0.0), (u'what', 1, None, 0, 0), (u'you', 1, None, 0, 0), (u'pay', 1.0, u'v', 0.0, 0.0), (u'for', 1, None, 0, 0), (u'on', 1, None, 0, 0), (u'these', 1, None, 0, 0)]
+======================================================================
+[(None, 0.0, 0.0, u'not', 0.0, 0.625), (u'the', 0, 0, u'best', 0.75, 0.0)]
+
+
+---------------------------
+0.75 0.625
+======================================================================
+
+SHOES WAS NOT EXCALTY THE SAME AS PIC SHOWN ON WEB SITE IT WAS KIND OF USED..
+
+shoes n
+shoes n
+matched
+was v
+was v
+not r
+not r
+matched
+excalty v
+excalty v
+same a
+same a
+matched
+pic n
+pic n
+matched
+shown v
+shown v
+matched
+web n
+web n
+matched
+site n
+site n
+matched
+was v
+was v
+kind n
+kind n
+matched
+used v
+used v
+matched
+======================================================================
+[(u'shoes', 1.0, u'n', 0.0, 0.0), (u'was', 1.0, None, 0.0, 0.0), (u'not', 0.375, u'r', 0.0, 0.625), (u'excalty', 1.0, None, 0.0, 0.0), (u'the', 1, None, 0, 0), (u'same', 0.625, u'a', 0.0, 0.375), (u'as', 1, None, 0, 0), (u'pic', 1.0, u'n', 0.0, 0.0), (u'shown', 1.0, u'v', 0.0, 0.0), (u'on', 1, None, 0, 0), (u'web', 0.75, u'n', 0.25, 0.0), (u'site', 1.0, u'n', 0.0, 0.0), (u'it', 1, None, 0, 0), (u'was', 1.0, None, 0.0, 0.0), (u'kind', 1.0, u'n', 0.0, 0.0), (u'of', 1, None, 0, 0), (u'used', 1.0, u'v', 0.0, 0.0)]
+======================================================================
+[(u'was', 0.0, 0.0, u'not', 0.0, 0.625), (u'the', 0, 0, u'same', 0.0, 0.375), (u'on', 0, 0, u'web', 0.25, 0.0)]
+
+
+---------------------------
+0.25 1.0
+======================================================================
+
+I actually had to send this back cause of the size.  They run really small. 
+
+actually r
+actually r
+matched
+had v
+had v
+matched
+send v
+send v
+matched
+back a
+back a
+matched
+cause n
+cause n
+matched
+size n
+size n
+matched
+run v
+run v
+matched
+really r
+really r
+matched
+small a
+small a
+matched
+======================================================================
+[(u'i', 1, None, 0, 0), (u'actually', 1.0, u'r', 0.0, 0.0), (u'had', 1.0, u'v', 0.0, 0.0), (u'to', 1, None, 0, 0), (u'send', 1.0, u'v', 0.0, 0.0), (u'this', 1, None, 0, 0), (u'back', 0.875, u'a', 0.0, 0.125), (u'cause', 1.0, u'n', 0.0, 0.0), (u'of', 1, None, 0, 0), (u'the', 1, None, 0, 0), (u'size', 1.0, u'n', 0.0, 0.0), (u'they', 1, None, 0, 0), (u'run', 1.0, u'v', 0.0, 0.0), (u'really', 0.5, u'r', 0.25, 0.25), (u'small', 0.875, u'a', 0.0, 0.125)]
+======================================================================
+[(u'this', 0, 0, u'back', 0.0, 0.125), (u'run', 0.0, 0.0, u'really', 0.25, 0.25), (u'really', 0.25, 0.25, u'small', 0.0, 0.125)]
+
+
+---------------------------
+0.25 0.51875
+======================================================================
+
+Very poor quality, falling apart at the seams. Also really long.
+
+very r
+very r
+matched
+poor a
+poor a
+matched
+quality n
+quality n
+matched
+falling v
+falling v
+matched
+apart r
+apart r
+matched
+seams n
+seams n
+matched
+also r
+also r
+matched
+really r
+really r
+matched
+long a
+long a
+matched
+======================================================================
+[(u'very', 0.75, u'r', 0.25, 0.0), (u'poor', 0.125, u'a', 0.0, 0.875), (u'quality', 1.0, u'n', 0.0, 0.0), (u'falling', 1.0, u'v', 0.0, 0.0), (u'apart', 1.0, u'r', 0.0, 0.0), (u'at', 1, None, 0, 0), (u'the', 1, None, 0, 0), (u'seams', 1.0, u'n', 0.0, 0.0), (u'also', 1.0, u'r', 0.0, 0.0), (u'really', 0.5, u'r', 0.25, 0.25), (u'long', 0.625, u'a', 0.25, 0.125)]
+======================================================================
+[(None, 0.0, 0.0, u'very', 0.25, 0.0), (u'very', 0.25, 0.0, u'poor', 0.0, 0.875), (u'also', 0.0, 0.0, u'really', 0.25, 0.25), (u'really', 0.25, 0.25, u'long', 0.25, 0.125)]
+
+
+---------------------------
+0.7875 1.46875
+======================================================================
+
+this adapter nearly caught fire the first time I used it. watch out
+
+adapter n
+adapter n
+matched
+nearly r
+nearly r
+matched
+caught v
+caught v
+matched
+fire n
+fire n
+matched
+first a
+first a
+matched
+time n
+time n
+matched
+used v
+used v
+matched
+watch v
+watch v
+matched
+======================================================================
+[(u'this', 1, None, 0, 0), (u'adapter', 1.0, u'n', 0.0, 0.0), (u'nearly', 0.875, u'r', 0.125, 0.0), (u'caught', 1.0, u'v', 0.0, 0.0), (u'fire', 0.25, u'n', 0.0, 0.75), (u'the', 1, None, 0, 0), (u'first', 1.0, u'a', 0.0, 0.0), (u'time', 0.25, u'n', 0.75, 0.0), (u'i', 1, None, 0, 0), (u'used', 0.75, u'v', 0.25, 0.0), (u'it', 1, None, 0, 0), (u'watch', 0.875, u'v', 0.125, 0.0), (u'out', 1, None, 0, 0)]
+======================================================================
+[(u'adapter', 0.0, 0.0, u'nearly', 0.125, 0.0), (u'caught', 0.0, 0.0, u'fire', 0.0, 0.75), (u'first', 0.0, 0.0, u'time', 0.75, 0.0), (u'i', 0, 0, u'used', 0.25, 0.0), (u'it', 0, 0, u'watch', 0.125, 0.0)]
+
+
+---------------------------
+1.25 0.75
+======================================================================
+
+So cheap, the seams weren't sewn up all the way.  Am returning
+
+so r
+so r
+matched
+cheap a
+cheap a
+matched
+seams n
+seams n
+matched
+werent v
+werent v
+sewn v
+sewn v
+matched
+way n
+way n
+matched
+am r
+am r
+returning v
+returning v
+matched
+======================================================================
+[(u'so', 1.0, u'r', 0.0, 0.0), (u'cheap', 0.75, u'a', 0.125, 0.125), (u'the', 1, None, 0, 0), (u'seams', 1.0, u'n', 0.0, 0.0), (u'werent', 1.0, None, 0.0, 0.0), (u'sewn', 1.0, u'v', 0.0, 0.0), (u'up', 1, None, 0, 0), (u'all', 1, None, 0, 0), (u'the', 1, None, 0, 0), (u'way', 1.0, u'n', 0.0, 0.0), (u'am', 1.0, None, 0.0, 0.0), (u'returning', 1.0, u'v', 0.0, 0.0)]
+======================================================================
+[(u'so', 0.0, 0.0, u'cheap', 0.125, 0.125)]
+
+
+---------------------------
+0.0 0.0
+======================================================================
+
+Get EE if you get these.  The D is very narrow and thefore uncomfortable
+
+get v
+get v
+matched
+ee n
+ee n
+matched
+get v
+get v
+matched
+d n
+d n
+matched
+is v
+is v
+matched
+very r
+very r
+matched
+narrow a
+narrow a
+matched
+thefore a
+thefore a
+uncomfortable a
+uncomfortable a
+matched
+======================================================================
+[(u'get', 1.0, u'v', 0.0, 0.0), (u'ee', 1.0, u'n', 0.0, 0.0), (u'if', 1, None, 0, 0), (u'you', 1, None, 0, 0), (u'get', 1.0, u'v', 0.0, 0.0), (u'these', 1, None, 0, 0), (u'the', 1, None, 0, 0), (u'd', 1.0, u'n', 0.0, 0.0), (u'is', 1.0, u'v', 0.0, 0.0), (u'very', 0.5, u'r', 0.25, 0.25), (u'narrow', 0.5, u'a', 0.25, 0.25), (u'and', 1, None, 0, 0), (u'thefore', 1.0, None, 0.0, 0.0), (u'uncomfortable', 0.375, u'a', 0.0, 0.625)]
+======================================================================
+[(u'is', 0.0, 0.0, u'very', 0.25, 0.25), (u'very', 0.25, 0.25, u'narrow', 0.25, 0.25), (u'thefore', 0.0, 0.0, u'uncomfortable', 0.0, 0.625)]
+
+
+---------------------------
+0.25 0.875
+======================================================================
+
+The tie does have gorgeous color to it, but when the description says "good quality" its a little off base. 
+
+tie n
+tie n
+matched
+does v
+does v
+have v
+have v
+matched
+gorgeous a
+gorgeous a
+matched
+color n
+color n
+matched
+when r
+when r
+description n
+description n
+matched
+says v
+says v
+matched
+good a
+good a
+matched
+quality n
+quality n
+matched
+little a
+little a
+matched
+off a
+off a
+matched
+base n
+base n
+matched
+======================================================================
+[(u'the', 1, None, 0, 0), (u'tie', 1.0, u'n', 0.0, 0.0), (u'does', 1.0, None, 0.0, 0.0), (u'have', 1.0, u'v', 0.0, 0.0), (u'gorgeous', 0.25, u'a', 0.75, 0.0), (u'color', 1.0, u'n', 0.0, 0.0), (u'to', 1, None, 0, 0), (u'it', 1, None, 0, 0), (u'but', 1, None, 0, 0), (u'when', 1.0, None, 0.0, 0.0), (u'the', 1, None, 0, 0), (u'description', 0.875, u'n', 0.0, 0.125), (u'says', 1.0, u'v', 0.0, 0.0), (u'good', 0.25, u'a', 0.75, 0.0), (u'quality', 1.0, u'n', 0.0, 0.0), (u'its', 1, None, 0, 0), (u'a', 1, None, 0, 0), (u'little', 0.625, u'a', 0.0, 0.375), (u'off', 0.375, u'a', 0.0, 0.625), (u'base', 1.0, u'n', 0.0, 0.0)]
+======================================================================
+[(u'have', 0.0, 0.0, u'gorgeous', 0.75, 0.0), (u'the', 0, 0, u'description', 0.0, 0.125), (u'says', 0.0, 0.0, u'good', 0.75, 0.0), (u'a', 0, 0, u'little', 0.0, 0.375), (u'little', 0.0, 0.375, u'off', 0.0, 0.625)]
+
+
+---------------------------
+1.5 0.8125
+======================================================================
+
+It didn't meet my expectations.....It was flimsy and wrinkled, and looked messy
+
+didnt v
+didnt v
+meet v
+meet v
+matched
+expectationsit n
+expectationsit n
+was v
+was v
+flimsy a
+flimsy a
+matched
+wrinkled a
+wrinkled a
+matched
+looked v
+looked v
+matched
+messy a
+messy a
+matched
+======================================================================
+[(u'it', 1, None, 0, 0), (u'didnt', 1.0, None, 0.0, 0.0), (u'meet', 1.0, u'v', 0.0, 0.0), (u'my', 1, None, 0, 0), (u'expectationsit', 1.0, None, 0.0, 0.0), (u'was', 1.0, None, 0.0, 0.0), (u'flimsy', 0.5, u'a', 0.0, 0.5), (u'and', 1, None, 0, 0), (u'wrinkled', 1.0, u'a', 0.0, 0.0), (u'and', 1, None, 0, 0), (u'looked', 1.0, u'v', 0.0, 0.0), (u'messy', 0.125, u'a', 0.0, 0.875)]
+======================================================================
+[(u'was', 0.0, 0.0, u'flimsy', 0.0, 0.5), (u'looked', 0.0, 0.0, u'messy', 0.0, 0.875)]
+
+
+---------------------------
+0.0 1.375
+======================================================================
+
+I ordered two bras and both were defective. The left side strap had been sewn twisted and there was no way to correct without cutting and resewing
+
+ordered v
+ordered v
+matched
+bras n
+bras n
+matched
+were v
+were v
+matched
+defective a
+defective a
+matched
+left a
+left a
+matched
+side n
+side n
+matched
+strap n
+strap n
+matched
+had v
+had v
+matched
+been v
+been v
+matched
+sewn v
+sewn v
+matched
+twisted a
+twisted a
+matched
+was v
+was v
+way n
+way n
+matched
+correct v
+correct v
+matched
+cutting v
+cutting v
+matched
+resewing v
+resewing v
+matched
+======================================================================
+[(u'i', 1, None, 0, 0), (u'ordered', 1.0, u'v', 0.0, 0.0), (u'two', 1, None, 0, 0), (u'bras', 1.0, u'n', 0.0, 0.0), (u'and', 1, None, 0, 0), (u'both', 1, None, 0, 0), (u'were', 0.625, u'v', 0.25, 0.125), (u'defective', 0.75, u'a', 0.25, 0.0), (u'the', 1, None, 0, 0), (u'left', 0.375, u'a', 0.125, 0.5), (u'side', 1.0, u'n', 0.0, 0.0), (u'strap', 1.0, u'n', 0.0, 0.0), (u'had', 1.0, u'v', 0.0, 0.0), (u'been', 0.625, u'v', 0.25, 0.125), (u'sewn', 1.0, u'v', 0.0, 0.0), (u'twisted', 0.875, u'a', 0.125, 0.0), (u'and', 1, None, 0, 0), (u'there', 1, None, 0, 0), (u'was', 1.0, None, 0.0, 0.0), (u'no', 1, None, 0, 0), (u'way', 1.0, u'n', 0.0, 0.0), (u'to', 1, None, 0, 0), (u'correct', 0.625, u'v', 0.125, 0.25), (u'without', 1, None, 0, 0), (u'cutting', 1.0, u'v', 0.0, 0.0), (u'and', 1, None, 0, 0), (u'resewing', 1.0, u'v', 0.0, 0.0)]
+======================================================================
+[(u'were', 0.25, 0.125, u'defective', 0.25, 0.0), (u'the', 0, 0, u'left', 0.125, 0.5), (u'sewn', 0.0, 0.0, u'twisted', 0.125, 0.0), (u'to', 0, 0, u'correct', 0.125, 0.25)]
+
+
+---------------------------
+0.875 0.875
+======================================================================
+
+Beware, this item is NOT a zip front hoodie as the item description says. It is a pullover!
+
+beware v
+beware v
+matched
+item n
+item n
+matched
+is v
+is v
+matched
+not r
+not r
+matched
+zip n
+zip n
+matched
+front a
+front a
+matched
+hoodie n
+hoodie n
+item n
+item n
+matched
+description n
+description n
+matched
+says v
+says v
+matched
+is v
+is v
+matched
+pullover n
+pullover n
+matched
+======================================================================
+[(u'beware', 0.5, u'v', 0.5, 0.0), (u'this', 1, None, 0, 0), (u'item', 1.0, u'n', 0.0, 0.0), (u'is', 1.0, u'v', 0.0, 0.0), (u'not', 0.375, u'r', 0.0, 0.625), (u'a', 1, None, 0, 0), (u'zip', 0.875, u'n', 0.0, 0.125), (u'front', 1.0, u'a', 0.0, 0.0), (u'hoodie', 1.0, None, 0.0, 0.0), (u'as', 1, None, 0, 0), (u'the', 1, None, 0, 0), (u'item', 1.0, u'n', 0.0, 0.0), (u'description', 0.875, u'n', 0.0, 0.125), (u'says', 1.0, u'v', 0.0, 0.0), (u'it', 1, None, 0, 0), (u'is', 1.0, u'v', 0.0, 0.0), (u'a', 1, None, 0, 0), (u'pullover', 1.0, u'n', 0.0, 0.0)]
+======================================================================
+[(None, 0.0, 0.0, u'beware', 0.5, 0.0), (u'is', 0.0, 0.0, u'not', 0.0, 0.625), (u'a', 0, 0, u'zip', 0.0, 0.125), (u'item', 0.0, 0.0, u'description', 0.0, 0.125)]
+
+
+---------------------------
+0.5 0.875
+======================================================================
+
+I was unable to return the item because of restrictions imposed by their return policy
+
+I made a mistake by buying i
+
+was v
+was v
+unable a
+unable a
+matched
+return v
+return v
+matched
+item n
+item n
+matched
+restrictions n
+restrictions n
+matched
+imposed v
+imposed v
+matched
+return n
+return n
+matched
+policy n
+policy n
+matched
+made v
+made v
+matched
+mistake n
+mistake n
+matched
+buying v
+buying v
+matched
+======================================================================
+[(u'i', 1, None, 0, 0), (u'was', 1.0, None, 0.0, 0.0), (u'unable', 0.625, u'a', 0.0, 0.375), (u'to', 1, None, 0, 0), (u'return', 1.0, u'v', 0.0, 0.0), (u'the', 1, None, 0, 0), (u'item', 1.0, u'n', 0.0, 0.0), (u'because', 1, None, 0, 0), (u'of', 1, None, 0, 0), (u'restrictions', 1.0, u'n', 0.0, 0.0), (u'imposed', 1.0, u'v', 0.0, 0.0), (u'by', 1, None, 0, 0), (u'their', 1, None, 0, 0), (u'return', 1.0, u'n', 0.0, 0.0), (u'policy', 1.0, u'n', 0.0, 0.0), (u'i', 1, None, 0, 0), (u'made', 1.0, u'v', 0.0, 0.0), (u'a', 1, None, 0, 0), (u'mistake', 0.25, u'n', 0.25, 0.5), (u'by', 1, None, 0, 0), (u'buying', 0.875, u'v', 0.125, 0.0), (u'i', 1, None, 0, 0)]
+======================================================================
+[(u'was', 0.0, 0.0, u'unable', 0.0, 0.375), (u'a', 0, 0, u'mistake', 0.25, 0.5), (u'by', 0, 0, u'buying', 0.125, 0.0)]
+
+
+---------------------------
+0.375 0.875
+======================================================================
+
+Very disappointed in the cheap quality and dull color. It doesn't look as nice as what they show on the internet. I returned it for a refund
+
+very r
+very r
+matched
+disappointed a
+disappointed a
+matched
+cheap a
+cheap a
+matched
+quality n
+quality n
+matched
+dull a
+dull a
+matched
+color n
+color n
+matched
+doesnt r
+doesnt r
+look v
+look v
+matched
+as r
+as r
+nice a
+nice a
+matched
+show v
+show v
+matched
+returned v
+returned v
+matched
+refund n
+refund n
+matched
+======================================================================
+[(u'very', 0.75, u'r', 0.25, 0.0), (u'disappointed', 0.5, u'a', 0.0, 0.5), (u'in', 1, None, 0, 0), (u'the', 1, None, 0, 0), (u'cheap', 0.5, u'a', 0.0, 0.5), (u'quality', 1.0, u'n', 0.0, 0.0), (u'and', 1, None, 0, 0), (u'dull', 0.375, u'a', 0.375, 0.25), (u'color', 1.0, u'n', 0.0, 0.0), (u'it', 1, None, 0, 0), (u'doesnt', 1.0, None, 0.0, 0.0), (u'look', 1.0, u'v', 0.0, 0.0), (u'as', 1.0, None, 0.0, 0.0), (u'nice', 0.25, u'a', 0.75, 0.0), (u'as', 1, None, 0, 0), (u'what', 1, None, 0, 0), (u'they', 1, None, 0, 0), (u'show', 0.875, u'v', 0.125, 0.0), (u'on', 1, None, 0, 0), (u'the', 1, None, 0, 0), (u'internet', 1, None, 0, 0), (u'i', 1, None, 0, 0), (u'returned', 1.0, u'v', 0.0, 0.0), (u'it', 1, None, 0, 0), (u'for', 1, None, 0, 0), (u'a', 1, None, 0, 0), (u'refund', 1.0, u'n', 0.0, 0.0)]
+======================================================================
+[(None, 0.0, 0.0, u'very', 0.25, 0.0), (u'very', 0.25, 0.0, u'disappointed', 0.0, 0.5), (u'the', 0, 0, u'cheap', 0.0, 0.5), (u'and', 0, 0, u'dull', 0.375, 0.25), (u'as', 0.0, 0.0, u'nice', 0.75, 0.0), (u'they', 0, 0, u'show', 0.125, 0.0)]
+
+
+---------------------------
+1.5 1.375
+======================================================================
+
+Also, item shipped is not item pictured
+
+also r
+also r
+matched
+item n
+item n
+matched
+shipped v
+shipped v
+matched
+is v
+is v
+matched
+not r
+not r
+matched
+item n
+item n
+matched
+pictured v
+pictured v
+matched
+======================================================================
+[(u'also', 1.0, u'r', 0.0, 0.0), (u'item', 1.0, u'n', 0.0, 0.0), (u'shipped', 1.0, u'v', 0.0, 0.0), (u'is', 1.0, u'v', 0.0, 0.0), (u'not', 0.375, u'r', 0.0, 0.625), (u'item', 1.0, u'n', 0.0, 0.0), (u'pictured', 1.0, u'v', 0.0, 0.0)]
+======================================================================
+[(u'is', 0.0, 0.0, u'not', 0.0, 0.625)]
+
+
+---------------------------
+0.0 0.625
+======================================================================
+
+I LOVE THE STYLE, FABRIC, FIT, EXTREMELY COMFORTABLE (BUT IT IS A T-SHIRT) I'M 5'2 AND IT DOESN'T COME PAST MY HIPS
+
+love v
+love v
+matched
+style n
+style n
+matched
+fabric n
+fabric n
+matched
+fit v
+fit v
+matched
+extremely r
+extremely r
+matched
+comfortable a
+comfortable a
+matched
+is v
+is v
+matched
+doesnt r
+doesnt r
+come v
+come v
+matched
+hips n
+hips n
+matched
+======================================================================
+[(u'i', 1, None, 0, 0), (u'love', 0.5, u'v', 0.5, 0.0), (u'the', 1, None, 0, 0), (u'style', 1.0, u'n', 0.0, 0.0), (u'fabric', 1.0, u'n', 0.0, 0.0), (u'fit', 0.875, u'v', 0.0, 0.125), (u'extremely', 0.375, u'r', 0.625, 0.0), (u'comfortable', 0.25, u'a', 0.75, 0.0), (u'but', 1, None, 0, 0), (u'it', 1, None, 0, 0), (u'is', 0.625, u'v', 0.25, 0.125), (u'a', 1, None, 0, 0), (u'tshirt', 1, None, 0, 0), (u'im', 1, None, 0, 0), (u'52', 1, None, 0, 0), (u'and', 1, None, 0, 0), (u'it', 1, None, 0, 0), (u'doesnt', 1.0, None, 0.0, 0.0), (u'come', 0.75, u'v', 0.25, 0.0), (u'past', 1, None, 0, 0), (u'my', 1, None, 0, 0), (u'hips', 1.0, u'n', 0.0, 0.0)]
+======================================================================
+[(u'i', 0, 0, u'love', 0.5, 0.0), (u'fabric', 0.0, 0.0, u'fit', 0.0, 0.125), (u'fit', 0.0, 0.125, u'extremely', 0.625, 0.0), (u'extremely', 0.625, 0.0, u'comfortable', 0.75, 0.0), (u'doesnt', 0.0, 0.0, u'come', 0.25, 0.0)]
+
+
+---------------------------
+2.3875 0.25
+======================================================================
+
+the material is nice, but the size is too small.  I usually wear size XS for tops but for this tee, the sleeve is too short
+
+material n
+material n
+matched
+is v
+is v
+matched
+nice a
+nice a
+matched
+size n
+size n
+matched
+is v
+is v
+matched
+too r
+too r
+matched
+small a
+small a
+matched
+usually r
+usually r
+matched
+wear v
+wear v
+matched
+size n
+size n
+matched
+xs n
+xs n
+matched
+tops n
+tops n
+matched
+tee n
+tee n
+matched
+sleeve n
+sleeve n
+matched
+is v
+is v
+matched
+too r
+too r
+matched
+short a
+short a
+matched
+======================================================================
+[(u'the', 1, None, 0, 0), (u'material', 1.0, u'n', 0.0, 0.0), (u'is', 1.0, u'v', 0.0, 0.0), (u'nice', 0.25, u'a', 0.75, 0.0), (u'but', 1, None, 0, 0), (u'the', 1, None, 0, 0), (u'size', 1.0, u'n', 0.0, 0.0), (u'is', 1.0, u'v', 0.0, 0.0), (u'too', 0.625, u'r', 0.125, 0.25), (u'small', 0.875, u'a', 0.0, 0.125), (u'i', 1, None, 0, 0), (u'usually', 1.0, u'r', 0.0, 0.0), (u'wear', 1.0, u'v', 0.0, 0.0), (u'size', 1.0, u'n', 0.0, 0.0), (u'xs', 1.0, u'n', 0.0, 0.0), (u'for', 1, None, 0, 0), (u'tops', 1.0, u'n', 0.0, 0.0), (u'but', 1, None, 0, 0), (u'for', 1, None, 0, 0), (u'this', 1, None, 0, 0), (u'tee', 1.0, u'n', 0.0, 0.0), (u'the', 1, None, 0, 0), (u'sleeve', 1.0, u'n', 0.0, 0.0), (u'is', 1.0, u'v', 0.0, 0.0), (u'too', 0.625, u'r', 0.125, 0.25), (u'short', 0.125, u'a', 0.125, 0.75)]
+======================================================================
+[(u'is', 0.0, 0.0, u'nice', 0.75, 0.0), (u'is', 0.0, 0.0, u'too', 0.125, 0.25), (u'too', 0.125, 0.25, u'small', 0.0, 0.125), (u'is', 0.0, 0.0, u'too', 0.125, 0.25), (u'too', 0.125, 0.25, u'short', 0.125, 0.75)]
+
+
+---------------------------
+1.375 1.875
+======================================================================
+
+These underpants are too bulky and puffy. My daughter was very uncomfortable wearing them
+
+underpants n
+underpants n
+matched
+are v
+are v
+matched
+too r
+too r
+matched
+bulky a
+bulky a
+matched
+puffy v
+puffy v
+daughter n
+daughter n
+matched
+was v
+was v
+very r
+very r
+matched
+uncomfortable a
+uncomfortable a
+matched
+wearing v
+wearing v
+matched
+======================================================================
+[(u'these', 1, None, 0, 0), (u'underpants', 0.875, u'n', 0.0, 0.125), (u'are', 1.0, u'v', 0.0, 0.0), (u'too', 0.625, u'r', 0.125, 0.25), (u'bulky', 1.0, u'a', 0.0, 0.0), (u'and', 1, None, 0, 0), (u'puffy', 1.0, None, 0.0, 0.0), (u'my', 1, None, 0, 0), (u'daughter', 1.0, u'n', 0.0, 0.0), (u'was', 1.0, None, 0.0, 0.0), (u'very', 0.75, u'r', 0.25, 0.0), (u'uncomfortable', 0.375, u'a', 0.0, 0.625), (u'wearing', 1.0, u'v', 0.0, 0.0), (u'them', 1, None, 0, 0)]
+======================================================================
+[(u'these', 0, 0, u'underpants', 0.0, 0.125), (u'are', 0.0, 0.0, u'too', 0.125, 0.25), (u'was', 0.0, 0.0, u'very', 0.25, 0.0), (u'very', 0.25, 0.0, u'uncomfortable', 0.0, 0.625)]
+
+
+---------------------------
+0.375 1.15625
+======================================================================
+
+This wallet is so big for passport and don`t fit my documents from Brazil.
+Maybe is good for another country`s document
+
+wallet n
+wallet n
+matched
+is v
+is v
+matched
+so r
+so r
+matched
+big a
+big a
+matched
+passport n
+passport n
+matched
+dont n
+dont n
+fit v
+fit v
+matched
+documents n
+documents n
+matched
+brazil n
+brazil n
+matched
+maybe r
+maybe r
+matched
+is v
+is v
+matched
+good a
+good a
+matched
+countrys n
+countrys n
+matched
+document v
+document v
+matched
+======================================================================
+[(u'this', 1, None, 0, 0), (u'wallet', 1.0, u'n', 0.0, 0.0), (u'is', 0.75, u'v', 0.125, 0.125), (u'so', 1.0, u'r', 0.0, 0.0), (u'big', 0.875, u'a', 0.125, 0.0), (u'for', 1, None, 0, 0), (u'passport', 0.625, u'n', 0.375, 0.0), (u'and', 1, None, 0, 0), (u'dont', 1.0, None, 0.0, 0.0), (u'fit', 0.875, u'v', 0.0, 0.125), (u'my', 1, None, 0, 0), (u'documents', 1.0, u'n', 0.0, 0.0), (u'from', 1, None, 0, 0), (u'brazil', 1.0, u'n', 0.0, 0.0), (u'maybe', 1.0, u'r', 0.0, 0.0), (u'is', 0.75, u'v', 0.125, 0.125), (u'good', 0.25, u'a', 0.75, 0.0), (u'for', 1, None, 0, 0), (u'another', 1, None, 0, 0), (u'countrys', 1.0, u'n', 0.0, 0.0), (u'document', 0.875, u'v', 0.125, 0.0)]
+======================================================================
+[(u'so', 0.0, 0.0, u'big', 0.125, 0.0), (u'for', 0, 0, u'passport', 0.375, 0.0), (u'dont', 0.0, 0.0, u'fit', 0.0, 0.125), (u'is', 0.125, 0.125, u'good', 0.75, 0.0), (u'countrys', 0.0, 0.0, u'document', 0.125, 0.0)]
+
+
+---------------------------
+1.54375 0.25
+======================================================================
+
+It looks great but the lace in the back itches so bad that I cannot wear it
+
+looks v
+looks v
+matched
+great a
+great a
+matched
+lace n
+lace n
+matched
+back n
+back n
+matched
+itches v
+itches v
+matched
+so r
+so r
+matched
+bad a
+bad a
+matched
+wear v
+wear v
+matched
+======================================================================
+[(u'it', 1, None, 0, 0), (u'looks', 1.0, u'v', 0.0, 0.0), (u'great', 0.125, u'a', 0.875, 0.0), (u'but', 1, None, 0, 0), (u'the', 1, None, 0, 0), (u'lace', 1.0, u'n', 0.0, 0.0), (u'in', 1, None, 0, 0), (u'the', 1, None, 0, 0), (u'back', 1.0, u'n', 0.0, 0.0), (u'itches', 0.875, u'v', 0.125, 0.0), (u'so', 1.0, u'r', 0.0, 0.0), (u'bad', 0.375, u'a', 0.0, 0.625), (u'that', 1, None, 0, 0), (u'i', 1, None, 0, 0), (u'cannot', 1, None, 0, 0), (u'wear', 1.0, u'v', 0.0, 0.0), (u'it', 1, None, 0, 0)]
+======================================================================
+[(u'looks', 0.0, 0.0, u'great', 0.875, 0.0), (u'back', 0.0, 0.0, u'itches', 0.125, 0.0), (u'so', 0.0, 0.0, u'bad', 0.0, 0.625)]
+
+
+---------------------------
+1.0 0.84375
+======================================================================
+
+Boots run about a size too big and unfortunately it cost $20 to return/exchange
+
+boots n
+boots n
+matched
+run v
+run v
+matched
+size n
+size n
+matched
+too r
+too r
+matched
+big a
+big a
+matched
+unfortunately r
+unfortunately r
+matched
+cost v
+cost v
+matched
+returnexchange v
+returnexchange v
+======================================================================
+[(u'boots', 1.0, u'n', 0.0, 0.0), (u'run', 1.0, u'v', 0.0, 0.0), (u'about', 1, None, 0, 0), (u'a', 1, None, 0, 0), (u'size', 1.0, u'n', 0.0, 0.0), (u'too', 0.625, u'r', 0.125, 0.25), (u'big', 0.875, u'a', 0.125, 0.0), (u'and', 1, None, 0, 0), (u'unfortunately', 0.125, u'r', 0.0, 0.875), (u'it', 1, None, 0, 0), (u'cost', 1.0, u'v', 0.0, 0.0), (u'20', 1, None, 0, 0), (u'to', 1, None, 0, 0), (u'returnexchange', 1.0, None, 0.0, 0.0)]
+======================================================================
+[(u'size', 0.0, 0.0, u'too', 0.125, 0.25), (u'too', 0.125, 0.25, u'big', 0.125, 0.0), (u'and', 0, 0, u'unfortunately', 0.0, 0.875)]
+
+
+---------------------------
+0.375 1.375
+======================================================================
+
+I wear boxers but boxer brifes look sexer so every one start wear boxer brifes that way you wont get pantsed or get a wegie
+
+wear n
+wear n
+matched
+boxers n
+boxers n
+matched
+boxer n
+boxer n
+matched
+brifes n
+brifes n
+look v
+look v
+matched
+sexer n
+sexer n
+start n
+start n
+matched
+wear n
+wear n
+matched
+boxer n
+boxer n
+matched
+brifes v
+brifes v
+way n
+way n
+matched
+wont v
+wont v
+get v
+get v
+matched
+pantsed v
+pantsed v
+matched
+get v
+get v
+matched
+wegie n
+wegie n
+======================================================================
+[(u'i', 1, None, 0, 0), (u'wear', 1.0, u'n', 0.0, 0.0), (u'boxers', 1.0, u'n', 0.0, 0.0), (u'but', 1, None, 0, 0), (u'boxer', 1.0, u'n', 0.0, 0.0), (u'brifes', 1.0, None, 0.0, 0.0), (u'look', 1.0, u'v', 0.0, 0.0), (u'sexer', 1.0, None, 0.0, 0.0), (u'so', 1, None, 0, 0), (u'every', 1, None, 0, 0), (u'one', 1, None, 0, 0), (u'start', 0.875, u'n', 0.125, 0.0), (u'wear', 1.0, u'n', 0.0, 0.0), (u'boxer', 1.0, u'n', 0.0, 0.0), (u'brifes', 1.0, None, 0.0, 0.0), (u'that', 1, None, 0, 0), (u'way', 1.0, u'n', 0.0, 0.0), (u'you', 1, None, 0, 0), (u'wont', 1.0, None, 0.0, 0.0), (u'get', 1.0, u'v', 0.0, 0.0), (u'pantsed', 0.875, u'v', 0.0, 0.125), (u'or', 1, None, 0, 0), (u'get', 1.0, u'v', 0.0, 0.0), (u'a', 1, None, 0, 0), (u'wegie', 1.0, None, 0.0, 0.0)]
+======================================================================
+[(u'one', 0, 0, u'start', 0.125, 0.0), (u'get', 0.0, 0.0, u'pantsed', 0.0, 0.125)]
+
+
+---------------------------
+0.125 0.125
+======================================================================
+
+The item looks cheap. I ordered a medium size but it was 2X bigger than the regular size. "Ugly
+
+item n
+item n
+matched
+looks v
+looks v
+matched
+cheap a
+cheap a
+matched
+ordered v
+ordered v
+matched
+medium n
+medium n
+matched
+size n
+size n
+matched
+was v
+was v
+2x n
+2x n
+bigger a
+bigger a
+matched
+regular a
+regular a
+matched
+size n
+size n
+matched
+ugly a
+ugly a
+matched
+======================================================================
+[(u'the', 1, None, 0, 0), (u'item', 1.0, u'n', 0.0, 0.0), (u'looks', 1.0, u'v', 0.0, 0.0), (u'cheap', 0.75, u'a', 0.125, 0.125), (u'i', 1, None, 0, 0), (u'ordered', 1.0, u'v', 0.0, 0.0), (u'a', 1, None, 0, 0), (u'medium', 1.0, u'n', 0.0, 0.0), (u'size', 1.0, u'n', 0.0, 0.0), (u'but', 1, None, 0, 0), (u'it', 1, None, 0, 0), (u'was', 1.0, None, 0.0, 0.0), (u'2x', 1.0, None, 0.0, 0.0), (u'bigger', 0.875, u'a', 0.125, 0.0), (u'than', 1, None, 0, 0), (u'the', 1, None, 0, 0), (u'regular', 0.75, u'a', 0.0, 0.25), (u'size', 1.0, u'n', 0.0, 0.0), (u'ugly', 0.625, u'a', 0.0, 0.375)]
+======================================================================
+[(u'looks', 0.0, 0.0, u'cheap', 0.125, 0.125), (u'2x', 0.0, 0.0, u'bigger', 0.125, 0.0), (u'the', 0, 0, u'regular', 0.0, 0.25), (u'size', 0.0, 0.0, u'ugly', 0.0, 0.375)]
+
+
+---------------------------
+0.25 0.75
+======================================================================
+
+I broke through the toe on the second wearing.  Lousy product
+
+broke v
+broke v
+matched
+toe n
+toe n
+matched
+second a
+second a
+matched
+wearing v
+wearing v
+matched
+lousy a
+lousy a
+matched
+product n
+product n
+matched
+======================================================================
+[(u'i', 1, None, 0, 0), (u'broke', 0.625, u'v', 0.25, 0.125), (u'through', 1, None, 0, 0), (u'the', 1, None, 0, 0), (u'toe', 1.0, u'n', 0.0, 0.0), (u'on', 1, None, 0, 0), (u'the', 1, None, 0, 0), (u'second', 1.0, u'a', 0.0, 0.0), (u'wearing', 1.0, u'v', 0.0, 0.0), (u'lousy', 0.375, u'a', 0.0, 0.625), (u'product', 1.0, u'n', 0.0, 0.0)]
+======================================================================
+[(u'i', 0, 0, u'broke', 0.25, 0.125), (u'wearing', 0.0, 0.0, u'lousy', 0.0, 0.625)]
+
+
+---------------------------
+0.25 0.75
+======================================================================
+
+I keep tyring to find shirts that are for these prices $9,10 or 11, where are they?  How do I find out
+
+keep v
+keep v
+matched
+tyring v
+tyring v
+find v
+find v
+matched
+shirts n
+shirts n
+matched
+are v
+are v
+matched
+prices n
+prices n
+matched
+where r
+where r
+are v
+are v
+matched
+how r
+how r
+do v
+do v
+matched
+find v
+find v
+matched
+======================================================================
+[(u'i', 1, None, 0, 0), (u'keep', 1.0, u'v', 0.0, 0.0), (u'tyring', 1.0, None, 0.0, 0.0), (u'to', 1, None, 0, 0), (u'find', 1.0, u'v', 0.0, 0.0), (u'shirts', 1.0, u'n', 0.0, 0.0), (u'that', 1, None, 0, 0), (u'are', 1.0, u'v', 0.0, 0.0), (u'for', 1, None, 0, 0), (u'these', 1, None, 0, 0), (u'prices', 1.0, u'n', 0.0, 0.0), (u'910', 1, None, 0, 0), (u'or', 1, None, 0, 0), (u'11', 1, None, 0, 0), (u'where', 1.0, None, 0.0, 0.0), (u'are', 1.0, u'v', 0.0, 0.0), (u'they', 1, None, 0, 0), (u'how', 1.0, None, 0.0, 0.0), (u'do', 0.5, u'v', 0.0, 0.5), (u'i', 1, None, 0, 0), (u'find', 1.0, u'v', 0.0, 0.0), (u'out', 1, None, 0, 0)]
+======================================================================
+[]
+
+
+---------------------------
+0.0 0.0
+======================================================================
+
+super low price advertised on 'select sizes and colors'.
+
+oh and u have to add to your cart before you know the price
+
+super a
+super a
+matched
+low a
+low a
+matched
+price n
+price n
+matched
+advertised v
+advertised v
+matched
+select a
+select a
+matched
+sizes n
+sizes n
+matched
+colors n
+colors n
+matched
+u n
+u n
+matched
+have v
+have v
+matched
+add v
+add v
+matched
+cart n
+cart n
+matched
+know v
+know v
+matched
+price n
+price n
+matched
+======================================================================
+[(u'super', 0.375, u'a', 0.625, 0.0), (u'low', 1.0, u'a', 0.0, 0.0), (u'price', 1.0, u'n', 0.0, 0.0), (u'advertised', 1.0, u'v', 0.0, 0.0), (u'on', 1, None, 0, 0), (u'select', 0.375, u'a', 0.625, 0.0), (u'sizes', 1.0, u'n', 0.0, 0.0), (u'and', 1, None, 0, 0), (u'colors', 1.0, u'n', 0.0, 0.0), (u'oh', 1, None, 0, 0), (u'and', 1, None, 0, 0), (u'u', 1.0, u'n', 0.0, 0.0), (u'have', 1.0, u'v', 0.0, 0.0), (u'to', 1, None, 0, 0), (u'add', 1.0, u'v', 0.0, 0.0), (u'to', 1, None, 0, 0), (u'your', 1, None, 0, 0), (u'cart', 1.0, u'n', 0.0, 0.0), (u'before', 1, None, 0, 0), (u'you', 1, None, 0, 0), (u'know', 0.875, u'v', 0.125, 0.0), (u'the', 1, None, 0, 0), (u'price', 1.0, u'n', 0.0, 0.0)]
+======================================================================
+[(None, 0.0, 0.0, u'super', 0.625, 0.0), (u'on', 0, 0, u'select', 0.625, 0.0), (u'you', 0, 0, u'know', 0.125, 0.0)]
+
+
+---------------------------
+1.375 0.0
+======================================================================
+
+i didn't like the material of this skirt especially the black and white one i don't like it it's feels it's for old ladies
+
+material n
+material n
+matched
+skirt n
+skirt n
+matched
+especially r
+especially r
+matched
+black a
+black a
+matched
+white a
+white a
+matched
+feels v
+feels v
+matched
+old a
+old a
+matched
+ladies n
+ladies n
+matched
+======================================================================
+[(u'i', 1, None, 0, 0), (u'didnt', 1, None, 0, 0), (u'like', 1, None, 0, 0), (u'the', 1, None, 0, 0), (u'material', 1.0, u'n', 0.0, 0.0), (u'of', 1, None, 0, 0), (u'this', 1, None, 0, 0), (u'skirt', 1.0, u'n', 0.0, 0.0), (u'especially', 1.0, u'r', 0.0, 0.0), (u'the', 1, None, 0, 0), (u'black', 0.375, u'a', 0.25, 0.375), (u'and', 1, None, 0, 0), (u'white', 1.0, u'a', 0.0, 0.0), (u'one', 1, None, 0, 0), (u'i', 1, None, 0, 0), (u'dont', 1, None, 0, 0), (u'like', 1, None, 0, 0), (u'it', 1, None, 0, 0), (u'its', 1, None, 0, 0), (u'feels', 0.375, u'v', 0.375, 0.25), (u'its', 1, None, 0, 0), (u'for', 1, None, 0, 0), (u'old', 0.625, u'a', 0.0, 0.375), (u'ladies', 1.0, u'n', 0.0, 0.0)]
+======================================================================
+[(u'the', 0, 0, u'black', 0.25, 0.375), (u'its', 0, 0, u'feels', 0.375, 0.25), (u'for', 0, 0, u'old', 0.0, 0.375)]
+
+
+---------------------------
+0.625 1.0
+======================================================================
+
+This bra is definately not for the over B cup set. The openings are too big and you'd be better off wearing nothin
+
+bra n
+bra n
+matched
+is v
+is v
+matched
+definately r
+definately r
+not r
+not r
+matched
+over a
+over a
+matched
+b n
+b n
+matched
+cup n
+cup n
+matched
+set v
+set v
+matched
+openings n
+openings n
+matched
+are v
+are v
+matched
+too r
+too r
+matched
+big a
+big a
+matched
+youd n
+youd n
+be v
+be v
+matched
+better a
+better a
+matched
+wearing v
+wearing v
+matched
+nothin n
+nothin n
+======================================================================
+[(u'this', 1, None, 0, 0), (u'bra', 1.0, u'n', 0.0, 0.0), (u'is', 1.0, u'v', 0.0, 0.0), (u'definately', 1.0, None, 0.0, 0.0), (u'not', 0.375, u'r', 0.0, 0.625), (u'for', 1, None, 0, 0), (u'the', 1, None, 0, 0), (u'over', 0.625, u'a', 0.375, 0.0), (u'b', 1.0, u'n', 0.0, 0.0), (u'cup', 1.0, u'n', 0.0, 0.0), (u'set', 1.0, u'v', 0.0, 0.0), (u'the', 1, None, 0, 0), (u'openings', 1.0, u'n', 0.0, 0.0), (u'are', 1.0, u'v', 0.0, 0.0), (u'too', 0.625, u'r', 0.125, 0.25), (u'big', 0.875, u'a', 0.125, 0.0), (u'and', 1, None, 0, 0), (u'youd', 1.0, None, 0.0, 0.0), (u'be', 1.0, u'v', 0.0, 0.0), (u'better', 0.25, u'a', 0.75, 0.0), (u'off', 1, None, 0, 0), (u'wearing', 0.75, u'v', 0.0, 0.25), (u'nothin', 1.0, None, 0.0, 0.0)]
+======================================================================
+[(u'definately', 0.0, 0.0, u'not', 0.0, 0.625), (u'the', 0, 0, u'over', 0.375, 0.0), (u'are', 0.0, 0.0, u'too', 0.125, 0.25), (u'too', 0.125, 0.25, u'big', 0.125, 0.0), (u'be', 0.0, 0.0, u'better', 0.75, 0.0), (u'off', 0, 0, u'wearing', 0.0, 0.25)]
+
+
+---------------------------
+1.5 1.375
+======================================================================
+
+I have yet to reccived tham so I can not review tham till I reccive them.
+
+Thank you, Robert But
+
+have v
+have v
+matched
+yet r
+yet r
+matched
+reccived a
+reccived a
+tham n
+tham n
+can v
+can v
+matched
+not r
+not r
+matched
+review v
+review v
+matched
+tham n
+tham n
+thank v
+thank v
+matched
+robert n
+robert n
+matched
+======================================================================
+[(u'i', 1, None, 0, 0), (u'have', 1.0, u'v', 0.0, 0.0), (u'yet', 0.75, u'r', 0.25, 0.0), (u'to', 1, None, 0, 0), (u'reccived', 1.0, None, 0.0, 0.0), (u'tham', 1.0, None, 0.0, 0.0), (u'so', 1, None, 0, 0), (u'i', 1, None, 0, 0), (u'can', 1.0, u'v', 0.0, 0.0), (u'not', 0.375, u'r', 0.0, 0.625), (u'review', 1.0, u'v', 0.0, 0.0), (u'tham', 1.0, None, 0.0, 0.0), (u'till', 1, None, 0, 0), (u'i', 1, None, 0, 0), (u'reccive', 1, None, 0, 0), (u'them', 1, None, 0, 0), (u'thank', 1.0, u'v', 0.0, 0.0), (u'you', 1, None, 0, 0), (u'robert', 1.0, u'n', 0.0, 0.0), (u'but', 1, None, 0, 0)]
+======================================================================
+[(u'have', 0.0, 0.0, u'yet', 0.25, 0.0), (u'can', 0.0, 0.0, u'not', 0.0, 0.625)]
+
+
+---------------------------
+0.25 0.625
+======================================================================
+
+Was not the same boot from the pictures. Got very sad when opend my packet
+
+was v
+was v
+not r
+not r
+matched
+same a
+same a
+matched
+boot n
+boot n
+matched
+pictures n
+pictures n
+matched
+got v
+got v
+matched
+very r
+very r
+matched
+sad a
+sad a
+matched
+when r
+when r
+opend v
+opend v
+packet n
+packet n
+matched
+======================================================================
+[(u'was', 1.0, None, 0.0, 0.0), (u'not', 0.375, u'r', 0.0, 0.625), (u'the', 1, None, 0, 0), (u'same', 0.625, u'a', 0.0, 0.375), (u'boot', 1.0, u'n', 0.0, 0.0), (u'from', 1, None, 0, 0), (u'the', 1, None, 0, 0), (u'pictures', 1.0, u'n', 0.0, 0.0), (u'got', 0.75, u'v', 0.0, 0.25), (u'very', 0.75, u'r', 0.25, 0.0), (u'sad', 0.75, u'a', 0.0, 0.25), (u'when', 1.0, None, 0.0, 0.0), (u'opend', 1.0, None, 0.0, 0.0), (u'my', 1, None, 0, 0), (u'packet', 1.0, u'n', 0.0, 0.0)]
+======================================================================
+[(u'was', 0.0, 0.0, u'not', 0.0, 0.625), (u'the', 0, 0, u'same', 0.0, 0.375), (u'pictures', 0.0, 0.0, u'got', 0.0, 0.25), (u'got', 0.0, 0.25, u'very', 0.25, 0.0), (u'very', 0.25, 0.0, u'sad', 0.0, 0.25)]
+
+
+---------------------------
+0.25 1.8125
+======================================================================
+
+The writing was peeling off this badly.  I can't let me child wear this.  I threw it out
+
+writing n
+writing n
+matched
+was v
+was v
+peeling v
+peeling v
+matched
+badly r
+badly r
+matched
+let v
+let v
+matched
+child n
+child n
+matched
+wear v
+wear v
+matched
+threw v
+threw v
+matched
+======================================================================
+[(u'the', 1, None, 0, 0), (u'writing', 1.0, u'n', 0.0, 0.0), (u'was', 1.0, None, 0.0, 0.0), (u'peeling', 1.0, u'v', 0.0, 0.0), (u'off', 1, None, 0, 0), (u'this', 1, None, 0, 0), (u'badly', 0.375, u'r', 0.0, 0.625), (u'i', 1, None, 0, 0), (u'cant', 1, None, 0, 0), (u'let', 1.0, u'v', 0.0, 0.0), (u'me', 1, None, 0, 0), (u'child', 1.0, u'n', 0.0, 0.0), (u'wear', 1.0, u'v', 0.0, 0.0), (u'this', 1, None, 0, 0), (u'i', 1, None, 0, 0), (u'threw', 1.0, u'v', 0.0, 0.0), (u'it', 1, None, 0, 0), (u'out', 1, None, 0, 0)]
+======================================================================
+[(u'this', 0, 0, u'badly', 0.0, 0.625)]
+
+
+---------------------------
+0.0 0.625
+======================================================================
+
+The wheels on the bag lasted less than two months.  The bag is now basically unusable.
+
+wheels n
+wheels n
+matched
+bag n
+bag n
+matched
+lasted v
+lasted v
+matched
+less a
+less a
+months n
+months n
+matched
+bag n
+bag n
+matched
+is v
+is v
+matched
+now r
+now r
+matched
+basically r
+basically r
+matched
+unusable a
+unusable a
+matched
+======================================================================
+[(u'the', 1, None, 0, 0), (u'wheels', 1.0, u'n', 0.0, 0.0), (u'on', 1, None, 0, 0), (u'the', 1, None, 0, 0), (u'bag', 1.0, u'n', 0.0, 0.0), (u'lasted', 1.0, u'v', 0.0, 0.0), (u'less', 1.0, None, 0.0, 0.0), (u'than', 1, None, 0, 0), (u'two', 1, None, 0, 0), (u'months', 1.0, u'n', 0.0, 0.0), (u'the', 1, None, 0, 0), (u'bag', 1.0, u'n', 0.0, 0.0), (u'is', 1.0, u'v', 0.0, 0.0), (u'now', 1.0, u'r', 0.0, 0.0), (u'basically', 0.5, u'r', 0.5, 0.0), (u'unusable', 0.375, u'a', 0.0, 0.625)]
+======================================================================
+[(u'now', 0.0, 0.0, u'basically', 0.5, 0.0), (u'basically', 0.5, 0.0, u'unusable', 0.0, 0.625)]
+
+
+---------------------------
+1.0 0.625
+======================================================================
+
+You have sent me a model different from for the one that I asked!!!!
+I live in Chile ..... there is no way of returning it ......
+
+have v
+have v
+matched
+sent v
+sent v
+matched
+model n
+model n
+matched
+different a
+different a
+matched
+one n
+one n
+matched
+asked v
+asked v
+matched
+live a
+live a
+matched
+is v
+is v
+matched
+way n
+way n
+matched
+returning v
+returning v
+matched
+======================================================================
+[(u'you', 1, None, 0, 0), (u'have', 1.0, u'v', 0.0, 0.0), (u'sent', 1.0, u'v', 0.0, 0.0), (u'me', 1, None, 0, 0), (u'a', 1, None, 0, 0), (u'model', 0.875, u'n', 0.125, 0.0), (u'different', 0.375, u'a', 0.625, 0.0), (u'from', 1, None, 0, 0), (u'for', 1, None, 0, 0), (u'the', 1, None, 0, 0), (u'one', 1.0, u'n', 0.0, 0.0), (u'that', 1, None, 0, 0), (u'i', 1, None, 0, 0), (u'asked', 1.0, u'v', 0.0, 0.0), (u'i', 1, None, 0, 0), (u'live', 0.5, u'a', 0.5, 0.0), (u'in', 1, None, 0, 0), (u'chile', 1, None, 0, 0), (u'there', 1, None, 0, 0), (u'is', 1.0, u'v', 0.0, 0.0), (u'no', 1, None, 0, 0), (u'way', 1.0, u'n', 0.0, 0.0), (u'of', 1, None, 0, 0), (u'returning', 1.0, u'v', 0.0, 0.0), (u'it', 1, None, 0, 0)]
+======================================================================
+[(u'a', 0, 0, u'model', 0.125, 0.0), (u'model', 0.125, 0.0, u'different', 0.625, 0.0), (u'i', 0, 0, u'live', 0.5, 0.0)]
+
+
+---------------------------
+1.375 0.0
+======================================================================
+
+The sound works but the light does not
+
+sound a
+sound a
+matched
+works n
+works n
+matched
+light n
+light n
+matched
+does v
+does v
+not r
+not r
+matched
+======================================================================
+[(u'the', 1, None, 0, 0), (u'sound', 0.375, u'a', 0.625, 0.0), (u'works', 1.0, u'n', 0.0, 0.0), (u'but', 1, None, 0, 0), (u'the', 1, None, 0, 0), (u'light', 1.0, u'n', 0.0, 0.0), (u'does', 1.0, None, 0.0, 0.0), (u'not', 0.375, u'r', 0.0, 0.625)]
+======================================================================
+[(u'the', 0, 0, u'sound', 0.625, 0.0), (u'does', 0.0, 0.0, u'not', 0.0, 0.625)]
+
+
+---------------------------
+0.625 0.625
+======================================================================
+
+i ordered this buckle, the one shown in the pictures, and i received a different buckle, a red white and blue confederate flag, not the knife/buckle
+
+ordered v
+ordered v
+matched
+buckle n
+buckle n
+matched
+shown v
+shown v
+matched
+pictures n
+pictures n
+matched
+received v
+received v
+matched
+different a
+different a
+matched
+buckle n
+buckle n
+matched
+red a
+red a
+matched
+white a
+white a
+matched
+blue a
+blue a
+matched
+confederate a
+confederate a
+matched
+flag n
+flag n
+matched
+not r
+not r
+matched
+knifebuckle n
+knifebuckle n
+======================================================================
+[(u'i', 1, None, 0, 0), (u'ordered', 1.0, u'v', 0.0, 0.0), (u'this', 1, None, 0, 0), (u'buckle', 1.0, u'n', 0.0, 0.0), (u'the', 1, None, 0, 0), (u'one', 1, None, 0, 0), (u'shown', 1.0, u'v', 0.0, 0.0), (u'in', 1, None, 0, 0), (u'the', 1, None, 0, 0), (u'pictures', 1.0, u'n', 0.0, 0.0), (u'and', 1, None, 0, 0), (u'i', 1, None, 0, 0), (u'received', 1.0, u'v', 0.0, 0.0), (u'a', 1, None, 0, 0), (u'different', 0.375, u'a', 0.625, 0.0), (u'buckle', 1.0, u'n', 0.0, 0.0), (u'a', 1, None, 0, 0), (u'red', 0.75, u'a', 0.0, 0.25), (u'white', 1.0, u'a', 0.0, 0.0), (u'and', 1, None, 0, 0), (u'blue', 0.375, u'a', 0.125, 0.5), (u'confederate', 1.0, u'a', 0.0, 0.0), (u'flag', 1.0, u'n', 0.0, 0.0), (u'not', 0.375, u'r', 0.0, 0.625), (u'the', 1, None, 0, 0), (u'knifebuckle', 1.0, None, 0.0, 0.0)]
+======================================================================
+[(u'a', 0, 0, u'different', 0.625, 0.0), (u'a', 0, 0, u'red', 0.0, 0.25), (u'and', 0, 0, u'blue', 0.125, 0.5), (u'flag', 0.0, 0.0, u'not', 0.0, 0.625)]
+
+
+---------------------------
+0.75 1.375
+======================================================================
+
+This bra is one of the most uncomfortable bra's I've tried.  It's seems to be made cheaply and digs into my skin.  I would not recommend it
+
+bra n
+bra n
+matched
+is v
+is v
+matched
+most r
+most r
+matched
+uncomfortable a
+uncomfortable a
+matched
+tried v
+tried v
+matched
+seems v
+seems v
+matched
+be v
+be v
+matched
+made v
+made v
+matched
+cheaply r
+cheaply r
+matched
+digs v
+digs v
+matched
+skin n
+skin n
+matched
+would v
+would v
+not r
+not r
+matched
+recommend v
+recommend v
+matched
+======================================================================
+[(u'this', 1, None, 0, 0), (u'bra', 1.0, u'n', 0.0, 0.0), (u'is', 1.0, u'v', 0.0, 0.0), (u'one', 1, None, 0, 0), (u'of', 1, None, 0, 0), (u'the', 1, None, 0, 0), (u'most', 1.0, u'r', 0.0, 0.0), (u'uncomfortable', 0.375, u'a', 0.0, 0.625), (u'bras', 1, None, 0, 0), (u'ive', 1, None, 0, 0), (u'tried', 1.0, u'v', 0.0, 0.0), (u'its', 1, None, 0, 0), (u'seems', 1.0, u'v', 0.0, 0.0), (u'to', 1, None, 0, 0), (u'be', 1.0, u'v', 0.0, 0.0), (u'made', 1.0, u'v', 0.0, 0.0), (u'cheaply', 0.625, u'r', 0.375, 0.0), (u'and', 1, None, 0, 0), (u'digs', 1.0, u'v', 0.0, 0.0), (u'into', 1, None, 0, 0), (u'my', 1, None, 0, 0), (u'skin', 1.0, u'n', 0.0, 0.0), (u'i', 1, None, 0, 0), (u'would', 1.0, None, 0.0, 0.0), (u'not', 0.375, u'r', 0.0, 0.625), (u'recommend', 0.875, u'v', 0.0, 0.125), (u'it', 1, None, 0, 0)]
+======================================================================
+[(u'most', 0.0, 0.0, u'uncomfortable', 0.0, 0.625), (u'made', 0.0, 0.0, u'cheaply', 0.375, 0.0), (u'would', 0.0, 0.0, u'not', 0.0, 0.625), (u'not', 0.0, 0.625, u'recommend', 0.0, 0.125)]
+
+
+---------------------------
+0.375 2.0
+======================================================================
+
+this bra was a terrible waste of money. the wire on one side stabs me constantly. the other side is fine. it's obviously defective.
+
+bra n
+bra n
+matched
+was v
+was v
+terrible a
+terrible a
+matched
+waste n
+waste n
+matched
+money n
+money n
+matched
+wire n
+wire n
+matched
+side n
+side n
+matched
+stabs v
+stabs v
+matched
+constantly r
+constantly r
+matched
+other a
+other a
+matched
+side n
+side n
+matched
+is v
+is v
+matched
+fine a
+fine a
+matched
+obviously r
+obviously r
+matched
+defective a
+defective a
+matched
+======================================================================
+[(u'this', 1, None, 0, 0), (u'bra', 1.0, u'n', 0.0, 0.0), (u'was', 1.0, None, 0.0, 0.0), (u'a', 1, None, 0, 0), (u'terrible', 0.625, u'a', 0.125, 0.25), (u'waste', 1.0, u'n', 0.0, 0.0), (u'of', 1, None, 0, 0), (u'money', 1.0, u'n', 0.0, 0.0), (u'the', 1, None, 0, 0), (u'wire', 1.0, u'n', 0.0, 0.0), (u'on', 1, None, 0, 0), (u'one', 1, None, 0, 0), (u'side', 1.0, u'n', 0.0, 0.0), (u'stabs', 1.0, u'v', 0.0, 0.0), (u'me', 1, None, 0, 0), (u'constantly', 1.0, u'r', 0.0, 0.0), (u'the', 1, None, 0, 0), (u'other', 0.375, u'a', 0.0, 0.625), (u'side', 1.0, u'n', 0.0, 0.0), (u'is', 1.0, u'v', 0.0, 0.0), (u'fine', 0.875, u'a', 0.125, 0.0), (u'its', 1, None, 0, 0), (u'obviously', 0.5, u'r', 0.5, 0.0), (u'defective', 0.75, u'a', 0.25, 0.0)]
+======================================================================
+[(u'a', 0, 0, u'terrible', 0.125, 0.25), (u'the', 0, 0, u'other', 0.0, 0.625), (u'is', 0.0, 0.0, u'fine', 0.125, 0.0), (u'its', 0, 0, u'obviously', 0.5, 0.0), (u'obviously', 0.5, 0.0, u'defective', 0.25, 0.0)]
+
+
+---------------------------
+1.0375 0.875
+======================================================================
+
+I love these boots and get a lot of complements but the strap broke already! Can I send them back
+
+love n
+love n
+matched
+boots n
+boots n
+matched
+get v
+get v
+matched
+lot n
+lot n
+matched
+complements v
+complements v
+matched
+strap n
+strap n
+matched
+broke v
+broke v
+matched
+already r
+already r
+matched
+can v
+can v
+matched
+send v
+send v
+matched
+back r
+back r
+matched
+======================================================================
+[(u'i', 1, None, 0, 0), (u'love', 0.375, u'n', 0.625, 0.0), (u'these', 1, None, 0, 0), (u'boots', 1.0, u'n', 0.0, 0.0), (u'and', 1, None, 0, 0), (u'get', 1.0, u'v', 0.0, 0.0), (u'a', 1, None, 0, 0), (u'lot', 1.0, u'n', 0.0, 0.0), (u'of', 1, None, 0, 0), (u'complements', 1.0, u'v', 0.0, 0.0), (u'but', 1, None, 0, 0), (u'the', 1, None, 0, 0), (u'strap', 1.0, u'n', 0.0, 0.0), (u'broke', 1.0, u'v', 0.0, 0.0), (u'already', 0.875, u'r', 0.125, 0.0), (u'can', 1.0, u'v', 0.0, 0.0), (u'i', 1, None, 0, 0), (u'send', 1.0, u'v', 0.0, 0.0), (u'them', 1, None, 0, 0), (u'back', 1.0, u'r', 0.0, 0.0)]
+======================================================================
+[(u'i', 0, 0, u'love', 0.625, 0.0), (u'broke', 0.0, 0.0, u'already', 0.125, 0.0)]
+
+
+---------------------------
+0.75 0.0
+======================================================================
+
+These pants are fine if you have a very short rise, but I can't imagine that they would fit most people. I will be returning my order
+
+pants n
+pants n
+matched
+are v
+are v
+matched
+fine a
+fine a
+matched
+have v
+have v
+matched
+very r
+very r
+matched
+short a
+short a
+matched
+rise n
+rise n
+matched
+imagine v
+imagine v
+matched
+would v
+would v
+fit v
+fit v
+matched
+most a
+most a
+matched
+people n
+people n
+matched
+will v
+will v
+matched
+be v
+be v
+matched
+returning v
+returning v
+matched
+order n
+order n
+matched
+======================================================================
+[(u'these', 1, None, 0, 0), (u'pants', 1.0, u'n', 0.0, 0.0), (u'are', 0.75, u'v', 0.125, 0.125), (u'fine', 0.875, u'a', 0.125, 0.0), (u'if', 1, None, 0, 0), (u'you', 1, None, 0, 0), (u'have', 0.75, u'v', 0.0, 0.25), (u'a', 1, None, 0, 0), (u'very', 0.75, u'r', 0.25, 0.0), (u'short', 0.125, u'a', 0.125, 0.75), (u'rise', 1.0, u'n', 0.0, 0.0), (u'but', 1, None, 0, 0), (u'i', 1, None, 0, 0), (u'cant', 1, None, 0, 0), (u'imagine', 0.875, u'v', 0.125, 0.0), (u'that', 1, None, 0, 0), (u'they', 1, None, 0, 0), (u'would', 1.0, None, 0.0, 0.0), (u'fit', 0.875, u'v', 0.0, 0.125), (u'most', 1.0, u'a', 0.0, 0.0), (u'people', 1.0, u'n', 0.0, 0.0), (u'i', 1, None, 0, 0), (u'will', 1.0, u'v', 0.0, 0.0), (u'be', 0.75, u'v', 0.125, 0.125), (u'returning', 1.0, u'v', 0.0, 0.0), (u'my', 1, None, 0, 0), (u'order', 1.0, u'n', 0.0, 0.0)]
+======================================================================
+[(u'are', 0.125, 0.125, u'fine', 0.125, 0.0), (u'a', 0, 0, u'very', 0.25, 0.0), (u'very', 0.25, 0.0, u'short', 0.125, 0.75), (u'cant', 0, 0, u'imagine', 0.125, 0.0), (u'would', 0.0, 0.0, u'fit', 0.0, 0.125)]
+
+
+---------------------------
+0.75 1.1875
+======================================================================
+
+Tan color looks very synthetic, cheapens look of shoe.  Also very wide fitting
+
+tan n
+tan n
+matched
+color n
+color n
+matched
+looks v
+looks v
+matched
+very r
+very r
+matched
+synthetic a
+synthetic a
+matched
+cheapens v
+cheapens v
+matched
+look n
+look n
+matched
+shoe n
+shoe n
+matched
+also r
+also r
+matched
+very r
+very r
+matched
+wide a
+wide a
+matched
+fitting n
+fitting n
+matched
+======================================================================
+[(u'tan', 1.0, u'n', 0.0, 0.0), (u'color', 1.0, u'n', 0.0, 0.0), (u'looks', 1.0, u'v', 0.0, 0.0), (u'very', 0.75, u'r', 0.25, 0.0), (u'synthetic', 0.0, u'a', 0.125, 0.875), (u'cheapens', 0.625, u'v', 0.125, 0.25), (u'look', 0.875, u'n', 0.125, 0.0), (u'of', 1, None, 0, 0), (u'shoe', 1.0, u'n', 0.0, 0.0), (u'also', 1.0, u'r', 0.0, 0.0), (u'very', 0.75, u'r', 0.25, 0.0), (u'wide', 0.375, u'a', 0.0, 0.625), (u'fitting', 0.875, u'n', 0.125, 0.0)]
+======================================================================
+[(u'looks', 0.0, 0.0, u'very', 0.25, 0.0), (u'very', 0.25, 0.0, u'synthetic', 0.125, 0.875), (u'synthetic', 0.125, 0.875, u'cheapens', 0.125, 0.25), (u'cheapens', 0.125, 0.25, u'look', 0.125, 0.0), (u'also', 0.0, 0.0, u'very', 0.25, 0.0), (u'very', 0.25, 0.0, u'wide', 0.0, 0.625), (u'wide', 0.0, 0.625, u'fitting', 0.125, 0.0)]
+
+
+---------------------------
+1.25 3.875
+======================================================================
+
+didn't like these.  infact theyre so ugly i havent even tried them o
+
+didnt v
+didnt v
+so r
+so r
+matched
+ugly a
+ugly a
+matched
+even r
+even r
+matched
+tried v
+tried v
+matched
+o n
+o n
+matched
+======================================================================
+[(u'didnt', 1.0, None, 0.0, 0.0), (u'like', 1, None, 0, 0), (u'these', 1, None, 0, 0), (u'infact', 1, None, 0, 0), (u'theyre', 1, None, 0, 0), (u'so', 1.0, u'r', 0.0, 0.0), (u'ugly', 0.375, u'a', 0.0, 0.625), (u'i', 1, None, 0, 0), (u'havent', 1, None, 0, 0), (u'even', 0.625, u'r', 0.0, 0.375), (u'tried', 0.5, u'v', 0.0, 0.5), (u'them', 1, None, 0, 0), (u'o', 1.0, u'n', 0.0, 0.0)]
+======================================================================
+[(u'so', 0.0, 0.0, u'ugly', 0.0, 0.625), (u'havent', 0, 0, u'even', 0.0, 0.375), (u'even', 0.0, 0.375, u'tried', 0.0, 0.5)]
+
+
+---------------------------
+0.0 2.09375
+======================================================================
+
+paid double what i found at another site outside of amazon/this store - NEVER AGAIN!
+
+
+
+paid v
+paid v
+matched
+double r
+double r
+matched
+found v
+found v
+matched
+site n
+site n
+matched
+outside a
+outside a
+matched
+amazonthis n
+amazonthis n
+store n
+store n
+matched
+never r
+never r
+matched
+again r
+again r
+matched
+======================================================================
+[(u'paid', 1.0, u'v', 0.0, 0.0), (u'double', 1.0, u'r', 0.0, 0.0), (u'what', 1, None, 0, 0), (u'i', 1, None, 0, 0), (u'found', 1.0, u'v', 0.0, 0.0), (u'at', 1, None, 0, 0), (u'another', 1, None, 0, 0), (u'site', 1.0, u'n', 0.0, 0.0), (u'outside', 0.875, u'a', 0.125, 0.0), (u'of', 1, None, 0, 0), (u'amazonthis', 1.0, None, 0.0, 0.0), (u'store', 1.0, u'n', 0.0, 0.0), (u'never', 0.375, u'r', 0.0, 0.625), (u'again', 1.0, u'r', 0.0, 0.0)]
+======================================================================
+[(u'site', 0.0, 0.0, u'outside', 0.125, 0.0), (u'store', 0.0, 0.0, u'never', 0.0, 0.625)]
+
+
+---------------------------
+0.125 0.625
+======================================================================
+
+The product was unsatisfactory because of how large it was.  My son exchanged it
+
+product n
+product n
+matched
+was v
+was v
+unsatisfactory a
+unsatisfactory a
+matched
+how r
+how r
+large a
+large a
+matched
+was v
+was v
+son n
+son n
+matched
+exchanged v
+exchanged v
+matched
+======================================================================
+[(u'the', 1, None, 0, 0), (u'product', 1.0, u'n', 0.0, 0.0), (u'was', 1.0, None, 0.0, 0.0), (u'unsatisfactory', 0.5, u'a', 0.0, 0.5), (u'because', 1, None, 0, 0), (u'of', 1, None, 0, 0), (u'how', 1.0, None, 0.0, 0.0), (u'large', 0.75, u'a', 0.25, 0.0), (u'it', 1, None, 0, 0), (u'was', 1.0, None, 0.0, 0.0), (u'my', 1, None, 0, 0), (u'son', 1.0, u'n', 0.0, 0.0), (u'exchanged', 1.0, u'v', 0.0, 0.0), (u'it', 1, None, 0, 0)]
+======================================================================
+[(u'was', 0.0, 0.0, u'unsatisfactory', 0.0, 0.5), (u'how', 0.0, 0.0, u'large', 0.25, 0.0)]
+
+
+---------------------------
+0.25 0.5
+======================================================================
+
+Item is not authentic. Kenneth Cole is all I wear and those shoes are not Kenneth Cole
+
+item n
+item n
+matched
+is v
+is v
+matched
+not r
+not r
+matched
+authentic a
+authentic a
+matched
+kenneth n
+kenneth n
+cole n
+cole n
+matched
+is v
+is v
+matched
+wear n
+wear n
+matched
+shoes n
+shoes n
+matched
+are v
+are v
+matched
+not r
+not r
+matched
+kenneth r
+kenneth r
+cole v
+cole v
+======================================================================
+[(u'item', 1.0, u'n', 0.0, 0.0), (u'is', 1.0, u'v', 0.0, 0.0), (u'not', 0.375, u'r', 0.0, 0.625), (u'authentic', 0.0, u'a', 0.4, 0.6), (u'kenneth', 1.0, None, 0.0, 0.0), (u'cole', 0.75, u'n', 0.0, 0.25), (u'is', 1.0, u'v', 0.0, 0.0), (u'all', 1, None, 0, 0), (u'i', 1, None, 0, 0), (u'wear', 1.0, u'n', 0.0, 0.0), (u'and', 1, None, 0, 0), (u'those', 1, None, 0, 0), (u'shoes', 1.0, u'n', 0.0, 0.0), (u'are', 1.0, u'v', 0.0, 0.0), (u'not', 0.375, u'r', 0.0, 0.625), (u'kenneth', 1.0, None, 0.0, 0.0), (u'cole', 1.0, None, 0.0, 0.0)]
+======================================================================
+[(u'is', 0.0, 0.0, u'not', 0.0, 0.625), (u'not', 0.0, 0.625, u'authentic', 0.4, 0.6), (u'kenneth', 0.0, 0.0, u'cole', 0.0, 0.25), (u'are', 0.0, 0.0, u'not', 0.0, 0.625)]
+
+
+---------------------------
+0.4 2.1
+======================================================================
+
+If you return items Amazon will charge you for shipping both ways whether the product was satisfactory or not.  Don't buy from Amazon
+
+return v
+return v
+matched
+items n
+items n
+matched
+amazon n
+amazon n
+matched
+will v
+will v
+matched
+charge v
+charge v
+matched
+shipping v
+shipping v
+matched
+ways n
+ways n
+matched
+product n
+product n
+matched
+was v
+was v
+satisfactory a
+satisfactory a
+matched
+not r
+not r
+matched
+dont a
+dont a
+buy n
+buy n
+matched
+amazon n
+amazon n
+matched
+======================================================================
+[(u'if', 1, None, 0, 0), (u'you', 1, None, 0, 0), (u'return', 1.0, u'v', 0.0, 0.0), (u'items', 1.0, u'n', 0.0, 0.0), (u'amazon', 0.875, u'n', 0.125, 0.0), (u'will', 1.0, u'v', 0.0, 0.0), (u'charge', 1.0, u'v', 0.0, 0.0), (u'you', 1, None, 0, 0), (u'for', 1, None, 0, 0), (u'shipping', 1.0, u'v', 0.0, 0.0), (u'both', 1, None, 0, 0), (u'ways', 1.0, u'n', 0.0, 0.0), (u'whether', 1, None, 0, 0), (u'the', 1, None, 0, 0), (u'product', 1.0, u'n', 0.0, 0.0), (u'was', 1.0, None, 0.0, 0.0), (u'satisfactory', 0.875, u'a', 0.125, 0.0), (u'or', 1, None, 0, 0), (u'not', 0.375, u'r', 0.0, 0.625), (u'dont', 1.0, None, 0.0, 0.0), (u'buy', 0.5, u'n', 0.5, 0.0), (u'from', 1, None, 0, 0), (u'amazon', 0.875, u'n', 0.125, 0.0)]
+======================================================================
+[(u'items', 0.0, 0.0, u'amazon', 0.125, 0.0), (u'was', 0.0, 0.0, u'satisfactory', 0.125, 0.0), (u'or', 0, 0, u'not', 0.0, 0.625), (u'dont', 0.0, 0.0, u'buy', 0.5, 0.0), (u'from', 0, 0, u'amazon', 0.125, 0.0)]
+
+
+---------------------------
+0.875 0.625
+======================================================================
+
+I'M JUST NOT TOO CRAZY ABOUT THIS THING. DOESN'T QUITE FIT RIGHT OR LOOK RIGHT...AT LEAST I ONLY PAID 5 BUCKS..
+
+im r
+im r
+just r
+just r
+matched
+not r
+not r
+matched
+too r
+too r
+matched
+crazy a
+crazy a
+matched
+thing n
+thing n
+matched
+doesnt v
+doesnt v
+quite r
+quite r
+matched
+fit a
+fit a
+matched
+right n
+right n
+matched
+look v
+look v
+matched
+rightat n
+rightat n
+least a
+least a
+matched
+only r
+only r
+matched
+paid v
+paid v
+matched
+bucks n
+bucks n
+matched
+======================================================================
+[(u'im', 1.0, None, 0.0, 0.0), (u'just', 0.875, u'r', 0.125, 0.0), (u'not', 0.375, u'r', 0.0, 0.625), (u'too', 0.625, u'r', 0.125, 0.25), (u'crazy', 0.375, u'a', 0.5, 0.125), (u'about', 1, None, 0, 0), (u'this', 1, None, 0, 0), (u'thing', 1.0, u'n', 0.0, 0.0), (u'doesnt', 1.0, None, 0.0, 0.0), (u'quite', 0.5, u'r', 0.5, 0.0), (u'fit', 0.5, u'a', 0.5, 0.0), (u'right', 1.0, u'n', 0.0, 0.0), (u'or', 1, None, 0, 0), (u'look', 1.0, u'v', 0.0, 0.0), (u'rightat', 1.0, None, 0.0, 0.0), (u'least', 1.0, u'a', 0.0, 0.0), (u'i', 1, None, 0, 0), (u'only', 0.75, u'r', 0.125, 0.125), (u'paid', 1.0, u'v', 0.0, 0.0), (u'5', 1, None, 0, 0), (u'bucks', 1.0, u'n', 0.0, 0.0)]
+======================================================================
+[(u'im', 0.0, 0.0, u'just', 0.125, 0.0), (u'just', 0.125, 0.0, u'not', 0.0, 0.625), (u'not', 0.0, 0.625, u'too', 0.125, 0.25), (u'too', 0.125, 0.25, u'crazy', 0.5, 0.125), (u'doesnt', 0.0, 0.0, u'quite', 0.5, 0.0), (u'quite', 0.5, 0.0, u'fit', 0.5, 0.0), (u'i', 0, 0, u'only', 0.125, 0.125)]
+
+
+---------------------------
+2.175 1.375
+****************************************************************************
+60.0 78.0
+****************************************************************************
+44.0 63.0
+****************************************************************************
+0.737588652482
