@@ -250,8 +250,8 @@ def cosine_lesk(context_sentence, ambiguous_word, \
             signature = [porter.stem(i) for i in signature]
         scores.append((cos_sim(context_sentence, " ".join(signature)), ss))
         
-        if not nbest:
-            return sorted(scores, reverse=True)[0][1]
-        else:
-            return [(j,i) for i,j in sorted(scores, reverse=True)]
+    if not nbest:
+        return sorted(scores, reverse=True)[0][1]
+    else:
+        return [(j,i) for i,j in sorted(scores, reverse=True)]
 

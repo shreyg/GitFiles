@@ -216,7 +216,7 @@ if __name__ == '__main__':
     #   u"HTML entities &amp; other Web oddities can be an &aacute;cute <em class='grumpy'>pain</em> >:(",
     #    u"It's perhaps noteworthy that phone numbers like +1 (800) 123-4567, (800) 123-4567, and 123-4567 are treated as words despite their whitespace."
     #    )
-	tree_pos = ET.parse("C:\\Users\\notebook\\Desktop\\Python\\pos.xml")
+	tree_pos = ET.parse("C:\\Users\\notebook\\Desktop\\Python\\dummy_runs.xml")
 	root_pos = tree_pos.getroot()
 	for child in root_pos:
 		for r1 in child:
@@ -224,7 +224,7 @@ if __name__ == '__main__':
 				print "======================================================================"
 				print r1.text
 				tokenized = tok.tokenize(r1.text)
-                print "\n".join(tokenized)
+                print tokenized
     #for s in samples:
     #    print "======================================================================"
     #    print s

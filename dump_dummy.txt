@@ -1,0 +1,736 @@
+(0.5, 0.125)
+======================================================================
+
+The smell is slightly good. 
+
+the DT
+None
+the None
+smell NN
+[(Synset('smell.v.02'), 0.38138503569823684), (Synset('smell.v.03'), 0.28603877677367767), (Synset('smell.v.05'), 0.152832143980174), (Synset('smell.n.05'), 0.09376144618769908), (Synset('smack.v.02'), 0.08813052984784633), (Synset('spirit.n.02'), 0.05335705285122081), (Synset('smell.n.04'), 0.05198752449100363), (Synset('smell.n.01'), 0.041977548016111345), (Synset('olfactory_property.n.01'), 0.040655781409087086), (Synset('smell.v.01'), 0.03663716527236558)]
+smell n
+matched
+smell n 882961
+is VBZ
+[(Synset('be.v.01'), 0.01894904818952784), (Synset('exist.v.01'), 0.0), (Synset('equal.v.01'), 0.0), (Synset('embody.v.02'), 0.0), (Synset('cost.v.01'), 0.0), (Synset('constitute.v.01'), 0.0), (Synset('be.v.12'), 0.0), (Synset('be.v.11'), 0.0), (Synset('be.v.10'), 0.0), (Synset('be.v.08'), 0.0), (Synset('be.v.05'), 0.0), (Synset('be.v.03'), 0.0), (Synset('be.v.02'), 0.0)]
+is v
+matched
+is v 2604760
+slightly RB
+[(Synset('slightly.r.01'), 0.0), (Synset('slenderly.r.01'), 0.0)]
+slightly r
+matched
+slightly r 36291
+good JJ
+[(Synset('good.n.01'), 0.33806170189140655), (Synset('good.a.01'), 0.2947701819286368), (Synset('commodity.n.01'), 0.29319773580418684), (Synset('good.s.09'), 0.27386127875258304), (Synset('good.s.19'), 0.21693045781865616), (Synset('good.s.06'), 0.20459830184114206), (Synset('good.s.13'), 0.18786728732554484), (Synset('good.s.15'), 0.18650096164806276), (Synset('good.n.03'), 0.18070158058105024), (Synset('good.s.20'), 0.17541160386140586), (Synset('good.s.16'), 0.16903085094570328), (Synset('good.s.21'), 0.1632993161855452), (Synset('full.s.06'), 0.15811388300841897), (Synset('dependable.s.04'), 0.1556997888323046), (Synset('good.s.17'), 0.1538967528127731), (Synset('good.n.02'), 0.12677313820927746), (Synset('good.s.07'), 0.12524485821702988), (Synset('dear.s.02'), 0.10690449676496974), (Synset('estimable.s.02'), 0.09759000729485333), (Synset('beneficial.s.01'), 0.09589266029707681), (Synset('good.a.03'), 0.09325048082403138), (Synset('effective.s.04'), 0.09325048082403138), (Synset('good.s.12'), 0.08489527199560178), (Synset('adept.s.01'), 0.07532435771547094), (Synset('good.s.18'), 0.07207499701564471), (Synset('thoroughly.r.02'), 0.056011203361120386), (Synset('well.r.01'), 0.03255153835084638)]
+good a
+matched
+good a 1123148
+. .
+None
+. None
+======================================================================
+[(u'the', 1.0, None, 0.0, 0.0), (u'smell', 1.0, u'n', 0.0, 0.0), (u'is', 0.625, u'v', 0.25, 0.125), (u'slightly', 1.0, u'r', 0.0, 0.0), (u'good', 0.25, u'a', 0.75, 0.0), (u'.', 1.0, None, 0.0, 0.0)]
+======================================================================
+[(u'slightly', 0.0, 0.0, u'good', 0.75, 0.0)]
+
+
+---------------------------
+0.375 0.0
+======================================================================
+
+Her dress is extremely good.
+
+her PRP$
+None
+her None
+dress NN
+[(Synset('dress.v.01'), 0.3546634510659543), (Synset('dress.v.04'), 0.29999999999999993), (Synset('full-dress.s.01'), 0.2290393337255473), (Synset('dress.v.03'), 0.22360679774997896), (Synset('dress.v.10'), 0.21081851067789195), (Synset('dress.s.02'), 0.18752289237539815), (Synset('dress.v.07'), 0.16903085094570328), (Synset('dress.v.13'), 0.15811388300841897), (Synset('dress.v.16'), 0.15339299776947407), (Synset('dress.v.09'), 0.15118578920369088), (Synset('dress.v.14'), 0.1363988678940947), (Synset('dress.v.15'), 0.13483997249264842), (Synset('dress.v.06'), 0.13483997249264842), (Synset('preen.v.03'), 0.13219579477176951), (Synset('dress.v.02'), 0.12510864843424485), (Synset('attire.n.01'), 0.12403473458920847), (Synset('dress.n.01'), 0.12146644952683738), (Synset('snip.v.02'), 0.1092716729416306), (Synset('apparel.n.01'), 0.1076763804116331), (Synset('dress.v.12'), 0.04032389192727559), (Synset('trim.v.06'), 0.036155076303109365)]
+dress n
+matched
+dress n 2756098
+is VBZ
+[(Synset('be.v.01'), 0.01894904818952784), (Synset('exist.v.01'), 0.0), (Synset('equal.v.01'), 0.0), (Synset('embody.v.02'), 0.0), (Synset('cost.v.01'), 0.0), (Synset('constitute.v.01'), 0.0), (Synset('be.v.12'), 0.0), (Synset('be.v.11'), 0.0), (Synset('be.v.10'), 0.0), (Synset('be.v.08'), 0.0), (Synset('be.v.05'), 0.0), (Synset('be.v.03'), 0.0), (Synset('be.v.02'), 0.0)]
+is v
+matched
+is v 2604760
+extremely RB
+[(Synset('highly.r.01'), 0.0), (Synset('extremely.r.02'), 0.0)]
+extremely r
+matched
+extremely r 89408
+good JJ
+[(Synset('good.n.01'), 0.33806170189140655), (Synset('good.a.01'), 0.3174448113077627), (Synset('commodity.n.01'), 0.29319773580418684), (Synset('good.s.09'), 0.27386127875258304), (Synset('good.s.19'), 0.21693045781865616), (Synset('good.s.06'), 0.20459830184114206), (Synset('good.s.13'), 0.18786728732554484), (Synset('good.s.15'), 0.18650096164806276), (Synset('good.n.03'), 0.18070158058105024), (Synset('good.s.20'), 0.17541160386140586), (Synset('good.s.16'), 0.16903085094570328), (Synset('good.s.21'), 0.1632993161855452), (Synset('full.s.06'), 0.15811388300841897), (Synset('dependable.s.04'), 0.1556997888323046), (Synset('good.s.17'), 0.1538967528127731), (Synset('good.n.02'), 0.12677313820927746), (Synset('good.s.07'), 0.12524485821702988), (Synset('dear.s.02'), 0.10690449676496974), (Synset('estimable.s.02'), 0.09759000729485333), (Synset('beneficial.s.01'), 0.09589266029707681), (Synset('good.a.03'), 0.09325048082403138), (Synset('effective.s.04'), 0.09325048082403138), (Synset('good.s.12'), 0.08489527199560178), (Synset('adept.s.01'), 0.07532435771547094), (Synset('good.s.18'), 0.07207499701564471), (Synset('thoroughly.r.02'), 0.056011203361120386), (Synset('well.r.01'), 0.03255153835084638)]
+good a
+matched
+good a 1123148
+. .
+None
+. None
+======================================================================
+[(u'her', 1.0, None, 0.0, 0.0), (u'dress', 0.875, u'n', 0.0, 0.125), (u'is', 0.625, u'v', 0.25, 0.125), (u'extremely', 0.375, u'r', 0.625, 0.0), (u'good', 0.25, u'a', 0.75, 0.0), (u'.', 1.0, None, 0.0, 0.0)]
+======================================================================
+[(u'her', 0.0, 0.0, u'dress', 0.0, 0.125), (u'is', 0.25, 0.125, u'extremely', 0.625, 0.0), (u'extremely', 0.625, 0.0, u'good', 0.75, 0.0)]
+
+
+---------------------------
+1.8875 0.25
+======================================================================
+
+The weather is slightly bad.
+
+the DT
+None
+the None
+weather NN
+[(Synset('weather.v.02'), 0.10540925533894598), (Synset('weather.v.03'), 0.09999999999999998), (Synset('weather.n.01'), 0.08804509063256237), (Synset('weather.v.04'), 0.07231015260621873), (Synset('weather.v.01'), 0.06523280730534423), (Synset('upwind.s.01'), 0.062017367294604234)]
+weather n
+matched
+weather n 11524662
+is VBZ
+[(Synset('exist.v.01'), 0.0), (Synset('equal.v.01'), 0.0), (Synset('embody.v.02'), 0.0), (Synset('cost.v.01'), 0.0), (Synset('constitute.v.01'), 0.0), (Synset('be.v.12'), 0.0), (Synset('be.v.11'), 0.0), (Synset('be.v.10'), 0.0), (Synset('be.v.08'), 0.0), (Synset('be.v.05'), 0.0), (Synset('be.v.03'), 0.0), (Synset('be.v.02'), 0.0), (Synset('be.v.01'), 0.0)]
+is v
+matched
+is v 2603699
+slightly RB
+[(Synset('slightly.r.01'), 0.0), (Synset('slenderly.r.01'), 0.0)]
+slightly r
+matched
+slightly r 36291
+bad JJ
+[(Synset('bad.a.01'), 0.3601801351125985), (Synset('bad.s.02'), 0.3015113445777636), (Synset('bad.s.11'), 0.27975144247209416), (Synset('bad.s.10'), 0.21380899352993948), (Synset('bad.s.08'), 0.19069251784911842), (Synset('bad.s.07'), 0.14907119849998599), (Synset('bad.s.14'), 0.1363988678940947), (Synset('badly.r.06'), 0.12524485821702988), (Synset('badly.r.05'), 0.12403473458920844), (Synset('bad.s.13'), 0.1164445019479164), (Synset('bad.s.06'), 0.11180339887498948), (Synset('bad.s.12'), 0.10690449676496974), (Synset('bad.n.01'), 0.106735210044723), (Synset('bad.s.09'), 0.09999999999999998), (Synset('bad.s.03'), 0.08180128247238176), (Synset('bad.s.04'), 0.0769800358919501), (Synset('regretful.a.01'), 0.04016096644512494)]
+bad a
+matched
+bad a 1125429
+. .
+None
+. None
+======================================================================
+[(u'the', 1.0, None, 0.0, 0.0), (u'weather', 1.0, u'n', 0.0, 0.0), (u'is', 1.0, u'v', 0.0, 0.0), (u'slightly', 1.0, u'r', 0.0, 0.0), (u'bad', 0.375, u'a', 0.0, 0.625), (u'.', 1.0, None, 0.0, 0.0)]
+======================================================================
+[(u'slightly', 0.0, 0.0, u'bad', 0.0, 0.625)]
+
+
+---------------------------
+0.0 0.3125
+======================================================================
+
+The weather is extremely cold.
+
+the DT
+None
+the None
+weather NN
+[(Synset('weather.v.02'), 0.10540925533894598), (Synset('weather.v.03'), 0.09999999999999998), (Synset('weather.n.01'), 0.08804509063256237), (Synset('weather.v.04'), 0.07231015260621873), (Synset('weather.v.01'), 0.06523280730534423), (Synset('upwind.s.01'), 0.062017367294604234)]
+weather n
+matched
+weather n 11524662
+is VBZ
+[(Synset('exist.v.01'), 0.0), (Synset('equal.v.01'), 0.0), (Synset('embody.v.02'), 0.0), (Synset('cost.v.01'), 0.0), (Synset('constitute.v.01'), 0.0), (Synset('be.v.12'), 0.0), (Synset('be.v.11'), 0.0), (Synset('be.v.10'), 0.0), (Synset('be.v.08'), 0.0), (Synset('be.v.05'), 0.0), (Synset('be.v.03'), 0.0), (Synset('be.v.02'), 0.0), (Synset('be.v.01'), 0.0)]
+is v
+matched
+is v 2603699
+extremely RB
+[(Synset('extremely.r.02'), 0.05773502691896257), (Synset('highly.r.01'), 0.0)]
+extremely r
+matched
+extremely r 46299
+cold JJ
+[(Synset('coldness.n.03'), 0.2515773027133138), (Synset('cold.s.09'), 0.18353258709644943), (Synset('cold.n.03'), 0.18070158058105024), (Synset('cold.s.10'), 0.17177950029416048), (Synset('cold.s.13'), 0.16609095970747995), (Synset('cold.a.02'), 0.15070810779099847), (Synset('cold.s.03'), 0.14907119849998599), (Synset('cold.s.08'), 0.14704292441876154), (Synset('cold.a.01'), 0.12058216844617203), (Synset('cold.s.05'), 0.11744404390294069), (Synset('cold.n.01'), 0.1164445019479164), (Synset('cold.s.04'), 0.1126872339638022), (Synset('cold.s.11'), 0.11141720290623111), (Synset('cold.s.07'), 0.09589266029707681), (Synset('cold.s.12'), 0.053074489243427524), (Synset('cold.s.06'), 0.03849001794597505)]
+cold a
+matched
+cold a 1263971
+. .
+None
+. None
+======================================================================
+[(u'the', 1.0, None, 0.0, 0.0), (u'weather', 1.0, u'n', 0.0, 0.0), (u'is', 1.0, u'v', 0.0, 0.0), (u'extremely', 0.875, u'r', 0.0, 0.125), (u'cold', 0.375, u'a', 0.0, 0.625), (u'.', 1.0, None, 0.0, 0.0)]
+======================================================================
+[(u'is', 0.0, 0.0, u'extremely', 0.0, 0.125), (u'extremely', 0.0, 0.125, u'cold', 0.0, 0.625)]
+
+
+---------------------------
+0.0 0.96875
+======================================================================
+
+They were a little crooked but is still cool.
+
+they PRP
+None
+they None
+were VBD
+[(Synset('exist.v.01'), 0.0), (Synset('equal.v.01'), 0.0), (Synset('embody.v.02'), 0.0), (Synset('cost.v.01'), 0.0), (Synset('constitute.v.01'), 0.0), (Synset('be.v.12'), 0.0), (Synset('be.v.11'), 0.0), (Synset('be.v.10'), 0.0), (Synset('be.v.08'), 0.0), (Synset('be.v.05'), 0.0), (Synset('be.v.03'), 0.0), (Synset('be.v.02'), 0.0), (Synset('be.v.01'), 0.0)]
+were v
+matched
+were v 2603699
+a DT
+[(Synset('vitamin_a.n.01'), 0.0), (Synset('deoxyadenosine_monophosphate.n.01'), 0.0), (Synset('angstrom.n.01'), 0.0), (Synset('ampere.n.02'), 0.0), (Synset('adenine.n.01'), 0.0), (Synset('a.n.07'), 0.0), (Synset('a.n.06'), 0.0)]
+a None
+little JJ
+[(Synset('little.s.05'), 0.06030226891555273), (Synset('little.a.02'), 0.01563263498701806), (Synset('small.a.01'), 0.0), (Synset('short.a.03'), 0.0), (Synset('little.s.08'), 0.0), (Synset('little.s.07'), 0.0), (Synset('little.s.03'), 0.0), (Synset('little.r.01'), 0.0), (Synset('little.n.01'), 0.0), (Synset('fiddling.s.01'), 0.0)]
+little a
+matched
+little a 1455732
+crooked JJ
+[(Synset('crook.v.01'), 0.09196009797434058), (Synset('asymmetrical.s.02'), 0.08131156281817417), (Synset('crooked.a.01'), 0.0778498944161523), (Synset('crooked.a.02'), 0.03578281334822566), (Synset('hunched.s.01'), 0.027756369082668444)]
+crooked a
+matched
+crooked a 1961048
+but CC
+[(Synset('merely.r.01'), 0.0)]
+but None
+is VBZ
+[(Synset('exist.v.01'), 0.0), (Synset('equal.v.01'), 0.0), (Synset('embody.v.02'), 0.0), (Synset('cost.v.01'), 0.0), (Synset('constitute.v.01'), 0.0), (Synset('be.v.12'), 0.0), (Synset('be.v.11'), 0.0), (Synset('be.v.10'), 0.0), (Synset('be.v.08'), 0.0), (Synset('be.v.05'), 0.0), (Synset('be.v.03'), 0.0), (Synset('be.v.02'), 0.0), (Synset('be.v.01'), 0.0)]
+is v
+matched
+is v 2603699
+still RB
+[(Synset('still.a.05'), 0.18860838403857946), (Synset('hush.n.01'), 0.14484136487558028), (Synset('still.r.04'), 0.13081398803354571), (Synset('still.s.06'), 0.10514994558491723), (Synset('silent.s.01'), 0.08703882797784893), (Synset('still.v.03'), 0.07987230638308716), (Synset('even.r.03'), 0.07150969419341942), (Synset('still.v.04'), 0.06917144638660747), (Synset('inactive.s.10'), 0.05415303610738823), (Synset('still.r.01'), 0.0518785847899556), (Synset('placid.s.01'), 0.044822323490352804), (Synset('however.r.01'), 0.044822323490352804), (Synset('hush.v.02'), 0.040655781409087086), (Synset('calm.v.01'), 0.040291148201269014), (Synset('still.n.01'), 0.03942082639927218), (Synset('still.a.04'), 0.03176248588306703), (Synset('distillery.n.01'), 0.026046613053531162), (Synset('still.n.03'), 0.01210898699241207)]
+still r
+matched
+still r 467269
+cool JJ
+[(Synset('cool.v.03'), 0.21661214442955293), (Synset('cool.v.02'), 0.17739371879672478), (Synset('cool.a.01'), 0.14257453695652725), (Synset('cool.s.06'), 0.11844484241978359), (Synset('cool.v.01'), 0.07918075824648958), (Synset('cool.a.04'), 0.06986433292641678), (Synset('aplomb.n.01'), 0.061545745489666376), (Synset('cool.s.02'), 0.059005294323649496), (Synset('cool.n.01'), 0.054372724782703684), (Synset('cool.s.05'), 0.053300179088902604), (Synset('cool.a.03'), 0.033553079968086076)]
+cool a
+matched
+cool a 2529945
+. .
+None
+. None
+======================================================================
+[(u'they', 1.0, None, 0.0, 0.0), (u'were', 1.0, u'v', 0.0, 0.0), (u'a', 1.0, None, 0.0, 0.0), (u'little', 1.0, u'a', 0.0, 0.0), (u'crooked', 0.375, u'a', 0.0, 0.625), (u'but', 1.0, None, 0.0, 0.0), (u'is', 1.0, u'v', 0.0, 0.0), (u'still', 0.625, u'r', 0.0, 0.375), (u'cool', 0.625, u'a', 0.25, 0.125), (u'.', 1.0, None, 0.0, 0.0)]
+======================================================================
+[(u'little', 0.0, 0.0, u'crooked', 0.0, 0.625), (u'is', 0.0, 0.0, u'still', 0.0, 0.375), (u'still', 0.0, 0.375, u'cool', 0.25, 0.125)]
+
+
+---------------------------
+0.25 1.1875
+======================================================================
+
+Within a month,a bad valley formed in the middle of the mattress.
+
+within IN
+[(Synset('inside.r.02'), 0.05716619504750295)]
+within None
+a DT
+[(Synset('vitamin_a.n.01'), 0.0), (Synset('deoxyadenosine_monophosphate.n.01'), 0.0), (Synset('angstrom.n.01'), 0.0), (Synset('ampere.n.02'), 0.0), (Synset('adenine.n.01'), 0.0), (Synset('a.n.07'), 0.0), (Synset('a.n.06'), 0.0)]
+a None
+month NN
+[(Synset('month.n.02'), 0.17510947764599097), (Synset('calendar_month.n.01'), 0.13051769322946566)]
+month n
+matched
+month n 15206296
+, ,
+None
+, None
+a DT
+[(Synset('vitamin_a.n.01'), 0.0), (Synset('deoxyadenosine_monophosphate.n.01'), 0.0), (Synset('angstrom.n.01'), 0.0), (Synset('ampere.n.02'), 0.0), (Synset('adenine.n.01'), 0.0), (Synset('a.n.07'), 0.0), (Synset('a.n.06'), 0.0)]
+a None
+bad JJ
+[(Synset('bad.a.01'), 0.19533510401790358), (Synset('bad.s.02'), 0.16351748504193214), (Synset('bad.s.11'), 0.1517165212272521), (Synset('bad.s.10'), 0.11595420713048969), (Synset('bad.s.08'), 0.10341753799900383), (Synset('bad.s.07'), 0.08084520834544433), (Synset('bad.s.14'), 0.07397267214553091), (Synset('badly.r.06'), 0.06792356108113244), (Synset('badly.r.05'), 0.06726727939963123), (Synset('bad.s.13'), 0.06315089779506726), (Synset('bad.s.06'), 0.06063390625908324), (Synset('bad.s.12'), 0.057977103565244846), (Synset('bad.n.01'), 0.05788529495093047), (Synset('bad.s.09'), 0.05423261445466404), (Synset('bad.s.03'), 0.04436297414221747), (Synset('bad.s.04'), 0.0417482860723433), (Synset('regretful.a.01'), 0.02178034209345161)]
+bad a
+matched
+bad a 1125429
+valley NN
+[(Synset('valley.n.01'), 0.036986336072765455)]
+valley n
+matched
+valley n 9468604
+formed VBN
+[(Synset('form.v.01'), 0.11504474832710555), (Synset('form.v.07'), 0.06859943405700354), (Synset('form.v.03'), 0.06210700940445369), (Synset('shape.v.03'), 0.05084928361809215), (Synset('shape.v.02'), 0.039088155249705214), (Synset('formed.a.01'), 0.03742405942825599), (Synset('imprint.v.01'), 0.03212462831016178), (Synset('form.v.02'), 0.01657939400769678)]
+formed v
+matched
+formed v 2448185
+in IN
+[(Synset('indium.n.01'), 0.0), (Synset('indiana.n.01'), 0.0), (Synset('inch.n.01'), 0.0), (Synset('in.s.03'), 0.0), (Synset('in.s.02'), 0.0), (Synset('in.s.01'), 0.0), (Synset('in.r.01'), 0.0)]
+in None
+the DT
+None
+the None
+middle NN
+[(Synset('in-between.s.01'), 0.03429971702850177), (Synset('middle.v.01'), 0.0), (Synset('middle.n.04'), 0.0), (Synset('middle.n.03'), 0.0), (Synset('middle.n.02'), 0.0), (Synset('middle.a.04'), 0.0), (Synset('middle.a.03'), 0.0), (Synset('center.s.01'), 0.0), (Synset('center.n.01'), 0.0)]
+middle n
+matched
+middle n 15266685
+of IN
+None
+of None
+the DT
+None
+the None
+mattress NN
+[(Synset('mattress.n.01'), 0.03638034375544994)]
+mattress n
+matched
+mattress n 3731164
+. .
+None
+. None
+======================================================================
+[(u'within', 1.0, None, 0.0, 0.0), (u'a', 1.0, None, 0.0, 0.0), (u'month', 1.0, u'n', 0.0, 0.0), (u',', 1.0, None, 0.0, 0.0), (u'a', 1.0, None, 0.0, 0.0), (u'bad', 0.375, u'a', 0.0, 0.625), (u'valley', 1.0, u'n', 0.0, 0.0), (u'formed', 1.0, u'v', 0.0, 0.0), (u'in', 1.0, None, 0.0, 0.0), (u'the', 1.0, None, 0.0, 0.0), (u'middle', 1.0, u'n', 0.0, 0.0), (u'of', 1.0, None, 0.0, 0.0), (u'the', 1.0, None, 0.0, 0.0), (u'mattress', 1.0, u'n', 0.0, 0.0), (u'.', 1.0, None, 0.0, 0.0)]
+======================================================================
+[(u'a', 0.0, 0.0, u'bad', 0.0, 0.625)]
+
+
+---------------------------
+0.0 0.625
+======================================================================
+
+This soap's smell is interesting and the colour is interestingly good.
+
+this DT
+None
+this None
+soap's NN
+None
+soap's n
+smell NN
+[(Synset('smell.v.02'), 0.2279211529192759), (Synset('smell.v.03'), 0.1709408646894569), (Synset('smell.v.05'), 0.09133467545550861), (Synset('smell.n.05'), 0.056033181468052584), (Synset('smack.v.02'), 0.05266806531497233), (Synset('spirit.n.02'), 0.0318869380387732), (Synset('smell.n.04'), 0.031068488300060003), (Synset('smell.n.01'), 0.02508638316928225), (Synset('olfactory_property.n.01'), 0.024296476537493127), (Synset('smell.v.01'), 0.02189489404922193)]
+smell n
+matched
+smell n 882961
+is VBZ
+[(Synset('be.v.03'), 0.05369140952478793), (Synset('be.v.01'), 0.011324222257889888), (Synset('exist.v.01'), 0.0), (Synset('equal.v.01'), 0.0), (Synset('embody.v.02'), 0.0), (Synset('cost.v.01'), 0.0), (Synset('constitute.v.01'), 0.0), (Synset('be.v.12'), 0.0), (Synset('be.v.11'), 0.0), (Synset('be.v.10'), 0.0), (Synset('be.v.08'), 0.0), (Synset('be.v.05'), 0.0), (Synset('be.v.02'), 0.0)]
+is v
+matched
+is v 2655135
+interesting JJ
+[(Synset('matter_to.v.01'), 0.0), (Synset('interesting.a.01'), 0.0), (Synset('interest.v.01'), 0.0), (Synset('concern.v.02'), 0.0)]
+interesting a
+matched
+interesting a 1343918
+and CC
+None
+and None
+the DT
+None
+the None
+colour NN
+[(Synset('color.n.01'), 0.12434118282549846), (Synset('color.n.03'), 0.07796811755854505), (Synset('color.v.01'), 0.07259008777437409), (Synset('coloring_material.n.01'), 0.061313933948496574), (Synset('color.v.03'), 0.05572782125753529), (Synset('color.v.04'), 0.041239304942116126), (Synset('color.n.04'), 0.038475770298644046), (Synset('semblance.n.01'), 0.036711154910717615), (Synset('tinge.v.01'), 0.033149677206589796), (Synset('color.n.02'), 0.031280562354492725), (Synset('color.a.01'), 0.028490144114909487), (Synset('color.v.05'), 0.026462806201248162), (Synset('discolor.v.03'), 0.022118697760190438), (Synset('color.n.07'), 0.01626500121580889), (Synset('color.n.08'), 0.010279278535093247)]
+colour n
+matched
+colour n 4956594
+is VBZ
+[(Synset('be.v.03'), 0.05369140952478793), (Synset('be.v.01'), 0.011324222257889888), (Synset('exist.v.01'), 0.0), (Synset('equal.v.01'), 0.0), (Synset('embody.v.02'), 0.0), (Synset('cost.v.01'), 0.0), (Synset('constitute.v.01'), 0.0), (Synset('be.v.12'), 0.0), (Synset('be.v.11'), 0.0), (Synset('be.v.10'), 0.0), (Synset('be.v.08'), 0.0), (Synset('be.v.05'), 0.0), (Synset('be.v.02'), 0.0)]
+is v
+matched
+is v 2655135
+interestingly RB
+[(Synset('interestingly.r.01'), 0.0)]
+interestingly r
+matched
+interestingly r 214761
+good JJ
+[(Synset('good.n.01'), 0.20203050891044214), (Synset('good.a.01'), 0.1761588773099054), (Synset('commodity.n.01'), 0.17521916101261562), (Synset('good.s.09'), 0.1636634176769943), (Synset('good.s.19'), 0.12964074471043288), (Synset('good.s.06'), 0.12227087189088336), (Synset('good.s.13'), 0.11227217828476796), (Synset('good.s.15'), 0.11145564251507058), (Synset('good.n.03'), 0.10798984943120779), (Synset('good.s.20'), 0.10482848367219183), (Synset('good.s.16'), 0.10101525445522107), (Synset('good.s.21'), 0.09759000729485333), (Synset('full.s.06'), 0.09449111825230681), (Synset('dependable.s.04'), 0.09304842103984709), (Synset('good.s.17'), 0.09197090092274486), (Synset('good.n.02'), 0.07576144084141581), (Synset('good.s.07'), 0.07484811885651198), (Synset('dear.s.02'), 0.06388765649999399), (Synset('estimable.s.02'), 0.058321184351980436), (Synset('beneficial.s.01'), 0.05730682550612528), (Synset('good.a.03'), 0.05572782125753529), (Synset('effective.s.04'), 0.05572782125753529), (Synset('good.s.12'), 0.05073462894318411), (Synset('adept.s.01'), 0.04501491366063438), (Synset('good.s.18'), 0.0430730492253948), (Synset('thoroughly.r.02'), 0.03347309635022892), (Synset('well.r.01'), 0.01945326495738865)]
+good a
+matched
+good a 1123148
+. .
+None
+. None
+======================================================================
+[(u'this', 1.0, None, 0.0, 0.0), (u"soap's", 1.0, None, 0.0, 0.0), (u'smell', 1.0, u'n', 0.0, 0.0), (u'is', 1.0, u'v', 0.0, 0.0), (u'interesting', 0.625, u'a', 0.375, 0.0), (u'and', 1.0, None, 0.0, 0.0), (u'the', 1.0, None, 0.0, 0.0), (u'colour', 1.0, u'n', 0.0, 0.0), (u'is', 1.0, u'v', 0.0, 0.0), (u'interestingly', 1.0, u'r', 0.0, 0.0), (u'good', 0.25, u'a', 0.75, 0.0), (u'.', 1.0, None, 0.0, 0.0)]
+======================================================================
+[(u'is', 0.0, 0.0, u'interesting', 0.375, 0.0), (u'interestingly', 0.0, 0.0, u'good', 0.75, 0.0)]
+
+
+---------------------------
+1.125 0.0
+======================================================================
+
+The sideboard is small but it is able to contain a lot of stuff.
+
+the DT
+None
+the None
+sideboard NN
+[(Synset('sideboard.n.02'), 0.025649458802128853), (Synset('sideboard.n.01'), 0.021204723241999273), (Synset('buffet.n.01'), 0.017292861596651866)]
+sideboard n
+matched
+sideboard n 4214046
+is VBZ
+[(Synset('be.v.05'), 0.021926450482675733), (Synset('be.v.01'), 0.021185679930351788), (Synset('exist.v.01'), 0.0), (Synset('equal.v.01'), 0.0), (Synset('embody.v.02'), 0.0), (Synset('cost.v.01'), 0.0), (Synset('constitute.v.01'), 0.0), (Synset('be.v.12'), 0.0), (Synset('be.v.11'), 0.0), (Synset('be.v.10'), 0.0), (Synset('be.v.08'), 0.0), (Synset('be.v.03'), 0.0), (Synset('be.v.02'), 0.0)]
+is v
+matched
+is v 2749904
+small JJ
+[(Synset('minor.s.10'), 0.12909944487358055), (Synset('small.r.01'), 0.11470786693528087), (Synset('little.s.05'), 0.1), (Synset('little.s.07'), 0.08219949365267865), (Synset('little.s.03'), 0.062017367294604234), (Synset('modest.s.02'), 0.05812381937190964), (Synset('small.s.08'), 0.057353933467640436), (Synset('humble.s.01'), 0.05488212999484517), (Synset('small.a.01'), 0.05068030337996145), (Synset('belittled.s.01'), 0.046225016352102424), (Synset('small.n.01'), 0.041666666666666664), (Synset('small.s.04'), 0.04068942293855797), (Synset('small.n.02'), 0.03952847075210474)]
+small a
+matched
+small a 1415219
+but CC
+[(Synset('merely.r.01'), 0.0)]
+but None
+it PRP
+[(Synset('information_technology.n.01'), 0.0)]
+it None
+is VBZ
+[(Synset('be.v.05'), 0.021926450482675733), (Synset('be.v.01'), 0.021185679930351788), (Synset('exist.v.01'), 0.0), (Synset('equal.v.01'), 0.0), (Synset('embody.v.02'), 0.0), (Synset('cost.v.01'), 0.0), (Synset('constitute.v.01'), 0.0), (Synset('be.v.12'), 0.0), (Synset('be.v.11'), 0.0), (Synset('be.v.10'), 0.0), (Synset('be.v.08'), 0.0), (Synset('be.v.03'), 0.0), (Synset('be.v.02'), 0.0)]
+is v
+matched
+is v 2749904
+able JJ
+[(Synset('able.s.04'), 0.07142857142857142), (Synset('able.s.03'), 0.0), (Synset('able.s.02'), 0.0), (Synset('able.a.01'), 0.0)]
+able a
+matched
+able a 1017439
+to TO
+None
+to None
+contain VB
+[(Synset('contain.v.04'), 0.10425720702853739), (Synset('hold.v.11'), 0.062017367294604234), (Synset('incorporate.v.02'), 0.053916386601719206), (Synset('check.v.18'), 0.03125), (Synset('contain.v.05'), 0.027441064997422587), (Synset('control.v.02'), 0.01491374965679734)]
+contain v
+matched
+contain v 2747287
+a DT
+[(Synset('vitamin_a.n.01'), 0.0), (Synset('deoxyadenosine_monophosphate.n.01'), 0.0), (Synset('angstrom.n.01'), 0.0), (Synset('ampere.n.02'), 0.0), (Synset('adenine.n.01'), 0.0), (Synset('a.n.07'), 0.0), (Synset('a.n.06'), 0.0)]
+a None
+lot NN
+[(Synset('lot.n.02'), 0.09805806756909202), (Synset('draw.n.04'), 0.046225016352102424), (Synset('set.n.05'), 0.040291148201269014), (Synset('bunch.n.03'), 0.034020690871988585), (Synset('batch.n.02'), 0.031686212526223896), (Synset('lot.v.01'), 0.031008683647302117), (Synset('fortune.n.04'), 0.02676438637860946), (Synset('distribute.v.01'), 0.02341464528954235), (Synset('lot.n.07'), 0.008403658068160179)]
+lot n
+matched
+lot n 8674970
+of IN
+None
+of None
+stuff NN
+[(Synset('stuff.n.04'), 0.1143739277494535), (Synset('thrust.v.02'), 0.08333333333333333), (Synset('stuff.n.06'), 0.08333333333333333), (Synset('stuff.v.06'), 0.07905694150420949), (Synset('stuff.n.05'), 0.06629126073623882), (Synset('stuff.n.02'), 0.05360562674188974), (Synset('stuff.v.05'), 0.052414241836095915), (Synset('stuff.v.01'), 0.048112522432468816), (Synset('stuff.v.03'), 0.04564354645876384), (Synset('stuff.n.07'), 0.043852900965351466), (Synset('farce.v.01'), 0.03434014098717226), (Synset('stuff.n.03'), 0.026064301757134346), (Synset('gorge.v.01'), 0.022183912735402846), (Synset('material.n.01'), 0.021339479988815996)]
+stuff n
+matched
+stuff n 6609909
+. .
+None
+. None
+======================================================================
+[(u'the', 1.0, None, 0.0, 0.0), (u'sideboard', 1.0, u'n', 0.0, 0.0), (u'is', 1.0, u'v', 0.0, 0.0), (u'small', 0.875, u'a', 0.0, 0.125), (u'but', 1.0, None, 0.0, 0.0), (u'it', 1.0, None, 0.0, 0.0), (u'is', 1.0, u'v', 0.0, 0.0), (u'able', 0.75, u'a', 0.25, 0.0), (u'to', 1.0, None, 0.0, 0.0), (u'contain', 0.75, u'v', 0.25, 0.0), (u'a', 1.0, None, 0.0, 0.0), (u'lot', 1.0, u'n', 0.0, 0.0), (u'of', 1.0, None, 0.0, 0.0), (u'stuff', 0.75, u'n', 0.0, 0.25), (u'.', 1.0, None, 0.0, 0.0)]
+======================================================================
+[(u'is', 0.0, 0.0, u'small', 0.0, 0.125), (u'is', 0.0, 0.0, u'able', 0.25, 0.0), (u'to', 0.0, 0.0, u'contain', 0.25, 0.0), (u'of', 0.0, 0.0, u'stuff', 0.0, 0.25)]
+
+
+---------------------------
+0.5 0.375
+======================================================================
+
+The small dimensions of this decoder allow to move it easily.
+
+the DT
+None
+the None
+small JJ
+[(Synset('minor.s.10'), 0.1556997888323046), (Synset('small.r.01'), 0.13834289277321493), (Synset('little.s.05'), 0.12060453783110546), (Synset('little.s.07'), 0.09913631941932195), (Synset('little.s.03'), 0.07479575920067658), (Synset('modest.s.02'), 0.07009996372327816), (Synset('small.s.08'), 0.06917144638660747), (Synset('humble.s.01'), 0.06619033923214952), (Synset('small.a.01'), 0.06112274566280462), (Synset('belittled.s.01'), 0.05574946733380605), (Synset('small.n.01'), 0.050251890762960605), (Synset('small.s.04'), 0.04907329048119165), (Synset('small.n.02'), 0.04767312946227962)]
+small a
+matched
+small a 1415219
+dimensions NNS
+[(Synset('proportion.n.02'), 0.0), (Synset('property.n.04'), 0.0), (Synset('dimension.v.02'), 0.0), (Synset('dimension.v.01'), 0.0), (Synset('dimension.n.03'), 0.0), (Synset('dimension.n.01'), 0.0)]
+dimensions n
+matched
+dimensions n 5091194
+of IN
+None
+of None
+this DT
+None
+this None
+decoder NN
+[(Synset('decoder.n.02'), 0.0), (Synset('decoder.n.01'), 0.0)]
+decoder n
+matched
+decoder n 3169063
+allow VBP
+[(Synset('allow.v.03'), 0.17739371879672478), (Synset('admit.v.05'), 0.1049727762162956), (Synset('permit.v.01'), 0.1026654004678691), (Synset('allow.v.09'), 0.08283153665625823), (Synset('leave.v.06'), 0.07033799484533299), (Synset('allow.v.10'), 0.059385568684867183), (Synset('allow.v.06'), 0.041125806057633246), (Synset('let.v.01'), 0.03732616739705696), (Synset('give_up.v.11'), 0.03413943709994594), (Synset('allow.v.04'), 0.02421797398482414)]
+allow v
+matched
+allow v 2255462
+to TO
+None
+to None
+move VB
+[(Synset('be_active.v.01'), 0.12573892269238632), (Synset('move.v.11'), 0.12087344460380704), (Synset('move.v.04'), 0.1180809557152266), (Synset('move.v.12'), 0.11197850219117086), (Synset('move.n.01'), 0.09642365197998375), (Synset('motivate.v.01'), 0.08206099398622181), (Synset('move.v.03'), 0.07324702503584762), (Synset('travel.v.01'), 0.06913432728203665), (Synset('move.v.14'), 0.059708143402653215), (Synset('go.v.02'), 0.05623215571155333), (Synset('move.n.02'), 0.053509610854776686), (Synset('move.v.07'), 0.05268633697738322), (Synset('affect.v.05'), 0.048126449925142215), (Synset('move.v.02'), 0.04500921376651078), (Synset('move.v.13'), 0.0422200330920749), (Synset('motion.n.06'), 0.03900629514886046), (Synset('act.v.01'), 0.037820467924447446), (Synset('motion.n.03'), 0.03610202407159215), (Synset('move.v.15'), 0.03413943709994594), (Synset('move.v.16'), 0.026754805427388343), (Synset('move.n.05'), 0.022107884414269093)]
+move v
+matched
+move v 14549
+it PRP
+[(Synset('information_technology.n.01'), 0.0)]
+it None
+easily RB
+[(Synset('well.r.03'), 0.0), (Synset('easily.r.02'), 0.0), (Synset('easily.r.01'), 0.0)]
+easily r
+matched
+easily r 12531
+. .
+None
+. None
+======================================================================
+[(u'the', 1.0, None, 0.0, 0.0), (u'small', 0.875, u'a', 0.0, 0.125), (u'dimensions', 1.0, u'n', 0.0, 0.0), (u'of', 1.0, None, 0.0, 0.0), (u'this', 1.0, None, 0.0, 0.0), (u'decoder', 1.0, u'n', 0.0, 0.0), (u'allow', 0.625, u'v', 0.375, 0.0), (u'to', 1.0, None, 0.0, 0.0), (u'move', 1.0, u'v', 0.0, 0.0), (u'it', 1.0, None, 0.0, 0.0), (u'easily', 0.5, u'r', 0.5, 0.0), (u'.', 1.0, None, 0.0, 0.0)]
+======================================================================
+[(u'the', 0.0, 0.0, u'small', 0.0, 0.125), (u'decoder', 0.0, 0.0, u'allow', 0.375, 0.0), (u'it', 0.0, 0.0, u'easily', 0.5, 0.0)]
+
+
+---------------------------
+0.875 0.125
+======================================================================
+
+This is surely bad.
+
+this DT
+None
+this None
+is VBZ
+[(Synset('exist.v.01'), 0.0), (Synset('equal.v.01'), 0.0), (Synset('embody.v.02'), 0.0), (Synset('cost.v.01'), 0.0), (Synset('constitute.v.01'), 0.0), (Synset('be.v.12'), 0.0), (Synset('be.v.11'), 0.0), (Synset('be.v.10'), 0.0), (Synset('be.v.08'), 0.0), (Synset('be.v.05'), 0.0), (Synset('be.v.03'), 0.0), (Synset('be.v.02'), 0.0), (Synset('be.v.01'), 0.0)]
+is v
+matched
+is v 2603699
+surely RB
+[(Synset('surely.r.01'), 0.0)]
+surely r
+matched
+surely r 144722
+bad JJ
+[(Synset('bad.a.01'), 0.4026936331284146), (Synset('bad.s.02'), 0.337099931231621), (Synset('bad.s.11'), 0.3127716210856122), (Synset('bad.s.10'), 0.23904572186687872), (Synset('bad.s.08'), 0.21320071635561041), (Synset('bad.s.07'), 0.16666666666666666), (Synset('bad.s.14'), 0.15249857033260467), (Synset('badly.r.06'), 0.14002800840280097), (Synset('badly.r.05'), 0.13867504905630726), (Synset('bad.s.13'), 0.13018891098082389), (Synset('bad.s.06'), 0.125), (Synset('bad.s.12'), 0.11952286093343936), (Synset('bad.n.01'), 0.11933359262635951), (Synset('bad.s.09'), 0.11180339887498948), (Synset('bad.s.03'), 0.09145661412745384), (Synset('bad.s.04'), 0.08606629658238704), (Synset('regretful.a.01'), 0.04490132550669373)]
+bad a
+matched
+bad a 1125429
+. .
+None
+. None
+======================================================================
+[(u'this', 1.0, None, 0.0, 0.0), (u'is', 1.0, u'v', 0.0, 0.0), (u'surely', 0.75, u'r', 0.25, 0.0), (u'bad', 0.375, u'a', 0.0, 0.625), (u'.', 1.0, None, 0.0, 0.0)]
+======================================================================
+[(u'is', 0.0, 0.0, u'surely', 0.25, 0.0), (u'surely', 0.25, 0.0, u'bad', 0.0, 0.625)]
+
+
+---------------------------
+0.5 0.625
+======================================================================
+
+This is not good.
+
+this DT
+None
+this None
+is VBZ
+[(Synset('be.v.01'), 0.021185679930351788), (Synset('exist.v.01'), 0.0), (Synset('equal.v.01'), 0.0), (Synset('embody.v.02'), 0.0), (Synset('cost.v.01'), 0.0), (Synset('constitute.v.01'), 0.0), (Synset('be.v.12'), 0.0), (Synset('be.v.11'), 0.0), (Synset('be.v.10'), 0.0), (Synset('be.v.08'), 0.0), (Synset('be.v.05'), 0.0), (Synset('be.v.03'), 0.0), (Synset('be.v.02'), 0.0)]
+is v
+matched
+is v 2604760
+not RB
+[(Synset('not.r.01'), 0.0)]
+not r
+matched
+not r 24073
+good JJ
+[(Synset('good.n.01'), 0.3779644730092272), (Synset('good.a.01'), 0.32956308226620595), (Synset('commodity.n.01'), 0.3278050340535929), (Synset('good.s.09'), 0.3061862178478973), (Synset('good.s.19'), 0.24253562503633297), (Synset('good.s.06'), 0.228747855498907), (Synset('good.s.13'), 0.21004201260420147), (Synset('good.s.15'), 0.20851441405707477), (Synset('good.n.03'), 0.20203050891044214), (Synset('good.s.20'), 0.19611613513818404), (Synset('good.s.16'), 0.1889822365046136), (Synset('good.s.21'), 0.18257418583505536), (Synset('full.s.06'), 0.1767766952966369), (Synset('dependable.s.04'), 0.17407765595569785), (Synset('good.s.17'), 0.1720618004029213), (Synset('good.n.02'), 0.1417366773784602), (Synset('good.s.07'), 0.14002800840280097), (Synset('dear.s.02'), 0.11952286093343936), (Synset('estimable.s.02'), 0.1091089451179962), (Synset('beneficial.s.01'), 0.10721125348377948), (Synset('good.a.03'), 0.10425720702853739), (Synset('effective.s.04'), 0.10425720702853739), (Synset('good.s.12'), 0.0949157995752499), (Synset('adept.s.01'), 0.0842151921066519), (Synset('good.s.18'), 0.08058229640253803), (Synset('thoroughly.r.02'), 0.06262242910851495), (Synset('well.r.01'), 0.03639372626234195)]
+good a
+matched
+good a 1123148
+. .
+None
+. None
+======================================================================
+[(u'this', 1.0, None, 0.0, 0.0), (u'is', 0.625, u'v', 0.25, 0.125), (u'not', 0.375, u'r', 0.0, 0.625), (u'good', 0.25, u'a', 0.75, 0.0), (u'.', 1.0, None, 0.0, 0.0)]
+======================================================================
+[(u'is', 0.25, 0.125, u'not', 0.0, 0.625), (u'not', 0.0, 0.625, u'good', 0.75, 0.0)]
+
+
+---------------------------
+0.375 1.375
+======================================================================
+
+This is hardly bad.
+
+this DT
+None
+this None
+is VBZ
+[(Synset('exist.v.01'), 0.0), (Synset('equal.v.01'), 0.0), (Synset('embody.v.02'), 0.0), (Synset('cost.v.01'), 0.0), (Synset('constitute.v.01'), 0.0), (Synset('be.v.12'), 0.0), (Synset('be.v.11'), 0.0), (Synset('be.v.10'), 0.0), (Synset('be.v.08'), 0.0), (Synset('be.v.05'), 0.0), (Synset('be.v.03'), 0.0), (Synset('be.v.02'), 0.0), (Synset('be.v.01'), 0.0)]
+is v
+matched
+is v 2603699
+hardly RB
+[(Synset('hardly.r.02'), 0.0), (Synset('barely.r.01'), 0.0)]
+hardly r
+matched
+hardly r 3093
+bad JJ
+[(Synset('bad.a.01'), 0.4026936331284146), (Synset('bad.s.02'), 0.337099931231621), (Synset('bad.s.11'), 0.3127716210856122), (Synset('bad.s.10'), 0.23904572186687872), (Synset('bad.s.08'), 0.21320071635561041), (Synset('bad.s.07'), 0.16666666666666666), (Synset('bad.s.14'), 0.15249857033260467), (Synset('badly.r.06'), 0.14002800840280097), (Synset('badly.r.05'), 0.13867504905630726), (Synset('bad.s.13'), 0.13018891098082389), (Synset('bad.s.06'), 0.125), (Synset('bad.s.12'), 0.11952286093343936), (Synset('bad.n.01'), 0.11933359262635951), (Synset('bad.s.09'), 0.11180339887498948), (Synset('bad.s.03'), 0.09145661412745384), (Synset('bad.s.04'), 0.08606629658238704), (Synset('regretful.a.01'), 0.04490132550669373)]
+bad a
+matched
+bad a 1125429
+. .
+None
+. None
+======================================================================
+[(u'this', 1.0, None, 0.0, 0.0), (u'is', 1.0, u'v', 0.0, 0.0), (u'hardly', 0.75, u'r', 0.0, 0.25), (u'bad', 0.375, u'a', 0.0, 0.625), (u'.', 1.0, None, 0.0, 0.0)]
+======================================================================
+[(u'is', 0.0, 0.0, u'hardly', 0.0, 0.25), (u'hardly', 0.0, 0.25, u'bad', 0.0, 0.625)]
+
+
+---------------------------
+0.0 -0.0625
+======================================================================
+
+This is hardly good.
+
+this DT
+None
+this None
+is VBZ
+[(Synset('be.v.01'), 0.021185679930351788), (Synset('exist.v.01'), 0.0), (Synset('equal.v.01'), 0.0), (Synset('embody.v.02'), 0.0), (Synset('cost.v.01'), 0.0), (Synset('constitute.v.01'), 0.0), (Synset('be.v.12'), 0.0), (Synset('be.v.11'), 0.0), (Synset('be.v.10'), 0.0), (Synset('be.v.08'), 0.0), (Synset('be.v.05'), 0.0), (Synset('be.v.03'), 0.0), (Synset('be.v.02'), 0.0)]
+is v
+matched
+is v 2604760
+hardly RB
+[(Synset('hardly.r.02'), 0.0), (Synset('barely.r.01'), 0.0)]
+hardly r
+matched
+hardly r 3093
+good JJ
+[(Synset('good.n.01'), 0.3779644730092272), (Synset('good.a.01'), 0.32956308226620595), (Synset('commodity.n.01'), 0.3278050340535929), (Synset('good.s.09'), 0.3061862178478973), (Synset('good.s.19'), 0.24253562503633297), (Synset('good.s.06'), 0.228747855498907), (Synset('good.s.13'), 0.21004201260420147), (Synset('good.s.15'), 0.20851441405707477), (Synset('good.n.03'), 0.20203050891044214), (Synset('good.s.20'), 0.19611613513818404), (Synset('good.s.16'), 0.1889822365046136), (Synset('good.s.21'), 0.18257418583505536), (Synset('full.s.06'), 0.1767766952966369), (Synset('dependable.s.04'), 0.17407765595569785), (Synset('good.s.17'), 0.1720618004029213), (Synset('good.n.02'), 0.1417366773784602), (Synset('good.s.07'), 0.14002800840280097), (Synset('dear.s.02'), 0.11952286093343936), (Synset('estimable.s.02'), 0.1091089451179962), (Synset('beneficial.s.01'), 0.10721125348377948), (Synset('good.a.03'), 0.10425720702853739), (Synset('effective.s.04'), 0.10425720702853739), (Synset('good.s.12'), 0.0949157995752499), (Synset('adept.s.01'), 0.0842151921066519), (Synset('good.s.18'), 0.08058229640253803), (Synset('thoroughly.r.02'), 0.06262242910851495), (Synset('well.r.01'), 0.03639372626234195)]
+good a
+matched
+good a 1123148
+. .
+None
+. None
+======================================================================
+[(u'this', 1.0, None, 0.0, 0.0), (u'is', 0.625, u'v', 0.25, 0.125), (u'hardly', 0.75, u'r', 0.0, 0.25), (u'good', 0.25, u'a', 0.75, 0.0), (u'.', 1.0, None, 0.0, 0.0)]
+======================================================================
+[(u'is', 0.25, 0.125, u'hardly', 0.0, 0.25), (u'hardly', 0.0, 0.25, u'good', 0.75, 0.0)]
+
+
+---------------------------
+-0.125 0.375
+======================================================================
+
+Nobody gives a good performance in this movie.
+
+nobody NN
+[(Synset('cipher.n.04'), 0.0)]
+nobody n
+matched
+nobody n 9923418
+gives VBZ
+[(Synset('give.v.15'), 0.19695964928958382), (Synset('give.v.10'), 0.19695964928958382), (Synset('give.v.08'), 0.1917412472118426), (Synset('give.v.14'), 0.17677669529663687), (Synset('give.v.21'), 0.17149858514250882), (Synset('give.v.42'), 0.14744195615489714), (Synset('give.v.36'), 0.1360827634879543), (Synset('give.v.35'), 0.1270001270001905), (Synset('give.v.41'), 0.12499999999999997), (Synset('afford.v.04'), 0.12499999999999997), (Synset('give.v.40'), 0.12309149097933272), (Synset('give.v.38'), 0.11933359262635951), (Synset('feed.v.02'), 0.11933359262635951), (Synset('sacrifice.v.01'), 0.11470786693528087), (Synset('contribute.v.02'), 0.11180339887498948), (Synset('give.v.28'), 0.10910894511799617), (Synset('give.v.32'), 0.10540925533894596), (Synset('impart.v.01'), 0.09534625892455924), (Synset('pass.v.05'), 0.0944911182523068), (Synset('give.v.18'), 0.09411837077072378), (Synset('give.v.05'), 0.08964214570007951), (Synset('give.v.04'), 0.08908708063747478), (Synset('grant.v.05'), 0.08838834764831843), (Synset('give.v.03'), 0.0827605888602368), (Synset('give.v.31'), 0.07905694150420949), (Synset('give.v.19'), 0.07905694150420949), (Synset('hold.v.03'), 0.07856742013183861), (Synset('establish.v.05'), 0.07372097807744857), (Synset('give.v.33'), 0.07293249574894727), (Synset('give.v.34'), 0.07216878364870323), (Synset('give.v.29'), 0.07216878364870323), (Synset('give.v.27'), 0.06835859270246632), (Synset('give.v.37'), 0.06681531047810609), (Synset('collapse.v.01'), 0.06274558051381586), (Synset('give.v.44'), 0.062499999999999986), (Synset('render.v.04'), 0.05521576303742327), (Synset('move_over.v.01'), 0.04672693135159977), (Synset('give.v.20'), 0.04490132550669372), (Synset('yield.v.01'), 0.04256282653793742), (Synset('give.v.39'), 0.0413802944301184), (Synset('give.v.09'), 0.03904344047215151), (Synset('give.v.01'), 0.03450327796711771), (Synset('give.v.43'), 0.033864273073929814), (Synset('give.v.07'), 0.031249999999999993), (Synset('give.n.01'), 0.025125945381480302)]
+gives v
+matched
+gives v 2562901
+a DT
+[(Synset('vitamin_a.n.01'), 0.0), (Synset('deoxyadenosine_monophosphate.n.01'), 0.0), (Synset('angstrom.n.01'), 0.0), (Synset('ampere.n.02'), 0.0), (Synset('adenine.n.01'), 0.0), (Synset('a.n.07'), 0.0), (Synset('a.n.06'), 0.0)]
+a None
+good JJ
+[(Synset('good.n.01'), 0.26726124191242434), (Synset('good.a.01'), 0.23303629029917425), (Synset('commodity.n.01'), 0.23179316248638265), (Synset('good.s.09'), 0.21650635094610968), (Synset('full.s.06'), 0.20833333333333334), (Synset('good.s.19'), 0.17149858514250882), (Synset('good.s.06'), 0.1617491598051576), (Synset('good.s.13'), 0.14852213144650112), (Synset('good.s.15'), 0.14744195615489714), (Synset('good.n.03'), 0.14285714285714285), (Synset('good.s.20'), 0.1386750490563073), (Synset('good.s.16'), 0.13363062095621217), (Synset('good.s.21'), 0.12909944487358055), (Synset('dependable.s.04'), 0.12309149097933272), (Synset('good.s.17'), 0.12166606584807188), (Synset('estimable.s.02'), 0.11572751247156893), (Synset('good.n.02'), 0.10022296571715913), (Synset('good.s.07'), 0.09901475429766741), (Synset('dear.s.02'), 0.08451542547285165), (Synset('beneficial.s.01'), 0.07580980435789032), (Synset('good.a.03'), 0.07372097807744857), (Synset('effective.s.04'), 0.07372097807744857), (Synset('good.s.12'), 0.06711560552140243), (Synset('adept.s.01'), 0.05954913341754137), (Synset('good.s.18'), 0.05698028822981897), (Synset('thoroughly.r.02'), 0.044280744277004756), (Synset('well.r.01'), 0.025734250632748937)]
+good a
+matched
+good a 1123148
+performance NN
+[(Synset('performance.n.04'), 0.0), (Synset('performance.n.03'), 0.0), (Synset('performance.n.02'), 0.0), (Synset('performance.n.01'), 0.0), (Synset('operation.n.08'), 0.0)]
+performance n
+matched
+performance n 47106
+in IN
+[(Synset('indium.n.01'), 0.0), (Synset('indiana.n.01'), 0.0), (Synset('inch.n.01'), 0.0), (Synset('in.s.03'), 0.0), (Synset('in.s.02'), 0.0), (Synset('in.s.01'), 0.0), (Synset('in.r.01'), 0.0)]
+in None
+this DT
+None
+this None
+movie NN
+[(Synset('movie.n.01'), 0.0)]
+movie n
+matched
+movie n 6613686
+. .
+None
+. None
+======================================================================
+[(u'nobody', 1.0, u'n', 0.0, 0.0), (u'gives', 1.0, u'v', 0.0, 0.0), (u'a', 1.0, None, 0.0, 0.0), (u'good', 0.25, u'a', 0.75, 0.0), (u'performance', 0.75, u'n', 0.25, 0.0), (u'in', 1.0, None, 0.0, 0.0), (u'this', 1.0, None, 0.0, 0.0), (u'movie', 1.0, u'n', 0.0, 0.0), (u'.', 1.0, None, 0.0, 0.0)]
+======================================================================
+[(u'a', 0.0, 0.0, u'good', 0.75, 0.0), (u'good', 0.75, 0.0, u'performance', 0.25, 0.0)]
+
+
+---------------------------
+1.75 0.0
+======================================================================
+
+paid double what i found at another site outside of amazon/this store - NEVER AGAIN!
+
+paid VBN
+[(Synset('pay.v.11'), 0.1863389981249825), (Synset('pay_up.v.01'), 0.16666666666666666), (Synset('pay.v.08'), 0.16514456476895406), (Synset('pay.v.07'), 0.14907119849998599), (Synset('yield.v.10'), 0.12247448713915889), (Synset('give.v.10'), 0.09589266029707683), (Synset('pay.v.01'), 0.0919795460231938), (Synset('pay.v.09'), 0.0778498944161523), (Synset('pay.v.05'), 0.0770752493308062), (Synset('give.v.05'), 0.06546536707079771), (Synset('gainful.s.01'), 0.05923488777590923), (Synset('pay.v.10'), 0.04564354645876383), (Synset('paid.a.01'), 0.0), (Synset('nonrecreational.s.01'), 0.0)]
+paid v
+matched
+paid v 2253154
+double RB
+[(Synset('duplicate.v.01'), 0.03042903097250923), (Synset('doubly.r.01'), 0.0), (Synset('doubling.n.02'), 0.0), (Synset('double_over.v.01'), 0.0), (Synset('double.v.05'), 0.0), (Synset('double.v.04'), 0.0), (Synset('double.v.02'), 0.0), (Synset('double.v.01'), 0.0), (Synset('double.s.07'), 0.0), (Synset('double.s.06'), 0.0), (Synset('double.s.03'), 0.0), (Synset('double.s.02'), 0.0), (Synset('double.s.01'), 0.0), (Synset('double.r.02'), 0.0), (Synset('double.r.01'), 0.0), (Synset('double.n.04'), 0.0), (Synset('double.n.03'), 0.0), (Synset('double.n.02'), 0.0), (Synset('double.n.01'), 0.0), (Synset('double.a.04'), 0.0), (Synset('bivalent.a.02'), 0.0)]
+double r
+matched
+double r 83393
+what WP
+None
+what None
+i FW
+[(Synset('one.s.01'), 0.0), (Synset('one.n.01'), 0.0), (Synset('iodine.n.01'), 0.0), (Synset('i.n.03'), 0.0)]
+i None
+found VBN
+[(Synset('discover.v.04'), 0.07231015260621872), (Synset('find_oneself.v.01'), 0.07041787902195303), (Synset('rule.v.04'), 0.061721339984836754), (Synset('find.v.01'), 0.06085806194501846), (Synset('determine.v.01'), 0.060485837890913385), (Synset('receive.v.02'), 0.04992205762993178), (Synset('find.v.03'), 0.0486984753557674), (Synset('find.v.15'), 0.03546634510659543), (Synset('detect.v.01'), 0.03397647942917503), (Synset('discover.v.03'), 0.03253000243161777), (Synset('find.v.05'), 0.03214952147802747), (Synset('recover.v.01'), 0.030015011259383207), (Synset('find.v.10'), 0.029235267310234306), (Synset('witness.v.02'), 0.023870495801314427), (Synset('line_up.v.02'), 0.022059419866945276), (Synset('found.n.01'), 0.02115247723234508), (Synset('find.v.13'), 0.02022369785697524), (Synset('found.a.01'), 0.0), (Synset('establish.v.08'), 0.0), (Synset('establish.v.02'), 0.0), (Synset('establish.v.01'), 0.0)]
+found v
+matched
+found v 721437
+at IN
+[(Synset('at.n.02'), 0.0), (Synset('astatine.n.01'), 0.0)]
+at None
+another DT
+[(Synset('another.s.01'), 0.0)]
+another None
+site NN
+[(Synset('site.n.02'), 0.04753826885415283), (Synset('locate.v.03'), 0.04564354645876383), (Synset('site.n.01'), 0.026738063492347797), (Synset('web_site.n.01'), 0.026386693906544405)]
+site n
+matched
+site n 8622950
+outside JJ
+[(Synset('outside.n.01'), 0.031544014893825585), (Synset('outdoor.a.01'), 0.025078493128775955), (Synset('outside.s.09'), 0.0), (Synset('outside.s.08'), 0.0), (Synset('outside.s.06'), 0.0), (Synset('outside.s.05'), 0.0), (Synset('outside.s.03'), 0.0), (Synset('outside.r.02'), 0.0), (Synset('outside.r.01'), 0.0), (Synset('outside.n.02'), 0.0), (Synset('outside.a.01'), 0.0), (Synset('external.s.03'), 0.0), (Synset('external.s.02'), 0.0), (Synset('away.s.03'), 0.0)]
+outside a
+matched
+outside a 1692222
+of IN
+None
+of None
+amazon NN
+[(Synset('amazon.n.01'), 0.034199278402838464), (Synset('amazon.n.04'), 0.031544014893825585), (Synset('amazon.n.03'), 0.02464632131045509), (Synset('amazon.n.02'), 0.009174698042719672)]
+amazon n
+matched
+amazon n 9787293
+/ :
+None
+/ None
+this DT
+None
+this None
+store NN
+[(Synset('store.v.01'), 0.07319250547113998), (Synset('store.v.02'), 0.05773502691896257), (Synset('store.n.02'), 0.04992205762993178), (Synset('storehouse.n.01'), 0.02981423969999719), (Synset('memory.n.04'), 0.016106004229598323), (Synset('shop.n.01'), 0.007416569324833078)]
+store n
+matched
+store n 13367070
+- :
+None
+- None
+never RB
+[(Synset('never.r.01'), 0.14976617288979532), (Synset('never.r.02'), 0.11322770341445958)]
+never r
+matched
+never r 20759
+again RB
+[(Synset('again.r.01'), 0.0)]
+again r
+matched
+again r 40365
+! .
+None
+! None
+======================================================================
+[(u'paid', 1.0, u'v', 0.0, 0.0), (u'double', 1.0, u'r', 0.0, 0.0), (u'what', 1.0, None, 0.0, 0.0), (u'i', 1.0, None, 0.0, 0.0), (u'found', 1.0, u'v', 0.0, 0.0), (u'at', 1.0, None, 0.0, 0.0), (u'another', 1.0, None, 0.0, 0.0), (u'site', 1.0, u'n', 0.0, 0.0), (u'outside', 0.875, u'a', 0.125, 0.0), (u'of', 1.0, None, 0.0, 0.0), (u'amazon', 0.875, u'n', 0.125, 0.0), (u'/', 1.0, None, 0.0, 0.0), (u'this', 1.0, None, 0.0, 0.0), (u'store', 1.0, u'n', 0.0, 0.0), (u'-', 1.0, None, 0.0, 0.0), (u'never', 0.375, u'r', 0.0, 0.625), (u'again', 1.0, u'r', 0.0, 0.0), (u'!', 1.0, None, 0.0, 0.0)]
+======================================================================
+[(u'site', 0.0, 0.0, u'outside', 0.125, 0.0), (u'of', 0.0, 0.0, u'amazon', 0.125, 0.0), (u'-', 0.0, 0.0, u'never', 0.0, 0.625)]
+
+
+---------------------------
+0.25 0.625

@@ -17,11 +17,16 @@ import htmlentitydefs
 import nltk
 import codecs
 from nltk.corpus import wordnet as wn
-import xml.etree.ElementTree as ET 
 #from pywsd.lesk import simple_lesk
+from nltk.tag import StanfordPOSTagger
 from pywsd.lesk import cosine_lesk
-
-
+import xml.etree.ElementTree as ET 
+#from nltk.wsd import lesk
+stopwords=["a","across","am","an","and","any","are","as","at","be","been","being","but","by","can","could","did","do","does","each","for","from","had","has","have","in","into","is","isn't","it","it'd","it'll","it's","its","of","on","or","that","that's","thats","the","there","there's","theres","these","this","those","to","under","until","up","were","will","with","would"]
+intensifiers=["least",-3,"less",-1.5, "barely",-1.5,"hardly",-1.5,"almost",-1.5,"only",-0.5, "little",-0.5, "bit",-0.5, "slightly",-0.5, "marginally",-0.5, "relatively",-0.3, "mildly",-0.3, "moderately",-0.3, "somewhat",-0.3, "partially",-0.3, "sorta",-0.3, "kinda",-0.3, "fairly",-0.2, "pretty",-0.1, "rather",-0.05, "immediately",0.05, "quite",0.1,"perfectly",0.1,"consistently",0.1, "really",0.15,"clearly",0.15,"obviously",0.15,"certainly",0.15,"completely",0.15,"definitely",0.15,"absolutely",0.25,"highly",0.25,"very",0.25,"truly",0.25,"especially",0.25,"particularly",0.25,"significantly",0.25,"noticeably",0.25,"distinctively",0.25,"frequently",0.25,"awfully",0.25,"totally",0.25,"largely",0.25,"fully",0.25,"damn",0.25,"intensively",0.25,"downright",0.25,"entirely",0.3,"strongly",0.3,"remarkably",0.3,"majorly",0.3,"amazingly",0.3,"strikingly",0.3,"stunningly",0.3,"quintessentially",0.3,"unusually",0.3,"dramatically",0.3,"intensely",0.3,"extremely",0.35,"so",0.35,"incredibly",0.35,"terribly",0.35,"hugely",0.35, "immensely",0.35,"such",0.35,"unbelievably",0.4,"insanely",0.4,"outrageously",0.4,"radically",0.4, "exceptionally",0.4,"exceedingly",0.4 ,"way",0.4,"vastly",0.4,"deeply",0.4,"super",0.4,"profoundly",0.4,"universally",0.4,"abundantly",0.4,"infinitely",0.4,"enormously",0.4,"thoroughly",0.4,"passionately",0.4,"tremendously",0.4,"ridiculously",0.4,"obscenely",0.4, "extraordinarily", 0.5,"spectacularly",0.5, "phenomenally",0.5,"monumentally",0.5, "mind-bogglingly",0.5, "utterly",0.5, "more",-0.5, "most",1, "total",0.5,"monumental", 0.5, "great", 0.5,"huge",0.5, "tremendous",0.5, "complete",0.5, "absolute",0.5,"resounding",0.5, "massive", 0.5, "incredible", 0.5, "utter", 0.3, "clear", 0.3, "clearer", 0.2,"clearest", 0.5, "big", 0.3,"bigger",0.2,"biggest",0.5,"obvious",0.3,"serious", 0.3, "deep", 0.3, "deeper", 0.2,"deepest", 0.5,"considerable",0.3,"important",0.3,"extra",0.3,"major",0.3,"crucial",0.3,"high",0.3,"higher",0.2,"highest",0.5,"real",0.2,"true",0.2,"pure", 0.2, "definite", 0.2,"much",0.3,"small", -0.3, "smaller", -0.2,"smallest", -0.5, "minor",-0.3 ,"moderate", -0.3,"mild",-0.3,"slight",-0.5,"slightest", -0.9, "insignificant", -0.5,"inconsequential", -0.5, "low",-2,"lower",-1.5, "lowest", -3, "few",-2, "fewer",-1.5,"fewest",-3,"lot",0.3,"few",-0.3,"lots", 0.3]
+negators=["no","not","never","nowhere","nobody","none","nothing","isn’t","couldn’t","wouldn’t","shouldn’t","ain’t","doesn't","didn't","wasn't"]
+negators=[i.decode('UTF-8') if isinstance(i,basestring) else i for i in negators]
+universal_to_wn_mapper={"VERB":u'v',"NOUN":u'n',"ADJ":u'a',"ADV":u'r'}
 ######################################################################
 # The following strings are components in the regular expression
 # that is used for tokenizing. It's important that phone_number
@@ -114,7 +119,6 @@ class Tokenizer:
         self.preserve_case = preserve_case
         self.db = {}
         self.parse_src_file()
-        print self.db[(u'a', 886448)]
         #for (k,v) in self.db.iteritems():
         #    print (k,v)
 
@@ -195,21 +199,33 @@ class Tokenizer:
         #for i in self.db.iteritems():
            # print i
                                        
-    def disambiguateWordSenses3(self,sentence,word):        #disambiguation with simple_lesk
+    def disambiguateWordSenses3(self,sentence,word,stanfordPOS):        #disambiguation with simple_lesk
         #result=simple_lesk(sentence,word)
-        result=cosine_lesk(sentence,word)
+        #print word,stanfordPOS
+        univ_map=nltk.tag.mapping.map_tag('en-ptb','universal',stanfordPOS.upper())
+        stanfordPOS=universal_to_wn_mapper.get(univ_map,None)
+        result_list=cosine_lesk(sentence,word,nbest=True)         #result is a list of synsets of word
+        #print result_list
+        result = None
+        #print word,stanfordPOS
+        if result_list and stanfordPOS:
+            for ss, score in result_list:
+                pos=ss.pos()
+                if (pos == u's'):
+                    pos = u'a'
+                if pos == stanfordPOS:
+                    result  = ss
+        #            print "matched"
+                    break
         if result:
             pos = result.pos()
             if (pos == u's'):
                 pos = u'a'
-            if pos not in [u"a",u"n",u"v",u"r"]:
-                print pos,word,
-                5/0
             offset = result.offset()
             pos_score=0.0
             neg_score=0.0
             if (pos, offset) in self.db:
-                print word,pos,offset
+         #       print word,pos,offset
                 pos_score, neg_score = self.db[(pos, offset)]
             obj = 1.0-(pos_score+neg_score)
             #print "%%%%%%%%%%"
@@ -222,6 +238,7 @@ class Tokenizer:
         return obj,pos,pos_score,neg_score
         
     def calculate_score2(self,filename):                      #calculates scores with disambiguateWordSenses3
+        st = StanfordPOSTagger("models\\english-bidirectional-distsim.tagger",path_to_jar="stanford-postagger.jar")
         tree_pos = ET.parse(filename)
         score=0.0
         len=0.0
@@ -239,15 +256,19 @@ class Tokenizer:
                     final_neg=0.0
                     lst=[]
                     newlst=[]
+                    brace_flag=0
                     #prev_overall=None
-                    #curr_overall=None
-                    stopwords=["a","across","am","an","and","any","are","as","at","be","been","being","but","by","can","could","did","do","does","each","for","from","had","has","have","in","into","is","isn't","it","it'd","it'll","it's","its","of","on","or","that","that's","thats","the","there","there's","theres","these","this","those","to","under","until","up","were","will","with","would"]
-                    intensifiers=["least",-3,"less",-1.5, "barely",-1.5,"hardly",-1.5,"almost",-1.5,"only",-0.5, "little",-0.5, "bit",-0.5, "slightly",-0.5, "marginally",-0.5, "relatively",-0.3, "mildly",-0.3, "moderately",-0.3, "somewhat",-0.3, "partially",-0.3, "sorta",-0.3, "kinda",-0.3, "fairly",-0.2, "pretty",-0.1, "rather",-0.05, "immediately",0.05, "quite",0.1,"perfectly",0.1,"consistently",0.1, "really",0.15,"clearly",0.15,"obviously",0.15,"certainly",0.15,"completely",0.15,"definitely",0.15,"absolutely",0.25,"highly",0.25,"very",0.25,"truly",0.25,"especially",0.25,"particularly",0.25,"significantly",0.25,"noticeably",0.25,"distinctively",0.25,"frequently",0.25,"awfully",0.25,"totally",0.25,"largely",0.25,"fully",0.25,"damn",0.25,"intensively",0.25,"downright",0.25,"entirely",0.3,"strongly",0.3,"remarkably",0.3,"majorly",0.3,"amazingly",0.3,"strikingly",0.3,"stunningly",0.3,"quintessentially",0.3,"unusually",0.3,"dramatically",0.3,"intensely",0.3,"extremely",0.35,"so",0.35,"incredibly",0.35,"terribly",0.35,"hugely",0.35, "immensely",0.35,"such",0.35,"unbelievably",0.4,"insanely",0.4,"outrageously",0.4,"radically",0.4, "exceptionally",0.4,"exceedingly",0.4 ,"way",0.4,"vastly",0.4,"deeply",0.4,"super",0.4,"profoundly",0.4,"universally",0.4,"abundantly",0.4,"infinitely",0.4,"enormously",0.4,"thoroughly",0.4,"passionately",0.4,"tremendously",0.4,"ridiculously",0.4,"obscenely",0.4, "extraordinarily", 0.5,"spectacularly",0.5, "phenomenally",0.5,"monumentally",0.5, "mind-bogglingly",0.5, "utterly",0.5, "more",-0.5, "most",1, "total",0.5,"monumental", 0.5, "great", 0.5,"huge",0.5, "tremendous",0.5, "complete",0.5, "absolute",0.5,"resounding",0.5, "massive", 0.5, "incredible", 0.5, "utter", 0.3, "clear", 0.3, "clearer", 0.2,"clearest", 0.5, "big", 0.3,"bigger",0.2,"biggest",0.5,"obvious",0.3,"serious", 0.3, "deep", 0.3, "deeper", 0.2,"deepest", 0.5,"considerable",0.3,"important",0.3,"extra",0.3,"major",0.3,"crucial",0.3,"high",0.3,"higher",0.2,"highest",0.5,"real",0.2,"true",0.2,"pure", 0.2, "definite", 0.2,"much",0.3,"small", -0.3, "smaller", -0.2,"smallest", -0.5, "minor",-0.3 ,"moderate", -0.3,"mild",-0.3,"slight",-0.5,"slightest", -0.9, "insignificant", -0.5,"inconsequential", -0.5, "low",-2,"lower",-1.5, "lowest", -3, "few",-2, "fewer",-1.5,"fewest",-3,"lot",0.3,"few",-0.3,"lots", 0.3]
-                    negators=["no","not","never","nowhere","nobody","none","nothing","isn’t","couldn’t","wouldn’t","shouldn’t","ain’t","doesn't","didn't","wasn't"]
-                    negators=[i.decode('UTF-8') if isinstance(i,basestring) else i for i in negators]
+                    #curr_overall=None                   
                     tokenized = tok.tokenize(r1.text)
-                    for s in tokenized:
-                        obj,pos,pos_score,neg_score = tok.disambiguateWordSenses3(r1.text, s)
+                    stanfordPOS_lst=st.tag(tokenized)
+                    for s, stanford_pos in zip(tokenized, stanfordPOS_lst):
+                        if s == '(' or brace_flag == 1:
+                            if s == '(':
+                                brace_flag=1
+                            elif s == ')':
+                                brace_flag=0
+                            continue
+                        obj,pos,pos_score,neg_score = tok.disambiguateWordSenses3(r1.text, s, stanford_pos[1])
                         lst.append((s,obj,pos,pos_score,neg_score))
                     #lst=self.disambiguateWordSenses(r1.text)
                     print "======================================================================"
@@ -316,7 +337,7 @@ class Tokenizer:
                     print "\n"
                     print "---------------------------"
                     print final_pos,final_neg
-                    final_neg = final_neg*1.1
+                    #final_neg = final_neg*1.1
                     if final_pos > final_neg:
                         score +=1.0
         return score,len
@@ -329,8 +350,9 @@ if __name__ == '__main__':
     #   u"HTML entities &amp; other Web oddities can be an &aacute;cute <em class='grumpy'>pain</em> >:(",
     #    u"It's perhaps noteworthy that phone numbers like +1 (800) 123-4567, (800) 123-4567, and 123-4567 are treated as words despite their whitespace."
     #    )
-    final_pos,pos_len=tok.calculate_score2("C:\\Users\\notebook\\Desktop\\Python\\GitFiles\\pos_small_electronics.xml")
-    final_neg,neg_len=tok.calculate_score2("C:\\Users\\notebook\\Desktop\\Python\\GitFiles\\neg_small_electronics.xml")
+    
+    final_pos,pos_len=tok.calculate_score2("C:\\Users\\notebook\\Desktop\\Python\\GitFiles\\pos_small_apparel.xml")
+    final_neg,neg_len=tok.calculate_score2("C:\\Users\\notebook\\Desktop\\Python\\GitFiles\\neg_small_apparel.xml")
     final_neg = neg_len-final_neg
     accuracy = float((final_pos+final_neg)/(pos_len+neg_len))
     print "****************************************************************************"
