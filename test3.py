@@ -366,11 +366,14 @@ if __name__ == '__main__':
     #   u"HTML entities &amp; other Web oddities can be an &aacute;cute <em class='grumpy'>pain</em> >:(",
     #    u"It's perhaps noteworthy that phone numbers like +1 (800) 123-4567, (800) 123-4567, and 123-4567 are treated as words despite their whitespace."
     #    )
-    
-    final_pos,pos_len=tok.calculate_score2("C:\\Users\\notebook\\Desktop\\Python\\GitFiles\\pos_small_software.xml")
-    final_neg,neg_len=tok.calculate_score2("C:\\Users\\notebook\\Desktop\\Python\\GitFiles\\neg_small_software.xml")
+    pos_file = "pos_small_software.xml"
+    neg_file = "neg_small_software.xml"
+    final_pos,pos_len=tok.calculate_score2(pos_file)
+    final_neg,neg_len=tok.calculate_score2(neg_file)
     final_neg = neg_len-final_neg
     accuracy = float((final_pos+final_neg)/(pos_len+neg_len))
+    print "****************************************************************************"
+    print pos_file, neg_file
     print "****************************************************************************"
     print final_pos, pos_len
     print "****************************************************************************"
